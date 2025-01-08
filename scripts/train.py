@@ -1,5 +1,11 @@
 """
-This file runs the main training/val loop
+author: Lyrebird Studio
+date: 2023.1.7
+note: code is heavily borrowed from 
+    https://github.com/NVlabs/ffhq-dataset
+    http://dlib.net/face_landmark_detection.py.html
+
+
 """
 import os
 import json

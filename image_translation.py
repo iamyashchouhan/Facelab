@@ -21,9 +21,9 @@ from utils.inference_utils import save_image, load_image, visualize, get_video_c
 class TestOptions():
     def __init__(self):
 
-        self.parser = argparse.ArgumentParser(description="StyleGANEX Image Translation")
+        
         self.parser.add_argument("--data_path", type=str, default='./data/ILip77SbmOE.png', help="path of the target image")
-        self.parser.add_argument("--ckpt", type=str, default='pretrained_models/styleganex_sr32.pt', help="path of the saved model")
+        self.parser.add_argument("--ckpt", type=str, default='pretrained_models/LABX_sr32.pt', help="path of the saved model")
         self.parser.add_argument("--output_path", type=str, default='./output/', help="path of the output images")
         self.parser.add_argument("--cpu", action="store_true", help="if true, only use cpu")
         self.parser.add_argument("--use_raw_data", action="store_true", help="if true, input image needs no pre-procssing")
@@ -93,7 +93,7 @@ if __name__ == "__main__":
             tmp = PIL.Image.fromarray(np.uint8(frame)).resize((int(y) * args.resize_factor // 4, int(x) * args.resize_factor // 4))
             frame = np.array(tmp)
         paras = get_video_crop_parameter(frame, landmarkpredictor)
-        assert paras is not None, 'StyleGANEX uses dlib.get_frontal_face_detector but sometimes it fails to detect a face. \
+        assert paras is not None, 'LABX uses dlib.get_frontal_face_detector but sometimes it fails to detect a face. \
                                You can try several times or use other videos until a face is detected, \
                                then switch back to the original video.'
         h,w,top,bottom,left,right,scale = paras
@@ -121,7 +121,7 @@ if __name__ == "__main__":
             frame = cv2.imread(image_path)
             frame = cv2.cvtColor(frame, cv2.COLOR_BGR2RGB)
             paras = get_video_crop_parameter(frame, landmarkpredictor)        
-            assert paras is not None, 'StyleGANEX uses dlib.get_frontal_face_detector but sometimes it fails to detect a face. \
+            assert paras is not None, 'LABX uses dlib.get_frontal_face_detector but sometimes it fails to detect a face. \
                                You can try several times or use other videos until a face is detected, \
                                then switch back to the original video.'
             h,w,top,bottom,left,right,scale = paras

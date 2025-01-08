@@ -1,17 +1,11 @@
 """
-brief: face alignment with FFHQ method (https://github.com/NVlabs/ffhq-dataset)
-author: lzhbrian (https://lzhbrian.me)
-date: 2020.1.5
+author: Lyrebird Studio
+date: 2023.1.5
 note: code is heavily borrowed from 
     https://github.com/NVlabs/ffhq-dataset
     http://dlib.net/face_landmark_detection.py.html
 
-requirements:
-    apt install cmake
-    conda install Pillow numpy scipy
-    pip install dlib
-    # download face landmark model from:
-    # http://dlib.net/files/shape_predictor_68_face_landmarks.dat.bz2
+
 """
 from argparse import ArgumentParser
 import time

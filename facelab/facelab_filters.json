@@ -1,0 +1,8127 @@
+[
+{
+"title": {
+"en": "Age",
+"tr": "Yaş",
+"ar": "العمر",
+"de": "Alter",
+"es": "Edad",
+"fil": "Edad",
+"fr": "Âge",
+"hi": "उम्र",
+"id": "Usia",
+"ja": "年齢",
+"ko": "연령",
+"pt": "Idade",
+"ru": "Возраст",
+"th": "อายุ",
+"zh-CN": "年龄",
+"zh-TW": "年齡",
+"he": "גיל"
+},
+"female_icon": "/facelab_v3/female/age/icon.png",
+"category_name": "AGE",
+"gender": [
+"male",
+"female"
+],
+"category_id": "age",
+"filters": [
+{
+"id": "teen_f",
+"name": "Teen",
+"type": "free",
+"gender": [
+"female"
+],
+"variants": [
+"teen_f"
+],
+"translations": {
+"en": "Teen",
+"ar": "في سن المراهقة",
+"zh-CN": "青少年",
+"zh-TW": "青少年",
+"fil": "Teen",
+"fr": "Adolescent",
+"de": "Teenager",
+"he": "נוער",
+"hi": "किशोर",
+"id": "Remaja",
+"ja": "ティーン",
+"ko": "비탄",
+"pt": "Adolescente",
+"ru": "Подросток",
+"es": "Adolescente",
+"th": "วัยรุ่น",
+"tr": "Ergen"
+},
+"female_icon": "/facelab/public/teen_f_female.jpg"
+},
+{
+"id": "teen_m",
+"name": "Teen",
+"type": "free",
+"gender": [
+"male"
+],
+"variants": [
+"teen_m"
+],
+"translations": {
+"en": "Teen",
+"ar": "في سن المراهقة",
+"zh-CN": "青少年",
+"zh-TW": "青少年",
+"fil": "Teen",
+"fr": "Adolescent",
+"de": "Teenager",
+"he": "נוער",
+"hi": "किशोर",
+"id": "Remaja",
+"ja": "ティーン",
+"ko": "비탄",
+"pt": "Adolescente",
+"ru": "Подросток",
+"es": "Adolescente",
+"th": "วัยรุ่น",
+"tr": "Ergen"
+},
+"male_icon": "/facelab/public/teen_m_male.jpg"
+},
+{
+"id": "old_v3_f",
+"name": "Old",
+"type": "free",
+"gender": [
+"female"
+],
+"variants": [
+"old_v3_f"
+],
+"translations": {
+"en": "Old",
+"ar": "مسن",
+"zh-CN": "老人",
+"zh-TW": "年老",
+"fil": "Matanda na",
+"fr": "Vieux",
+"de": "Alt",
+"he": "זקן",
+"hi": "बूढा",
+"id": "Tua",
+"ja": "老人",
+"ko": "늙어보임",
+"pt": "Velho",
+"ru": "Пожилой",
+"es": "Viejo",
+"th": "มีอายุ",
+"tr": "Yaşlı"
+},
+"female_icon": "/facelab/public/old_v3_f_female.jpg"
+},
+{
+"id": "old_v3_m",
+"name": "Old",
+"type": "free",
+"gender": [
+"male"
+],
+"variants": [
+"old_v3_m"
+],
+"translations": {
+"en": "Old",
+"ar": "مسن",
+"zh-CN": "老人",
+"zh-TW": "年老",
+"fil": "Matanda na",
+"fr": "Vieux",
+"de": "Alt",
+"he": "זקן",
+"hi": "बूढा",
+"id": "Tua",
+"ja": "老人",
+"ko": "늙어보임",
+"pt": "Velho",
+"ru": "Пожилой",
+"es": "Viejo",
+"th": "มีอายุ",
+"tr": "Yaşlı"
+},
+"male_icon": "/facelab/public/old_v3_m_male.jpg"
+},
+{
+"id": "babyface_alpha_f",
+"name": "Babyface",
+"type": "pro",
+"gender": [
+"female"
+],
+"variants": [
+"babyface_alpha_f",
+"babyface_beta_f",
+"babyface_gamma_f",
+"babyface_epsilon_f"
+],
+"translations": {
+"en": "Babyface",
+"ar": "بيبي فيس",
+"zh-CN": "娃娃脸",
+"zh-TW": "娃娃臉",
+"fil": "Babyface",
+"fr": "Visage d'enfant",
+"de": "Babygesicht",
+"he": "פרצוף תינוק",
+"hi": "बच्चे का चेहरा",
+"id": "Wajah bayi",
+"ja": "童顔",
+"ko": "아기 얼굴",
+"pt": "Cara de bebê",
+"ru": "Детское лицо",
+"es": "Cara de bebe",
+"th": "หน้าเด็ก",
+"tr": "Bebek yüzlü"
+},
+"selected_index": 1,
+"female_icon": "/facelab/public/babyface_alpha_f_female.jpg"
+},
+{
+"id": "babyface_alpha_m",
+"name": "Babyface",
+"type": "pro",
+"gender": [
+"male"
+],
+"variants": [
+"babyface_alpha_m",
+"babyface_beta_m",
+"babyface_gamma_m",
+"babyface_epsilon_m"
+],
+"translations": {
+"en": "Babyface",
+"ar": "بيبي فيس",
+"zh-CN": "娃娃脸",
+"zh-TW": "娃娃臉",
+"fil": "Babyface",
+"fr": "Visage d'enfant",
+"de": "Babygesicht",
+"he": "פרצוף תינוק",
+"hi": "बच्चे का चेहरा",
+"id": "Wajah bayi",
+"ja": "童顔",
+"ko": "아기 얼굴",
+"pt": "Cara de bebê",
+"ru": "Детское лицо",
+"es": "Cara de bebe",
+"th": "หน้าเด็ก",
+"tr": "Bebek yüzlü"
+},
+"selected_index": 1,
+"male_icon": "/facelab/public/babyface_alpha_m_male.jpg"
+},
+{
+"id": "young_f",
+"name": "Young",
+"type": "pro",
+"gender": [
+"female"
+],
+"variants": [
+"young_f"
+],
+"translations": {
+"en": "Young",
+"ar": "شاب/ة",
+"zh-CN": "年轻",
+"zh-TW": "年輕",
+"fil": "Bata pa",
+"fr": "Jeune",
+"de": "Jung",
+"he": "צעיר",
+"hi": "युवा",
+"id": "Muda",
+"ja": "若い",
+"ko": "젊음",
+"pt": "Novo",
+"ru": "Молодой",
+"es": "Joven",
+"th": "หนุ่มสาว",
+"tr": "Dinç"
+},
+"female_icon": "/facelab/public/young_f_female.jpg"
+},
+{
+"id": "young_m",
+"name": "Young",
+"type": "pro",
+"gender": [
+"male"
+],
+"variants": [
+"young_m"
+],
+"translations": {
+"en": "Young",
+"ar": "شاب/ة",
+"zh-CN": "年轻",
+"zh-TW": "年輕",
+"fil": "Bata pa",
+"fr": "Jeune",
+"de": "Jung",
+"he": "צעיר",
+"hi": "युवा",
+"id": "Muda",
+"ja": "若い",
+"ko": "젊음",
+"pt": "Novo",
+"ru": "Молодой",
+"es": "Joven",
+"th": "หนุ่มสาว",
+"tr": "Dinç"
+},
+"male_icon": "/facelab/public/young_m_male.jpg"
+},
+{
+"id": "teenager",
+"name": "Youth",
+"type": "pro",
+"gender": [
+"male",
+"female"
+],
+"variants": [
+"teenager"
+],
+"translations": {
+"en": "Youth",
+"ar": "شباب",
+"zh-CN": "青年",
+"zh-TW": "青年",
+"fil": "Kabataan",
+"fr": "Jeunesse",
+"de": "Jugend",
+"he": "נוֹעַר",
+"hi": "युवा",
+"id": "Pemuda",
+"ja": "若者",
+"ko": "청년",
+"pt": "Juventude",
+"ru": "Молодость",
+"es": "Juventud",
+"th": "ความเยาว์",
+"tr": "Gençlik"
+},
+"female_icon": "/facelab/public/youth_f_female.jpg",
+"male_icon": "/facelab/public/youth_m_male.jpg"
+},
+{
+"id": "cool_old_v3_m",
+"name": "Cool Old",
+"type": "pro",
+"gender": [
+"male"
+],
+"variants": [
+"cool_old_v3_m"
+],
+"translations": {
+"en": "Cool Old",
+"ar": "مسن-رائع",
+"zh-CN": "潮流老人",
+"zh-TW": "酷老",
+"fil": "Cool-matanda",
+"fr": "Vieux-cool",
+"de": "Cool-alt",
+"he": "מגניב-זקן",
+"hi": "सुंदर बूढा",
+"id": "Tua-keren",
+"ja": "イケてる老人",
+"ko": "멋지게 늙어보임",
+"pt": "Antigo",
+"ru": "Пижон",
+"es": "Viejo Cool",
+"th": "มีอายุแต่ดูดี",
+"tr": "Havalı-Yaşlı"
+},
+"male_icon": "/facelab/public/cool_old_v3_m_male.jpg"
+},
+{
+"id": "cool_old_v3_f",
+"name": "Cool Old",
+"type": "pro",
+"gender": [
+"female"
+],
+"variants": [
+"cool_old_v3_f"
+],
+"translations": {
+"en": "Cool Old",
+"ar": "مسن-رائع",
+"zh-CN": "潮流老人",
+"zh-TW": "酷老",
+"fil": "Cool-matanda",
+"fr": "Vieux-cool",
+"de": "Cool-alt",
+"he": "מגניב-זקן",
+"hi": "सुंदर बूढा",
+"id": "Tua-keren",
+"ja": "イケてる老人",
+"ko": "멋지게 늙어보임",
+"pt": "Antigo",
+"ru": "Пижон",
+"es": "Viejo Cool",
+"th": "มีอายุแต่ดูดี",
+"tr": "Havalı-Yaşlı"
+},
+"female_icon": "/facelab/public/cool_old_v3_f_female.jpg"
+},
+{
+"id": "junior_gamma_m",
+"name": "Junior ",
+"type": "pro",
+"gender": [
+"male"
+],
+"variants": [
+"junior_alpha_m",
+"junior_beta_m",
+"young0",
+"junior_gamma_m"
+],
+"translations": {
+"en": "Junior ",
+"ar": " شاب/ة",
+"zh-CN": "年轻 ",
+"zh-TW": "年輕 ",
+"fil": "Bata pa ",
+"fr": "Jeune ",
+"de": "Jung ",
+"he": " צעיר",
+"hi": "युवा ",
+"id": "Muda ",
+"ja": "若い ",
+"ko": "젊음 ",
+"pt": "Novo ",
+"ru": "Молодой ",
+"es": "Joven ",
+"th": "หนุ่มสาว ",
+"tr": "Çocuk "
+},
+"selected_index": 2,
+"male_icon": "/facelab/public/junior_gamma_m_male.jpg"
+},
+{
+"id": "junior_delta_f",
+"name": "Junior ",
+"type": "pro",
+"gender": [
+"female"
+],
+"variants": [
+"junior_alpha_f",
+"junior_beta_f",
+"young0",
+"junior_delta_f"
+],
+"translations": {
+"en": "Junior ",
+"ar": " شاب/ة",
+"zh-CN": "年轻 ",
+"zh-TW": "年輕 ",
+"fil": "Bata pa ",
+"fr": "Jeune ",
+"de": "Jung ",
+"he": " צעיר",
+"hi": "युवा ",
+"id": "Muda ",
+"ja": "若い ",
+"ko": "젊음 ",
+"pt": "Novo ",
+"ru": "Молодой ",
+"es": "Joven ",
+"th": "หนุ่มสาว ",
+"tr": "Çocuk "
+},
+"selected_index": 2,
+"female_icon": "/facelab/public/junior_delta_f_female.jpg"
+},
+{
+"id": "youth_m",
+"name": "Teenager",
+"type": "pro",
+"gender": [
+"male"
+],
+"variants": [
+"youth_m"
+],
+"translations": {
+"en": "Teenager",
+"ar": "مراهق/ة",
+"zh-CN": "青年",
+"zh-TW": "青少年",
+"fil": "Binatilyo",
+"fr": "Adolescent",
+"de": "Teenager",
+"he": "מתבגר",
+"hi": "किशोर",
+"id": "Remaja",
+"ja": "１０代",
+"ko": "청소년",
+"pt": "Jovem",
+"ru": "Подросток",
+"es": "Adolescente",
+"th": "วัยรุ่น",
+"tr": "Genç"
+},
+"male_icon": "/facelab/public/youth_m_male.jpg"
+},
+{
+"id": "youth_f",
+"name": "Teenager",
+"type": "pro",
+"gender": [
+"female"
+],
+"variants": [
+"youth_f"
+],
+"translations": {
+"en": "Teenager",
+"ar": "مراهق/ة",
+"zh-CN": "青年",
+"zh-TW": "青少年",
+"fil": "Binatilyo",
+"fr": "Adolescent",
+"de": "Teenager",
+"he": "מתבגר",
+"hi": "किशोर",
+"id": "Remaja",
+"ja": "１０代",
+"ko": "청소년",
+"pt": "Jovem",
+"ru": "Подросток",
+"es": "Adolescente",
+"th": "วัยรุ่น",
+"tr": "Genç"
+},
+"female_icon": "/facelab/public/youth_f_female.jpg"
+}
+],
+"male_icon": "/facelab_v3/male/age/icon.png"
+},
+{
+"category_id": "gender",
+"category_name": "Gender",
+"gender": [
+"male",
+"female"
+],
+"filters": [
+{
+"id": "masculine_m",
+"name": "Masculine",
+"type": "free",
+"gender": [
+"male"
+],
+"variants": [
+"masculine_m"
+],
+"translations": {
+"en": "Masculine",
+"ar": "مذكر",
+"zh-CN": "男性",
+"zh-TW": "男性",
+"fil": "Panlalaki",
+"fr": "Masculin",
+"de": "Männlich",
+"he": "גַברִי",
+"hi": "मर्दाना",
+"id": "Maskulin",
+"ja": "男性的な",
+"ko": "남성 명사",
+"pt": "Masculino",
+"ru": "мужской род",
+"es": "Masculino",
+"th": "ผู้ชาย",
+"tr": "Maskülen"
+},
+"male_icon": "/facelab/public/masculine_m_male.jpg"
+},
+{
+"id": "feminine_f",
+"name": "Feminine",
+"type": "free",
+"gender": [
+"female"
+],
+"variants": [
+"feminine_f"
+],
+"translations": {
+"en": "Feminine",
+"ar": "المؤنث",
+"zh-CN": "女人味",
+"zh-TW": "女人味",
+"fil": "Pambabae",
+"fr": "Féminine",
+"de": "Feminin",
+"he": "נָשִׁי",
+"hi": "स्त्री",
+"id": "Wanita",
+"ja": "フェミニン",
+"ko": "여자 같은",
+"pt": "Feminina",
+"ru": "Женский",
+"es": "Femenina",
+"th": "ของผู้หญิง",
+"tr": "Feminen"
+},
+"female_icon": "/facelab/public/feminine_f_female.jpg"
+},
+{
+"id": "female_v2_m",
+"name": "Female",
+"type": "pro",
+"gender": [
+"male"
+],
+"variants": [
+"female_v2_m"
+],
+"translations": {
+"en": "Female",
+"ar": "أنثى",
+"zh-CN": "女士",
+"zh-TW": "女性",
+"fil": "Babae",
+"fr": "Femme",
+"de": "Weiblich",
+"he": "נקבה",
+"hi": "महिला",
+"id": "Perempuan",
+"ja": "女性",
+"ko": "여성",
+"pt": "Feminino",
+"ru": "Женщина",
+"es": "Mujer",
+"th": "หญิง",
+"tr": "Kadın"
+},
+"male_icon": "/facelab/public/female_v2_m_male.jpg"
+},
+{
+"id": "feminine_m",
+"name": "Feminine",
+"type": "pro",
+"gender": [
+"male"
+],
+"variants": [
+"feminine_m"
+],
+"translations": {
+"en": "Feminine",
+"ar": "المؤنث",
+"zh-CN": "女人味",
+"zh-TW": "女人味",
+"fil": "Pambabae",
+"fr": "Féminine",
+"de": "Feminin",
+"he": "נָשִׁי",
+"hi": "स्त्री",
+"id": "Wanita",
+"ja": "フェミニン",
+"ko": "여자 같은",
+"pt": "Feminina",
+"ru": "Женский",
+"es": "Femenina",
+"th": "ของผู้หญิง",
+"tr": "Feminen"
+},
+"male_icon": "/facelab/public/feminine_m_male.jpg"
+},
+{
+"id": "male_fullsize",
+"name": "Male",
+"type": "pro",
+"gender": [
+"female"
+],
+"variants": [
+"male_fullsize"
+],
+"translations": {
+"en": "Male",
+"ar": "ذكر",
+"zh-CN": "男士",
+"zh-TW": "男性",
+"fil": "Lalaki",
+"fr": "Homme",
+"de": "Männlich",
+"he": "זכר",
+"hi": "पुरुष",
+"id": "Pria",
+"ja": "男性",
+"ko": "남성",
+"pt": "Masculino",
+"ru": "Мужчина",
+"es": "Hombre",
+"th": "ชาย",
+"tr": "Erkek"
+},
+"female_icon": "/facelab/public/male_fullsize_f_female.jpg"
+},
+{
+"id": "male_f",
+"name": "Bearded Male",
+"type": "pro",
+"gender": [
+"female"
+],
+"variants": [
+"male_f"
+],
+"translations": {
+"en": "Bearded Male",
+"ar": "2 ذكر",
+"zh-CN": "男士 2",
+"zh-TW": "男性 2",
+"fil": "Lalaki 2",
+"fr": "Homme 2",
+"de": "Männlich 2",
+"he": "2 זכר",
+"hi": "पुरुष 2",
+"id": "Pria 2",
+"ja": "男性 2",
+"ko": "남성 2",
+"pt": "Masculino 2",
+"ru": "Мужчина 2",
+"es": "Hombre 2",
+"th": "ชาย 2",
+"tr": "Sakallı Erkek"
+},
+"female_icon": "/facelab/public/male_f_female.jpg"
+}
+],
+"title": {
+"en": "Gender",
+"ar": "الجنس",
+"zh-CN": "性别",
+"zh-TW": "性別",
+"fil": "Kasarian",
+"fr": "Sexe",
+"de": "Geschlecht",
+"he": "מין",
+"hi": "जेंडर",
+"id": "Gender",
+"ja": "性別",
+"ko": "성별",
+"pt": "Género",
+"ru": "Пол",
+"es": "Género",
+"th": "เพศ",
+"tr": "Cinsiyet"
+},
+"female_icon": "/facelab_v3/female/gender/icon.png",
+"male_icon": "/facelab_v3/male/gender/icon.png"
+},
+{
+"category_id": "impression",
+"category_name": "Beauty",
+"gender": [
+"male",
+"female"
+],
+"filters": [
+{
+"id": "desire_m",
+"name": "Alpha",
+"type": "free",
+"gender": [
+"male"
+],
+"variants": [
+"desire_alpha_m",
+"desire_beta_m",
+"desire_m"
+],
+"translations": {
+"en": "Alpha",
+"ar": "ألفا",
+"zh-CN": "阿尔法",
+"zh-TW": "阿爾法",
+"fil": "Alpha",
+"fr": "Alpha",
+"de": "Alpha",
+"he": "אלפא",
+"hi": "अल्फा",
+"id": "Alfa",
+"ja": "男らしい",
+"ko": "알파",
+"pt": "Alfa",
+"ru": "Альфа",
+"es": "Alfa",
+"th": "อัลฟ่า",
+"tr": "Alfa"
+},
+"selected_index": 1,
+"male_icon": "/facelab/public/desire_m_male.jpg"
+},
+{
+"id": "alpha_f",
+"name": "Desire",
+"type": "free",
+"gender": [
+"female"
+],
+"variants": [
+"alpha_aplha_f",
+"alpha_beta_f",
+"alpha_f"
+],
+"translations": {
+"en": "Desire",
+"ar": "ديزير",
+"zh-CN": "欲望",
+"zh-TW": "慾望",
+"fil": "Pagnanasa",
+"fr": "Desire",
+"de": "Begehren",
+"he": "רצון",
+"hi": "इच्छा",
+"id": "Hasrat",
+"ja": "欲望",
+"ko": "욕구",
+"pt": "Desejo",
+"ru": "Желание",
+"es": "Deseo",
+"th": "ความต้องการ",
+"tr": "Arzu"
+},
+"selected_index": 1,
+"female_icon": "/facelab/public/alpha_f_female.jpg"
+},
+{
+"id": "youthful_alpha_f",
+"name": "Youthful",
+"type": "pro",
+"gender": [
+"female"
+],
+"variants": [
+"youthful_alpha_f",
+"youthful_gamma_f",
+"youthful_delta_f"
+],
+"translations": {
+"en": "Youthful",
+"ar": "يوثفول",
+"zh-CN": "青春的",
+"zh-TW": "青春的",
+"fil": "Kabataan",
+"fr": "Jeunesse",
+"de": "Jugendlich",
+"he": "צעיר",
+"hi": "युवा",
+"id": "Muda",
+"ja": "若々しい",
+"ko": "발랄한",
+"pt": "Jovem",
+"ru": "Юность",
+"es": "Juvenil",
+"th": "อ่อนเยาว์",
+"tr": "Genç"
+},
+"selected_index": 1,
+"female_icon": "/facelab/public/youthful_alpha_f_female.jpg"
+},
+{
+"id": "smooth_f",
+"name": "Sharp",
+"type": "pro",
+"gender": [
+"female"
+],
+"variants": [
+"smooth_f"
+],
+"translations": {
+"en": "Sharp",
+"ar": "حاد",
+"zh-CN": "锋利的",
+"zh-TW": "鋒利的",
+"fil": "Matalas",
+"fr": "Pointu",
+"de": "Scharf",
+"he": "חַד",
+"hi": "तीखा",
+"id": "Tajam",
+"ja": "シャープ",
+"ko": "날카로운",
+"pt": "Afiado",
+"ru": "Острый",
+"es": "Afilado",
+"th": "คม",
+"tr": "Keskin"
+},
+"female_icon": "/facelab/public/smooth_f_female.jpg"
+},
+{
+"id": "youthful_m",
+"name": "Youthful",
+"type": "pro",
+"gender": [
+"male"
+],
+"variants": [
+"youthful_m",
+"youthful_beta_m",
+"youthful_delta_m"
+],
+"translations": {
+"en": "Youthful",
+"ar": "يوثفول",
+"zh-CN": "青春的",
+"zh-TW": "青春的",
+"fil": "Kabataan",
+"fr": "Jeunesse",
+"de": "Jugendlich",
+"he": "צעיר",
+"hi": "युवा",
+"id": "Muda",
+"ja": "若々しい",
+"ko": "발랄한",
+"pt": "Jovem",
+"ru": "Юность",
+"es": "Juvenil",
+"th": "อ่อนเยาว์",
+"tr": "Dinç"
+},
+"selected_index": 1,
+"male_icon": "/facelab/public/youthful_m_male.jpg"
+},
+{
+"id": "fancy_f",
+"name": "Fancy",
+"type": "pro",
+"gender": [
+"female"
+],
+"variants": [
+"fancy_f"
+],
+"translations": {
+"en": "Fancy",
+"ar": "باهِظ",
+"zh-CN": "想要",
+"zh-TW": "想要",
+"fil": "Magarbong",
+"fr": "Fantaisie",
+"de": "Schick",
+"he": "לְחַבֵּב",
+"hi": "कल्पना",
+"id": "Menyukai",
+"ja": "はで",
+"ko": "팬시한",
+"pt": "Chique",
+"ru": "Изысканный",
+"es": "Elegante",
+"th": "ไม่ธรรมดา",
+"tr": "Fantezi"
+},
+"female_icon": "/facelab/public/fancy_f_female.jpg"
+},
+{
+"id": "smooth_m",
+"name": "Sharp",
+"type": "pro",
+"gender": [
+"male"
+],
+"variants": [
+"smooth_m"
+],
+"translations": {
+"en": "Sharp",
+"ar": "حاد",
+"zh-CN": "锋利的",
+"zh-TW": "鋒利的",
+"fil": "Matalas",
+"fr": "Pointu",
+"de": "Scharf",
+"he": "חַד",
+"hi": "तीखा",
+"id": "Tajam",
+"ja": "シャープ",
+"ko": "날카로운",
+"pt": "Afiado",
+"ru": "Острый",
+"es": "Afilado",
+"th": "คม",
+"tr": "Keskin"
+},
+"male_icon": "/facelab/public/smooth_m_male.jpg"
+},
+{
+"id": "allure_f",
+"name": "Allure",
+"type": "pro",
+"gender": [
+"female"
+],
+"variants": [
+"allure_f"
+],
+"translations": {
+"en": "Allure",
+"ar": "إغراء",
+"zh-CN": "引诱",
+"zh-TW": "引誘",
+"fil": "Pang-akit",
+"fr": "Séduire",
+"de": "Locken",
+"he": "קֶסֶם",
+"hi": "फुसलाना",
+"id": "Daya tarik",
+"ja": "アリュール",
+"ko": "매력",
+"pt": "Fascínio",
+"ru": "Очарование",
+"es": "Seducir",
+"th": "จูงใจ",
+"tr": "Cazibe"
+},
+"female_icon": "/facelab/public/allure_f_female.jpg"
+},
+{
+"female_icon": "/facelab/public/celebrity_f_female.jpg",
+"variants": [
+"celebrity-f"
+],
+"type": "pro",
+"gender": [
+"female"
+],
+"name": "Celebrity",
+"id": "celebrity-f",
+"translations": {
+"en": "Celebrity",
+"ar": "نجاح كبير",
+"zh-CN": "名人",
+"zh-TW": "名人",
+"fil": "Celebrity",
+"fr": "Célébrité",
+"de": "Celebrity",
+"hi": "प्रसिद्ध व्यक्ति",
+"id": "Selebriti",
+"ja": "有名人",
+"ko": "유명 인사",
+"pt": "Celebridade",
+"ru": "Знаменитость",
+"es": "Celebridad",
+"th": "คนดัง",
+"tr": "Ünlü",
+"he": "סלבריטאי"
+}
+},
+{
+"id": "fresh_f",
+"name": "Fresh",
+"type": "pro",
+"gender": [
+"female"
+],
+"variants": [
+"fresh_alpha_f",
+"fresh_beta_f",
+"fresh_f"
+],
+"translations": {
+"en": "Fresh",
+"ar": "فريش",
+"zh-CN": "清新的",
+"zh-TW": "清新的",
+"fil": "Sariwa",
+"fr": "Frais",
+"de": "Frisch",
+"he": "רענן",
+"hi": "फ्रेश",
+"id": "Segar",
+"ja": "フレッシュ",
+"ko": "맑은",
+"pt": "Fresco",
+"ru": "Свежесть",
+"es": "Fresco",
+"th": "สดใหม่",
+"tr": "Canlı"
+},
+"selected_index": 1,
+"female_icon": "/facelab/public/fresh_f_female.jpg"
+},
+{
+"variants": [
+"celebrity-m"
+],
+"type": "pro",
+"name": "Celebrity",
+"gender": [
+"male"
+],
+"id": "celebrity-m",
+"male_icon": "/facelab/public/celebrity_m_male.jpg",
+"translations": {
+"en": "Celebrity",
+"ar": "نجاح كبير",
+"zh-CN": "名人",
+"zh-TW": "名人",
+"fil": "Celebrity",
+"fr": "Célébrité",
+"de": "Celebrity",
+"hi": "प्रसिद्ध व्यक्ति",
+"id": "Selebriti",
+"ja": "有名人",
+"ko": "유명 인사",
+"pt": "Celebridade",
+"ru": "Знаменитость",
+"es": "Celebridad",
+"th": "คนดัง",
+"tr": "Ünlü",
+"he": "סלבריטאי"
+}
+},
+{
+"id": "fancy_m",
+"name": "Fancy",
+"type": "pro",
+"gender": [
+"male"
+],
+"variants": [
+"fancy_m"
+],
+"translations": {
+"en": "Fancy",
+"ar": "باهِظ",
+"zh-CN": "想要",
+"zh-TW": "想要",
+"fil": "Magarbong",
+"fr": "Fantaisie",
+"de": "Schick",
+"he": "לְחַבֵּב",
+"hi": "कल्पना",
+"id": "Menyukai",
+"ja": "はで",
+"ko": "팬시한",
+"pt": "Chique",
+"ru": "Изысканный",
+"es": "Elegante",
+"th": "ไม่ธรรมดา",
+"tr": "Fantezi"
+},
+"male_icon": "/facelab/public/fancy_m_male.jpg"
+},
+{
+"id": "allure_m",
+"name": "Allure",
+"type": "pro",
+"gender": [
+"male"
+],
+"variants": [
+"allure_m"
+],
+"translations": {
+"en": "Allure",
+"ar": "إغراء",
+"zh-CN": "引诱",
+"zh-TW": "引誘",
+"fil": "Pang-akit",
+"fr": "Séduire",
+"de": "Locken",
+"he": "קֶסֶם",
+"hi": "फुसलाना",
+"id": "Daya tarik",
+"ja": "アリュール",
+"ko": "매력",
+"pt": "Fascínio",
+"ru": "Очарование",
+"es": "Seducir",
+"th": "จูงใจ",
+"tr": "Cazibe"
+},
+"male_icon": "/facelab/public/allure_m_male.jpg"
+},
+{
+"id": "fresh_m",
+"name": "Fresh ",
+"type": "pro",
+"gender": [
+"male"
+],
+"variants": [
+"fresh_alpha_m",
+"fresh_beta_m",
+"fresh_m"
+],
+"translations": {
+"en": "Fresh ",
+"ar": "فريش",
+"zh-CN": "清新的",
+"zh-TW": "清新的",
+"fil": "Sariwa",
+"fr": "Frais",
+"de": "Frisch",
+"he": "רענן",
+"hi": "फ्रेश",
+"id": "Segar",
+"ja": "フレッシュ",
+"ko": "맑은",
+"pt": "Fresco",
+"ru": "Свежесть",
+"es": "Fresco",
+"th": "สดใหม่",
+"tr": "Canlı"
+},
+"selected_index": 1,
+"male_icon": "/facelab/public/fresh_m_male.jpg"
+},
+{
+"female_icon": "/facelab/public/makeup_hd_f_female.jpg",
+"variants": [
+"makeup_hd"
+],
+"type": "free",
+"gender": [
+"male",
+"female"
+],
+"name": "Makeup",
+"id": "makeup_hd",
+"male_icon": "/facelab/public/makeup_hd_m_male.jpg",
+"translations": {
+"en": "Makeup",
+"ar": "ماكياج الوجه",
+"zh-CN": "美妆",
+"zh-TW": "化妝",
+"fil": "Magkasundo",
+"fr": "Maquillage",
+"de": "Makeup",
+"hi": "मेकअप",
+"id": "Dandan",
+"ja": "メイクアップ",
+"ko": "화장",
+"pt": "Maquiagem",
+"ru": "Макияж",
+"es": "Maquillaje",
+"th": "แต่งหน้า",
+"tr": "Makyaj",
+"he": "איפור"
+}
+},
+{
+"id": "star_m",
+"name": "Star_m",
+"type": "pro",
+"gender": [
+"male"
+],
+"variants": [
+"star_alpha_m",
+"star_beta_m",
+"star_m",
+"star_epsilon_m"
+],
+"translations": {
+"en": "Star",
+"ar": "ستار",
+"zh-CN": "明星",
+"zh-TW": "明星",
+"fil": "Bituin",
+"fr": "Star",
+"de": "Star",
+"he": "כוכב",
+"hi": "सितारा",
+"id": "Bintang",
+"ja": "スター",
+"ko": "스타",
+"pt": "Estrela",
+"ru": "Звезда",
+"es": "Estrella",
+"th": "ดาว",
+"tr": "Yıldız"
+},
+"selected_index": 1,
+"male_icon": "/facelab/public/star_m_male.jpg"
+},
+{
+"id": "star_f",
+"name": "Star_f",
+"type": "pro",
+"gender": [
+"female"
+],
+"variants": [
+"star_alpha_f",
+"star_beta_f",
+"star_f",
+"star_epsilon_f"
+],
+"translations": {
+"en": "Star",
+"ar": "ستار",
+"zh-CN": "明星",
+"zh-TW": "明星",
+"fil": "Bituin",
+"fr": "Star",
+"de": "Star",
+"he": "כוכב",
+"hi": "सितारा",
+"id": "Bintang",
+"ja": "スター",
+"ko": "스타",
+"pt": "Estrela",
+"ru": "Звезда",
+"es": "Estrella",
+"th": "ดาว",
+"tr": "Yıldız"
+},
+"selected_index": 2,
+"female_icon": "/facelab/public/star_f_female.jpg"
+},
+{
+"id": "cool_m",
+"name": "Cool_m",
+"type": "pro",
+"gender": [
+"male"
+],
+"variants": [
+"cool_alpha_m",
+"cool_m",
+"cool_delta_m"
+],
+"translations": {
+"en": "Cool",
+"ar": "كول",
+"zh-CN": "炫酷的",
+"zh-TW": "炫酷的",
+"fil": "Cool",
+"fr": "Cool",
+"de": "Cool",
+"he": "מגניב",
+"hi": "आकर्षक",
+"id": "Keren",
+"ja": "クール",
+"ko": "멋진",
+"pt": "Engraçado",
+"ru": "Крутость",
+"es": "Genial",
+"th": "คูล",
+"tr": "Havalı"
+},
+"selected_index": 2,
+"male_icon": "/facelab/public/cool_m_male.jpg"
+},
+{
+"id": "cool_f",
+"name": "Cool_f",
+"type": "pro",
+"gender": [
+"female"
+],
+"variants": [
+"cool_alpha_f",
+"cool_f",
+"cool_delta_f"
+],
+"translations": {
+"en": "Cool",
+"ar": "كول",
+"zh-CN": "炫酷的",
+"zh-TW": "炫酷的",
+"fil": "Cool",
+"fr": "Cool",
+"de": "Cool",
+"he": "מגניב",
+"hi": "आकर्षक",
+"id": "Keren",
+"ja": "クール",
+"ko": "멋진",
+"pt": "Engraçado",
+"ru": "Крутость",
+"es": "Genial",
+"th": "คูล",
+"tr": "Havalı"
+},
+"selected_index": 2,
+"female_icon": "/facelab/public/cool_f_female.jpg"
+},
+{
+"id": "adorable_m",
+"name": "Adorable_m",
+"type": "pro",
+"gender": [
+"male"
+],
+"variants": [
+"adorable_m"
+],
+"translations": {
+"en": "Adorable",
+"ar": "ادورابل",
+"zh-CN": "可爱的",
+"zh-TW": "可愛的",
+"fil": "Kaibig-ibig",
+"fr": "Adorable",
+"de": "Hinreißend",
+"he": "מהמם",
+"hi": "बहुत प्यारा",
+"id": "Imut",
+"ja": "愛らしい",
+"ko": "귀여운",
+"pt": "Adorável",
+"ru": "Обожание",
+"es": "Adorable",
+"th": "น่ารัก",
+"tr": "Sevimli"
+},
+"male_icon": "/facelab/public/adorable_m_male.jpg"
+},
+{
+"id": "adorable_f",
+"name": "Adorable_f",
+"type": "pro",
+"gender": [
+"female"
+],
+"variants": [
+"adorable_f"
+],
+"translations": {
+"en": "Adorable",
+"ar": "ادورابل",
+"zh-CN": "可爱的",
+"zh-TW": "可愛的",
+"fil": "Kaibig-ibig",
+"fr": "Adorable",
+"de": "Hinreißend",
+"he": "מהמם",
+"hi": "बहुत प्यारा",
+"id": "Imut",
+"ja": "愛らしい",
+"ko": "귀여운",
+"pt": "Adorável",
+"ru": "Обожание",
+"es": "Adorable",
+"th": "น่ารัก",
+"tr": "Sevimli"
+},
+"female_icon": "/facelab/public/adorable_f_female.jpg"
+},
+{
+"id": "dazzle_m",
+"name": "Dazzle",
+"type": "pro",
+"gender": [
+"male"
+],
+"variants": [
+"dazzle_alpha_m",
+"dazzle_beta_m",
+"dazzle_m",
+"dazzle_epsilon_m"
+],
+"translations": {
+"en": "Dazzle",
+"ar": "انبهار",
+"zh-CN": "炫",
+"zh-TW": "炫",
+"fil": "Nakakasilaw",
+"fr": "Éblouir",
+"de": "Blenden",
+"he": "לְסַמֵא",
+"hi": "चकाचौंध",
+"id": "Mempesona",
+"ja": "ダズル",
+"ko": "부시다",
+"pt": "Deslumbrar",
+"ru": "ослеплять",
+"es": "Deslumbrar",
+"th": "ทำให้ตาพร่า",
+"tr": "Göz Kamaştırıcı"
+},
+"selected_index": 2,
+"male_icon": "/facelab/public/dazzle_m_male.jpg"
+},
+{
+"id": "diva_f",
+"name": "Diva",
+"type": "pro",
+"gender": [
+"female"
+],
+"variants": [
+"diva_alpha_f",
+"diva_beta_f",
+"diva_f",
+"diva_epsilon_f"
+],
+"translations": {
+"en": "Diva",
+"ar": "ديفا",
+"zh-CN": "天后",
+"zh-TW": "天后",
+"fil": "Diva",
+"fr": "Diva",
+"de": "Diva",
+"he": "דיווה",
+"hi": "दिवा",
+"id": "Diva",
+"ja": "ディーバ",
+"ko": "디바",
+"pt": "Diva",
+"ru": "Дива",
+"es": "Diva",
+"th": "ดีว่า",
+"tr": "Diva"
+},
+"selected_index": 2,
+"female_icon": "/facelab/public/diva_f_female.jpg"
+},
+{
+"id": "glow_f",
+"name": "Glow_f",
+"type": "pro",
+"gender": [
+"female"
+],
+"variants": [
+"glow_f"
+],
+"translations": {
+"en": "Glow",
+"ar": "جلو",
+"zh-CN": "辉光",
+"zh-TW": "輝光",
+"fil": "Glow",
+"fr": "Brillance",
+"de": "Glühen",
+"he": "זוהר",
+"hi": "चमकदार",
+"id": "Binar",
+"ja": "輝き",
+"ko": "글로우",
+"pt": "Brilho",
+"ru": "Сияние",
+"es": "Resplandor",
+"th": "เปล่งประกาย",
+"tr": "Parıltı"
+},
+"female_icon": "/facelab/public/glow_f_female.jpg"
+},
+{
+"id": "glow_m",
+"name": "Glow_m",
+"type": "pro",
+"gender": [
+"male"
+],
+"variants": [
+"glow_m"
+],
+"translations": {
+"en": "Glow",
+"ar": "جلو",
+"zh-CN": "辉光",
+"zh-TW": "輝光",
+"fil": "Glow",
+"fr": "Brillance",
+"de": "Glühen",
+"he": "זוהר",
+"hi": "चमकदार",
+"id": "Binar",
+"ja": "輝き",
+"ko": "글로우",
+"pt": "Brilho",
+"ru": "Сияние",
+"es": "Resplandor",
+"th": "เปล่งประกาย",
+"tr": "Parıltı"
+},
+"male_icon": "/facelab/public/glow_m_male.jpg"
+},
+{
+"id": "lovely_f",
+"name": "Lovely_f",
+"type": "pro",
+"gender": [
+"female"
+],
+"variants": [
+"lovely_f"
+],
+"translations": {
+"en": "Lovely",
+"ar": "لاقلي",
+"zh-CN": "惹人喜爱的",
+"zh-TW": "惹人喜愛的",
+"fil": "Kaibig-ibig",
+"fr": "Charmant",
+"de": "Lieblich",
+"he": "מקסים",
+"hi": "प्यारा",
+"id": "Indah",
+"ja": "可愛らしい",
+"ko": "사랑스러운",
+"pt": "Amoroso",
+"ru": "Прелесть",
+"es": "Encantador",
+"th": "น่ารัก",
+"tr": "Güzel"
+},
+"female_icon": "/facelab/public/lovely_f_female.jpg"
+},
+{
+"id": "lovely_m",
+"name": "Lovely_m",
+"type": "pro",
+"gender": [
+"male"
+],
+"variants": [
+"lovely_m"
+],
+"translations": {
+"en": "Lovely",
+"ar": "لاقلي",
+"zh-CN": "惹人喜爱的",
+"zh-TW": "惹人喜愛的",
+"fil": "Kaibig-ibig",
+"fr": "Charmant",
+"de": "Lieblich",
+"he": "מקסים",
+"hi": "प्यारा",
+"id": "Indah",
+"ja": "可愛らしい",
+"ko": "사랑스러운",
+"pt": "Amoroso",
+"ru": "Прелесть",
+"es": "Encantador",
+"th": "น่ารัก",
+"tr": "Güzel"
+},
+"male_icon": "/facelab/public/lovely_m_male.jpg"
+}
+],
+"title": {
+"en": "Beauty",
+"ar": "جمال",
+"zh-CN": "美丽",
+"zh-TW": "美麗",
+"fil": "Ganda",
+"fr": "Beauté",
+"de": "Schönheit",
+"he": "יוֹפִי",
+"hi": "सुंदरता",
+"id": "Kecantikan",
+"ja": "美しさ",
+"ko": "아름다움",
+"pt": "Beleza",
+"ru": "Красота",
+"es": "Belleza",
+"th": "ความงาม",
+"tr": "Güzellik"
+},
+"female_icon": "/facelab_v3/female/impression/icon.png",
+"male_icon": "/facelab_v3/male/impression/icon.png",
+"genders": [
+"male",
+"female"
+]
+},
+{
+"title": {
+"en": "Hair",
+"tr": "Saç",
+"ar": "شعر",
+"de": "Haare",
+"es": "Cabello",
+"fil": "Buhok",
+"fr": "Cheveux",
+"hi": "बाल",
+"id": "Rambut",
+"ja": "ヘアスタイル",
+"ko": "헤어스타일",
+"pt": "Cabelo",
+"ru": "Прическа",
+"th": "ทรงผม",
+"zh-CN": "头发",
+"zh-TW": "頭髮",
+"he": "שיער"
+},
+"female_icon": "/facelab_v3/female/hair-style/icon.png",
+"category_name": "HAIR",
+"gender": [
+"male",
+"female"
+],
+"category_id": "hair",
+"filters": [
+{
+"id": "long_m",
+"name": "Long Straight",
+"type": "free",
+"gender": [
+"male"
+],
+"variants": [
+"long_m",
+"sd_v2_long_m"
+],
+"translations": {
+"en": "Long Straight",
+"ar": "طويل مستقيم",
+"zh-CN": "长直",
+"zh-TW": "長直",
+"fil": "Mahabang Tuwid",
+"fr": "Coiffure 4",
+"de": "Lange Gerade",
+"he": "ישר ארוך",
+"hi": "बड़ा सीधा",
+"id": "Panjang Lurus",
+"ja": "長い直線",
+"ko": "긴 직선",
+"pt": "Longo Reto",
+"ru": "прямой",
+"es": "Largo Recto",
+"th": "ตรงยาว",
+"tr": "Düz Uzun"
+},
+"selected_index": 0,
+"male_icon": "/facelab/public/long_m_male.jpg"
+},
+{
+"id": "long_f",
+"name": "Long Hair",
+"type": "free",
+"gender": [
+"female"
+],
+"variants": [
+"long_f",
+"sd_v2_long_f"
+],
+"translations": {
+"en": "Long Hair",
+"ar": "شعر طويل",
+"zh-CN": "长发",
+"zh-TW": "長髮",
+"fil": "Mahabang Buhok",
+"fr": "Coiffure 1",
+"de": "Langhaarig",
+"he": "שיער ארוך",
+"hi": "लंबे बाल",
+"id": "Panjang",
+"ja": "長髪",
+"ko": "긴머리",
+"pt": "Longo",
+"ru": "Шевелюра",
+"es": "Cabello largo",
+"th": "ผมยาว",
+"tr": "Uzun Saç"
+},
+"selected_index": 0,
+"female_icon": "/facelab/public/long_f_female.jpg"
+},
+{
+"id": "long_hair-2-m",
+"name": "Long Hair",
+"type": "pro",
+"gender": [
+"male"
+],
+"variants": [
+"long_hair-2-m",
+"sd_v2_long2_m"
+],
+"translations": {
+"en": "Long Hair",
+"ar": "شعر طويل",
+"zh-CN": "长发",
+"zh-TW": "長髮",
+"fil": "Mahabang Buhok",
+"fr": "Coiffure 1",
+"de": "Langhaarig",
+"he": "שיער ארוך",
+"hi": "लंबे बाल",
+"id": "Panjang",
+"ja": "長髪",
+"ko": "긴머리",
+"pt": "Longo",
+"ru": "Шевелюра",
+"es": "Cabello largo",
+"th": "ผมยาว",
+"tr": "Uzun Saç"
+},
+"selected_index": 0,
+"male_icon": "/facelab/public/long_hair_2_m_male.jpg"
+},
+{
+"id": "bald-m",
+"name": "Bald",
+"type": "pro",
+"gender": [
+"male"
+],
+"variants": [
+"bald-m"
+],
+"translations": {
+"en": "Bald",
+"ar": "أصلع",
+"zh-CN": "秃",
+"zh-TW": "禿",
+"fil": "Kalbo",
+"fr": "Chauve",
+"de": "Kahl",
+"he": "קֵרֵחַ",
+"hi": "गंजा",
+"id": "Botak",
+"ja": "ハゲ",
+"ko": "대머리",
+"pt": "Careca",
+"ru": "Лысый",
+"es": "Calvo",
+"th": "หัวโล้น",
+"tr": "Kellik"
+},
+"male_icon": "/facelab/public/bald_m_male.jpg"
+},
+{
+"id": "curly_delta_f",
+"name": "Curly",
+"type": "pro",
+"gender": [
+"female"
+],
+"variants": [
+"curly_alpha_f",
+"curly_beta_m",
+"curly_delta_f",
+"curly_epsilon_m"
+],
+"translations": {
+"en": "Curly",
+"ar": "مجعد",
+"zh-CN": "卷曲",
+"zh-TW": "捲曲",
+"fil": "Kulot",
+"fr": "Frisé",
+"de": "Lockig",
+"he": "מְתוּלתָל",
+"hi": "घुँघराले",
+"id": "Keriting",
+"ja": "縮れた",
+"ko": "곱슬",
+"pt": "Encaracolado",
+"ru": "Кудрявый",
+"es": "Ondulado",
+"th": "หยิกงอ",
+"tr": "Kıvırcık"
+},
+"selected_index": 2,
+"female_icon": "/facelab/public/curly_delta_f_female.jpg"
+},
+{
+"id": "badboy_m",
+"name": "Bad Boy",
+"type": "pro",
+"male_icon": "/facelab/public/badboy_m_male.jpg",
+"gender": [
+"male"
+],
+"variants": [
+"badboy_m"
+],
+"translations": {
+"en": "Bad Boy",
+"ar": "الولد الشقى",
+"zh-CN": "坏小子",
+"zh-TW": "壞小子",
+"fil": "Masamang lalaki",
+"fr": "Mauvais garçon",
+"de": "Böser Junge",
+"he": "ילד רע",
+"hi": "बुरा लड़का",
+"id": "Bocah badung",
+"ja": "バッドボーイ",
+"ko": "나쁜 소년",
+"pt": "Menino Mau",
+"ru": "Плохой мальчик",
+"es": "Chico Malo",
+"th": "แบดบอย",
+"tr": "Kötü Çocuk"
+}
+},
+{
+"id": "short_f",
+"name": "Short",
+"type": "pro",
+"female_icon": "/facelab/public/short_f_female.jpg",
+"gender": [
+"female"
+],
+"variants": [
+"short_f"
+],
+"translations": {
+"en": "Short",
+"ar": "قصير",
+"zh-CN": "短的",
+"zh-TW": "短的",
+"fil": "Maikli",
+"fr": "Courte",
+"de": "Kurz",
+"he": "קצר",
+"hi": "छोटा",
+"id": "Pendek",
+"ja": "ショート",
+"ko": "짧은",
+"pt": "Curta",
+"ru": "Короткие",
+"es": "Corto",
+"th": "สั้น",
+"tr": "Kısa"
+}
+},
+{
+"id": "bangs_gamma_f",
+"name": "Bangs",
+"type": "pro",
+"gender": [
+"female"
+],
+"variants": [
+"bangs_alpha_f",
+"bangs_gamma_f",
+"sd_v2_bangs_gamma_f"
+],
+"translations": {
+"en": "Bangs ",
+"ar": " الانفجارات",
+"zh-CN": "刘海 ",
+"zh-TW": "劉海 ",
+"fil": "Bangs ",
+"fr": "Bandeau ",
+"de": "Pony ",
+"he": " פּוֹנִי",
+"hi": "बनूंगी ",
+"id": "Poni ",
+"ja": "バングス ",
+"ko": "앞머리 ",
+"pt": "Franja ",
+"ru": "Чёлка ",
+"es": "Golpes ",
+"th": "ผมม้า ",
+"tr": "Kahkül "
+},
+"selected_index": 0,
+"female_icon": "/facelab/public/bangs_gamma_f_female.jpg"
+},
+{
+"id": "straight_f",
+"name": "Straight",
+"type": "pro",
+"female_icon": "/facelab/public/straight_f_female.jpg",
+"gender": [
+"female"
+],
+"variants": [
+"straight_f"
+],
+"translations": {
+"en": "Straight",
+"ar": "مستقيم",
+"zh-CN": "直的",
+"zh-TW": "直的",
+"fil": "Diretso",
+"fr": "Droit",
+"de": "Gerade",
+"he": "יָשָׁר",
+"hi": "सीधा",
+"id": "Lurus",
+"ja": "真っ直ぐ",
+"ko": "똑바로",
+"pt": "Direto",
+"ru": "Прямой",
+"es": "Derecho",
+"th": "ตรง",
+"tr": "Dümdüz"
+}
+},
+{
+"id": "haircut_m",
+"name": "Haircut",
+"type": "pro",
+"gender": [
+"male"
+],
+"variants": [
+"haircut_m"
+],
+"translations": {
+"en": "Haircut",
+"ar": "قصة شعر",
+"zh-CN": "发型",
+"zh-TW": "理髮",
+"fil": "Gupit",
+"fr": "Coiffure 3",
+"de": "Frisur",
+"he": "תספורת",
+"hi": "हेयरकट",
+"id": "Potongan",
+"ja": "ヘアカット",
+"ko": "헤어컷",
+"pt": "Cabelo",
+"ru": "Стрижка",
+"es": "Corte de cabello",
+"th": "ทรงผม",
+"tr": "Saç Kesimi"
+},
+"male_icon": "/facelab/public/haircut_m_male.jpg"
+},
+{
+"id": "bangs_alpha_m",
+"name": "Bangs ",
+"type": "pro",
+"gender": [
+"male"
+],
+"variants": [
+"bangs_alpha_m",
+"sd_v2_bangs_gamma_m"
+],
+"translations": {
+"en": "Bangs ",
+"ar": "الانفجارات",
+"zh-CN": "刘海",
+"zh-TW": "劉海",
+"fil": "Bangs",
+"fr": "Bandeau",
+"de": "Pony",
+"he": "פּוֹנִי",
+"hi": "बनूंगी",
+"id": "Poni",
+"ja": "バングス",
+"ko": "앞머리",
+"pt": "Franja",
+"ru": "Чёлка",
+"es": "Golpes",
+"th": "ผมม้า",
+"tr": "Kahkül"
+},
+"selected_index": 0,
+"male_icon": "/facelab/public/bangs_alpha_m_male.jpg"
+},
+{
+"id": "wavy_m",
+"name": "Wavy",
+"type": "pro",
+"gender": [
+"female"
+],
+"variants": [
+"wavy_m"
+],
+"translations": {
+"en": "Wavy",
+"ar": "تموجي",
+"zh-CN": "波浪状的",
+"zh-TW": "波浪狀的",
+"fil": "Wavy",
+"fr": "Ondulée",
+"de": "Wellig",
+"he": "גַלִי",
+"hi": "लहरदार",
+"id": "Bergelombang",
+"ja": "波状",
+"ko": "떨리는",
+"pt": "Ondulada",
+"ru": "Волнистый",
+"es": "Ondulada",
+"th": "หยัก",
+"tr": "Dalgalı"
+},
+"female_icon": "/facelab/public/wavy_m_female.jpg"
+},
+{
+"id": "volume_epsilon_f",
+"name": "Volume 3",
+"type": "pro",
+"gender": [
+"female"
+],
+"variants": [
+"volume_alpha_f",
+"volume_gamma_f",
+"volume_delta_f",
+"volume_epsilon_f",
+"sd_v2_volume_delta_f"
+],
+"translations": {
+"en": "Volume ",
+"ar": "مقدار ",
+"zh-CN": "体积 ",
+"zh-TW": "體積 ",
+"fil": "Dami ",
+"fr": "Volume ",
+"de": "Volumen ",
+"he": "כרך ",
+"hi": "आयतन ",
+"id": "Volume ",
+"ja": "音量 ",
+"ko": "용량 ",
+"pt": "Volume ",
+"ru": "Объем",
+"es": "Volumen ",
+"th": "ปริมาณ ",
+"tr": "Hacim "
+},
+"selected_index": 1,
+"female_icon": "/facelab/public/volume_epsilon_f_female.jpg"
+},
+{
+"id": "fringe_f",
+"name": "Fringe",
+"type": "pro",
+"female_icon": "/facelab/public/fringe_f_female.jpg",
+"gender": [
+"female"
+],
+"variants": [
+"fringe_f"
+],
+"translations": {
+"en": "Fringe",
+"ar": "هامش",
+"zh-CN": "边缘",
+"zh-TW": "邊緣",
+"fil": "Palawit",
+"fr": "Frange",
+"de": "Fransen",
+"he": "עַיִט",
+"hi": "झब्बे",
+"id": "Pinggir",
+"ja": "フリンジ",
+"ko": "주변",
+"pt": "Franja",
+"ru": "Бахрома",
+"es": "Flequillo",
+"th": "ขอบ",
+"tr": "Saçak"
+}
+},
+{
+"female_icon": "/facelab/public/haircut_f_female.jpg",
+"variants": [
+"haircut-f"
+],
+"type": "pro",
+"gender": [
+"female"
+],
+"name": "Haircut",
+"id": "haircut-f",
+"translations": {
+"en": "Haircut",
+"ar": "قصة شعر",
+"zh-CN": "发型",
+"zh-TW": "理髮",
+"fil": "Gupit",
+"fr": "Coiffure 3",
+"de": "Frisur",
+"hi": "हेयरकट",
+"id": "Potongan",
+"ja": "ヘアカット",
+"ko": "헤어컷",
+"pt": "Cabelo",
+"ru": "Стрижка",
+"es": "Corte de cabello",
+"th": "ทรงผม",
+"tr": "Saç Kesimi",
+"he": "תספורת"
+}
+},
+{
+"id": "forelock_f",
+"name": "Forelock",
+"type": "pro",
+"gender": [
+"female"
+],
+"variants": [
+"forelock_f"
+],
+"translations": {
+"en": "Forelock",
+"ar": "ناصية",
+"zh-CN": "刘海",
+"zh-TW": "劉海",
+"fil": "Forelock",
+"fr": "Mèche",
+"de": "Stirnlocke",
+"he": "בְּלוֹרִית",
+"hi": "माथे की लट",
+"id": "Gombak",
+"ja": "前髪",
+"ko": "앞머리",
+"pt": "Topete",
+"ru": "чуб",
+"es": "Copete",
+"th": "หน้าผาก",
+"tr": "Perçem"
+},
+"female_icon": "/facelab/public/forelock_f_female.jpg"
+}
+],
+"male_icon": "/facelab_v3/male/hair-style/icon.png",
+"genders": [
+"male",
+"female"
+]
+},
+{
+"category_id": "mix",
+"category_name": "Mix",
+"gender": [
+"male",
+"female"
+],
+"female_icon": "/facelab/v3/category-icons/mix_female.png",
+"male_icon": "/facelab/v3/category-icons/mix_male.png",
+"filters": [
+{
+"id": "sunny_m",
+"name": "Sunny",
+"type": "free",
+"gender": [
+"male"
+],
+"variants": [
+"sunny_m"
+],
+"translations": {
+"en": "Sunny",
+"ar": "مشمس",
+"zh-CN": "阳光明媚",
+"zh-TW": "陽光明媚",
+"fil": "Maaraw",
+"fr": "Ensoleillé",
+"de": "Sonnig",
+"he": "שִׁמשִׁי",
+"hi": "धूप वाला",
+"id": "Cerah",
+"ja": "晴れ",
+"ko": "화창한",
+"pt": "Ensolarado",
+"ru": "Солнечно",
+"es": "Soleado",
+"th": "แดดจัด",
+"tr": "Güneşli"
+},
+"male_icon": "/facelab/public/sunny_m_male.jpg"
+},
+{
+"id": "sunny_f",
+"name": "Sunny",
+"type": "free",
+"gender": [
+"female"
+],
+"variants": [
+"sunny_f"
+],
+"translations": {
+"en": "Sunny",
+"ar": "مشمس",
+"zh-CN": "阳光明媚",
+"zh-TW": "陽光明媚",
+"fil": "Maaraw",
+"fr": "Ensoleillé",
+"de": "Sonnig",
+"he": "שִׁמשִׁי",
+"hi": "धूप वाला",
+"id": "Cerah",
+"ja": "晴れ",
+"ko": "화창한",
+"pt": "Ensolarado",
+"ru": "Солнечно",
+"es": "Soleado",
+"th": "แดดจัด",
+"tr": "Güneşli"
+},
+"female_icon": "/facelab/public/sunny_f_female.jpg"
+},
+{
+"id": "raven_f",
+"name": "Raven",
+"type": "pro",
+"gender": [
+"female"
+],
+"variants": [
+"raven_f"
+],
+"translations": {
+"en": "Raven",
+"ar": "غراب أسود",
+"zh-CN": "掠夺",
+"zh-TW": "掠奪",
+"fil": "Raven",
+"fr": "Corbeau",
+"de": "Rabe",
+"he": "עוֹרֵב",
+"hi": "काला कौआ",
+"id": "Gagak",
+"ja": "カラス",
+"ko": "갈가마귀",
+"pt": "Raven",
+"ru": "Ворон",
+"es": "Cuervo",
+"th": "กา",
+"tr": "Kuzgun"
+},
+"female_icon": "/facelab/public/raven_f_female.jpg"
+},
+{
+"id": "gleam_f",
+"name": "Gleam",
+"type": "pro",
+"gender": [
+"female"
+],
+"variants": [
+"gleam_f"
+],
+"translations": {
+"en": "Gleam",
+"ar": "بصيص",
+"zh-CN": "微光",
+"zh-TW": "微光",
+"fil": "Kinang",
+"fr": "Lueur",
+"de": "Glänzen",
+"he": "נִצנוּץ",
+"hi": "प्रकाश की किरण",
+"id": "Bersinar",
+"ja": "光る",
+"ko": "번득임",
+"pt": "Brilhar",
+"ru": "Блеск",
+"es": "Destello",
+"th": "เปล่งประกาย",
+"tr": "Parıltı"
+},
+"female_icon": "/facelab/public/gleam_f_female.jpg"
+},
+{
+"id": "glint_f",
+"name": "Glint",
+"type": "pro",
+"gender": [
+"female"
+],
+"variants": [
+"glint_f"
+],
+"translations": {
+"en": "Glint",
+"ar": "جلينت",
+"zh-CN": "闪烁",
+"zh-TW": "閃爍",
+"fil": "kumikinang",
+"fr": "Reflet",
+"de": "Glitzern",
+"he": "נִצנוּץ",
+"hi": "चमक",
+"id": "Berkilau",
+"ja": "グリント",
+"ko": "반짝임",
+"pt": "Brilho",
+"ru": "Блеск",
+"es": "Destello",
+"th": "แวว",
+"tr": "Işıltı"
+},
+"female_icon": "/facelab/public/glint_f_female.jpg"
+},
+{
+"id": "twinkle_f",
+"name": "Twinkle",
+"type": "pro",
+"gender": [
+"female"
+],
+"variants": [
+"twinkle_f"
+],
+"translations": {
+"en": "Twinkle",
+"ar": "وميض",
+"zh-CN": "闪烁",
+"zh-TW": "閃爍",
+"fil": "Kumikislap",
+"fr": "Scintillement",
+"de": "Funkeln",
+"he": "נִצנוּץ",
+"hi": "टिमटिमाहट",
+"id": "Kelip",
+"ja": "トゥインクル",
+"ko": "경쾌한 움직임",
+"pt": "Cintilação",
+"ru": "Мерцание",
+"es": "Centelleo",
+"th": "กระพริบตา",
+"tr": "Pırıltı"
+},
+"female_icon": "/facelab/public/twinkle_f_female.jpg"
+},
+{
+"id": "shimmer_f",
+"name": "Shimmer",
+"type": "pro",
+"gender": [
+"female"
+],
+"variants": [
+"shimmer_f"
+],
+"translations": {
+"en": "Shimmer",
+"ar": "وميض",
+"zh-CN": "微光",
+"zh-TW": "微光",
+"fil": "Kuminang",
+"fr": "Miroiter",
+"de": "Schimmern",
+"he": "נִצנוּץ",
+"hi": "टिमटिमाना",
+"id": "Berkilau",
+"ja": "シマー",
+"ko": "반짝임",
+"pt": "Cintilar",
+"ru": "Шиммер",
+"es": "Brillar",
+"th": "ระยับ",
+"tr": "Büyü"
+},
+"female_icon": "/facelab/public/shimmer_f_female.jpg"
+},
+{
+"id": "wiseold_f",
+"name": "Wise Old",
+"type": "pro",
+"gender": [
+"female"
+],
+"variants": [
+"wiseold_f"
+],
+"translations": {
+"en": "Wise Old",
+"ar": "العمر الحكيم",
+"zh-CN": "智老",
+"zh-TW": "智老",
+"fil": "Marunong Matanda",
+"fr": "Sage Vieux",
+"de": "Weiser alter",
+"he": "חכם זקן",
+"hi": "बुद्धिमान बूढ़ा",
+"id": "Tua Bijaksana",
+"ja": "ワイズ・オールド",
+"ko": "와이즈 올드",
+"pt": "Velho Sábio",
+"ru": "Мудрый Старый",
+"es": "Viejo Sabio",
+"th": "ฉลาดเก่า",
+"tr": "Bilge Yaşlı"
+},
+"female_icon": "/facelab/public/wiseold_f_female.jpg"
+},
+{
+"id": "sweet_f",
+"name": "Sweet",
+"type": "pro",
+"gender": [
+"female"
+],
+"variants": [
+"sweet_f"
+],
+"translations": {
+"en": "Sweet",
+"ar": "حلو",
+"zh-CN": "甜的",
+"zh-TW": "甜的",
+"fil": "Matamis",
+"fr": "Doux",
+"de": "Süß",
+"he": "מתוק",
+"hi": "मिठाई",
+"id": "Manis",
+"ja": "甘い",
+"ko": "달콤한",
+"pt": "Doce",
+"ru": "Сладкий",
+"es": "Dulce",
+"th": "หวาน",
+"tr": "Tatlı"
+},
+"female_icon": "/facelab/public/sweet_f_female.jpg"
+},
+{
+"id": "charm_f",
+"name": "Charm",
+"type": "pro",
+"gender": [
+"female"
+],
+"variants": [
+"charm_f"
+],
+"translations": {
+"en": "Charm",
+"ar": "سحر",
+"zh-CN": "魅力",
+"zh-TW": "魅力",
+"fil": "Kaakit-akit",
+"fr": "Charme",
+"de": "Charme",
+"he": "קסם",
+"hi": "आकर्षण",
+"id": "Pesona",
+"ja": "魅力",
+"ko": "매력",
+"pt": "Charme",
+"ru": "Очарование",
+"es": "Encanto",
+"th": "เสน่ห์",
+"tr": "Cazibe"
+},
+"female_icon": "/facelab/public/charm_f_female.jpg"
+},
+{
+"id": "glint_m",
+"name": "Glint",
+"type": "pro",
+"gender": [
+"male"
+],
+"variants": [
+"glint_m"
+],
+"translations": {
+"en": "Glint",
+"ar": "جلينت",
+"zh-CN": "闪烁",
+"zh-TW": "閃爍",
+"fil": "kumikinang",
+"fr": "Reflet",
+"de": "Glitzern",
+"he": "נִצנוּץ",
+"hi": "चमक",
+"id": "Berkilau",
+"ja": "グリント",
+"ko": "반짝임",
+"pt": "Brilho",
+"ru": "Блеск",
+"es": "Destello",
+"th": "แวว",
+"tr": "Işıltı"
+},
+"male_icon": "/facelab/public/glint_m_male.jpg"
+},
+{
+"id": "delight_m",
+"name": "Delight",
+"type": "pro",
+"gender": [
+"male"
+],
+"variants": [
+"delight_m"
+],
+"translations": {
+"en": "Delight",
+"ar": "بهجة",
+"zh-CN": "喜",
+"zh-TW": "喜",
+"fil": "Kasiyahan",
+"fr": "Plaisir",
+"de": "Freude",
+"he": "תַעֲנוּג",
+"hi": "आनंद",
+"id": "Sukacita",
+"ja": "喜び",
+"ko": "기쁨",
+"pt": "Prazer",
+"ru": "Восторг",
+"es": "Deleitar",
+"th": "ความสุข",
+"tr": "Zevk"
+},
+"male_icon": "/facelab/public/delight_m_male.jpg"
+},
+{
+"id": "handsome_m",
+"name": "Handsome",
+"type": "pro",
+"gender": [
+"male"
+],
+"variants": [
+"handsome_m"
+],
+"translations": {
+"en": "Handsome",
+"ar": "وسيم",
+"zh-CN": "英俊的",
+"zh-TW": "英俊的",
+"fil": "Gwapo",
+"fr": "Beau",
+"de": "Gutaussehend",
+"he": "יפה תואר",
+"hi": "आकर्षक",
+"id": "Tampan",
+"ja": "ハンサム",
+"ko": "멋있는",
+"pt": "Bonito",
+"ru": "Красивый",
+"es": "Elegante",
+"th": "หล่อ",
+"tr": "Yakışıklı"
+},
+"male_icon": "/facelab/public/handsome_m_male.jpg"
+}
+],
+"title": {
+"en": "Mix",
+"ar": "مزج",
+"zh-CN": "混合",
+"zh-TW": "混合",
+"fil": "Paghaluin",
+"fr": "Mélanger",
+"de": "Mischen",
+"he": "לְעַרְבֵּב",
+"hi": "मिक्स",
+"id": "Mencampur",
+"ja": "ミックス",
+"ko": "혼합",
+"pt": "Misturar",
+"ru": "Смешивание",
+"es": "Mezcla",
+"th": "ผสม",
+"tr": "Karma"
+}
+},
+{
+"category_id": "hairplus",
+"category_name": "Hairplus",
+"gender": [
+"male",
+"female"
+],
+"filters": [
+{
+"id": "sd_inpaint_flowerupdo_hair_f",
+"name": "Frida",
+"type": "pro",
+"female_icon": "/facelab/public/sd_inpaint_flowerupdo_hair_f_female.jpg",
+"gender": [
+"female"
+],
+"variants": [
+"sd_inpaint_flowerupdo_hair_f"
+],
+"translations": {
+"en": "Frida",
+"ar": "فريدا",
+"zh-CN": "弗里达",
+"zh-TW": "弗里達",
+"fil": "Frida",
+"fr": "Frida",
+"de": "Frida",
+"he": "פרידה",
+"hi": "फ्रीडा",
+"id": "Jumat",
+"ja": "フリーダ",
+"ko": "프리다",
+"pt": "Frida",
+"ru": "Фрида",
+"es": "Frida",
+"th": "ฟรีด้า",
+"tr": "Frida"
+},
+"selected_index": null
+},
+{
+"id": "sd_inpaint_curlyshag_hair_f",
+"name": "Curly Shag",
+"type": "pro",
+"female_icon": "/facelab/public/sd_inpaint_curlyshag_hair_f_female.jpg",
+"gender": [
+"female"
+],
+"variants": [
+"sd_inpaint_curlyshag_hair_f"
+],
+"translations": {
+"en": "Curly Shag",
+"ar": "شعر مجعد",
+"zh-CN": "卷毛粗毛",
+"zh-TW": "捲毛粗毛",
+"fil": "Kulot na Shag",
+"fr": "Shag Bouclé",
+"de": "Lockiger Shag",
+"he": "שאג מתולתל",
+"hi": "घुंघराले शग",
+"id": "Bercinta Keriting",
+"ja": "カーリーシャグ",
+"ko": "곱슬머리",
+"pt": "Shag Encaracolado",
+"ru": "Кудрявый шэг",
+"es": "Pelusa Rizada",
+"th": "หยิก Shag",
+"tr": "Kıvırcık Tüylü"
+},
+"selected_index": null
+},
+{
+"id": "sd_inpaint_flip_hair_f",
+"name": "Farrah",
+"type": "pro",
+"female_icon": "/facelab/public/sd_inpaint_flip_hair_f_female.jpg",
+"gender": [
+"female"
+],
+"variants": [
+"sd_inpaint_flip_hair_f"
+],
+"translations": {
+"en": "Farrah",
+"ar": "فرح",
+"zh-CN": "法拉",
+"zh-TW": "法拉",
+"fil": "Farrah",
+"fr": "Farra",
+"de": "Farrah",
+"he": "פארה",
+"hi": "फराह",
+"id": "Farra",
+"ja": "ファラ",
+"ko": "파라",
+"pt": "Farrah",
+"ru": "Фарра",
+"es": "Farrah",
+"th": "ฟาร์ราห์",
+"tr": "Farrah"
+},
+"selected_index": null
+},
+{
+"id": "sd_inpaint_rollupdo_hair_f",
+"name": "Rolls",
+"type": "pro",
+"female_icon": "/facelab/public/sd_inpaint_rollupdo_hair_f_female.jpg",
+"gender": [
+"female"
+],
+"variants": [
+"sd_inpaint_rollupdo_hair_f"
+],
+"translations": {
+"en": "Rolls",
+"ar": "لفات",
+"zh-CN": "劳斯莱斯",
+"zh-TW": "勞斯萊斯",
+"fil": "Mga rolyo",
+"fr": "Rouleaux",
+"de": "Rollen",
+"he": "לחמניות",
+"hi": "रोल्स",
+"id": "Gulungan",
+"ja": "ロールズ",
+"ko": "롤",
+"pt": "Rolos",
+"ru": "Роллы",
+"es": "Rollos",
+"th": "ม้วน",
+"tr": "Rulo"
+},
+"selected_index": null
+},
+{
+"id": "sd_inpaint_hippie_hair_f",
+"name": "Hippie",
+"type": "pro",
+"female_icon": "/facelab/public/sd_inpaint_hippie_hair_f_female.jpg",
+"gender": [
+"female"
+],
+"variants": [
+"sd_inpaint_hippie_hair_f"
+],
+"translations": {
+"en": "Hippie",
+"ar": "الهبي",
+"zh-CN": "嬉皮士",
+"zh-TW": "嬉皮士",
+"fil": "Hippie",
+"fr": "Hippie",
+"de": "Hippie",
+"he": "היפי",
+"hi": "हिप्पी",
+"id": "Hippie",
+"ja": "ヒッピー",
+"ko": "히피",
+"pt": "Hippie",
+"ru": "Хиппи",
+"es": "Hippie",
+"th": "ฮิปปี้",
+"tr": "Hippi"
+},
+"selected_index": null
+},
+{
+"id": "sd_inpaint_blondebombshell_hair_f",
+"name": "Marilyn",
+"type": "pro",
+"female_icon": "/facelab/public/sd_inpaint_blondebombshell_hair_f_female.jpg",
+"gender": [
+"female"
+],
+"variants": [
+"sd_inpaint_blondebombshell_hair_f"
+],
+"translations": {
+"en": "Marilyn",
+"ar": "مارلين",
+"zh-CN": "玛丽莲",
+"zh-TW": "瑪麗蓮",
+"fil": "Marilyn",
+"fr": "Marilyne",
+"de": "Marilyn",
+"he": "מרילין",
+"hi": "मर्लिन",
+"id": "Marilyn",
+"ja": "マリリン",
+"ko": "마릴린",
+"pt": "Marilyn",
+"ru": "Мэрилин",
+"es": "Marilyn",
+"th": "มาริลีน",
+"tr": "Marilyn"
+},
+"selected_index": null
+},
+{
+"id": "sd_inpaint_barbie_hair_f",
+"name": "Doll",
+"type": "pro",
+"gender": [
+"female"
+],
+"variants": [
+"sd_inpaint_barbie_hair_f"
+],
+"translations": {
+"en": "Doll",
+"ar": "لعبة",
+"zh-CN": "玩具娃娃",
+"zh-TW": "玩具娃娃",
+"fil": "Manika",
+"fr": "Poupée",
+"de": "Puppe",
+"he": "בּוּבָּה",
+"hi": "गुड़िया",
+"id": "Boneka",
+"ja": "人形",
+"ko": "인형",
+"pt": "Boneca",
+"ru": "Кукла",
+"es": "Muñeca",
+"th": "ตุ๊กตา",
+"tr": "Oyuncak"
+},
+"female_icon": "/facelab/public/sd_inpaint_barbie_hair_f_female.jpg"
+},
+{
+"id": "sd_inpaint_blondespiky_hair_m",
+"name": "Blonde Spiky",
+"type": "pro",
+"male_icon": "/facelab/public/sd_inpaint_blondespiky_hair_m_male.jpg",
+"gender": [
+"male"
+],
+"variants": [
+"sd_inpaint_blondespiky_hair_m"
+],
+"translations": {
+"en": "Blonde Spiky",
+"ar": "سبايكي شقراء",
+"zh-CN": "金发尖刺",
+"zh-TW": "金發尖刺",
+"fil": "Blonde Spiky",
+"fr": "Blonde Epineuse",
+"de": "Blonder Stachel",
+"he": "בלונדינית ספיקי",
+"hi": "सुनहरे बालों वाली कांटेदार",
+"id": "Runcing Pirang",
+"ja": "ブロンドのスパイキー",
+"ko": "금발 뾰족한",
+"pt": "Loira Espetada",
+"ru": "Блондинка с колючками",
+"es": "Rubia Puntiaguda",
+"th": "สีบลอนด์แหลมคม",
+"tr": "Dikenli Sarışın"
+},
+"selected_index": null
+},
+{
+"id": "sd_inpaint_brownshortwavy_hair_m",
+"name": "Short Wavy",
+"type": "pro",
+"male_icon": "/facelab/public/sd_inpaint_brownshortwavy_hair_m_male.jpg",
+"gender": [
+"male"
+],
+"variants": [
+"sd_inpaint_brownshortwavy_hair_m"
+],
+"translations": {
+"en": "Short Wavy",
+"ar": "قصيرة متموجة",
+"zh-CN": "短波浪形",
+"zh-TW": "短波浪形",
+"fil": "Maikling Wavy",
+"fr": "Court Ondulé",
+"de": "Kurz gewellt",
+"he": "גלי קצר",
+"hi": "लघु लहरदार",
+"id": "Pendek Bergelombang",
+"ja": "ショートウェーブ",
+"ko": "짧은 물결 모양",
+"pt": "Curto Ondulado",
+"ru": "Короткие волнистые",
+"es": "Ondulado Corto",
+"th": "หยักสั้น",
+"tr": "Kısa Dalgalı"
+},
+"selected_index": null
+},
+{
+"id": "sd_inpaint_blondeshortwavy_hair_m",
+"name": "Blonde Short",
+"type": "pro",
+"male_icon": "/facelab/public/sd_inpaint_blondeshortwavy_hair_m_male.jpg",
+"gender": [
+"male"
+],
+"variants": [
+"sd_inpaint_blondeshortwavy_hair_m"
+],
+"translations": {
+"en": "Blonde Short",
+"ar": "شقراء قصيرة",
+"zh-CN": "金发短裤",
+"zh-TW": "金發短褲",
+"fil": "Blonde Short",
+"fr": "Blonde Courte",
+"de": "Blonder Kurzfilm",
+"he": "בלונד שורט",
+"hi": "सुनहरे बालों वाली छोटी",
+"id": "Pirang Pendek",
+"ja": "ブロンドショート",
+"ko": "금발 짧은",
+"pt": "Loira Curta",
+"ru": "Блондинка Короткая",
+"es": "Rubia Corta",
+"th": "สีบลอนด์สั้น",
+"tr": "Kısa Sarışın"
+},
+"selected_index": null
+},
+{
+"id": "sd_inpaint_brownspiky_hair_m",
+"name": "Spiky",
+"type": "pro",
+"gender": [
+"male"
+],
+"variants": [
+"sd_inpaint_brownspiky_hair_m"
+],
+"translations": {
+"en": "Spiky",
+"ar": "شائك",
+"zh-CN": "尖刺",
+"zh-TW": "尖刺",
+"fil": "Matinik",
+"fr": "Épineux",
+"de": "Stachelig",
+"he": "דוֹקְרָנִי",
+"hi": "काँटेदार",
+"id": "Runcing",
+"ja": "スパイキー",
+"ko": "대못 같은",
+"pt": "Espetado",
+"ru": "Колючий",
+"es": "Puntiagudo",
+"th": "แหลมคม",
+"tr": "Spiky"
+},
+"male_icon": "/facelab/public/sd_inpaint_brownspiky_hair_m_male.jpg"
+},
+{
+"id": "sd_inpaint_brownpompadour_hair_m",
+"name": "Pompadour",
+"type": "pro",
+"male_icon": "/facelab/public/sd_inpaint_brownpompadour_hair_m_male.jpg",
+"gender": [
+"male"
+],
+"variants": [
+"sd_inpaint_brownpompadour_hair_m"
+],
+"translations": {
+"en": "Quiff",
+"ar": "خصلة",
+"zh-CN": "髦",
+"zh-TW": "髦",
+"fil": "Quiff",
+"fr": "Banane",
+"de": "Tolle",
+"he": "בְּלוֹרִית",
+"hi": "क्विफ",
+"id": "Quiff",
+"ja": "クイフ",
+"ko": "퀴프",
+"pt": "Topete",
+"ru": "Квифф",
+"es": "Copete",
+"th": "ควิฟ",
+"tr": "Rulo"
+},
+"selected_index": null
+},
+{
+"id": "sd_inpaint_blondepompadour_hair_m",
+"name": "Blonde Pompadour",
+"type": "pro",
+"gender": [
+"male"
+],
+"variants": [
+"sd_inpaint_blondepompadour_hair_m"
+],
+"translations": {
+"en": "Blonde Quiff",
+"ar": "خصلة شقراء",
+"zh-CN": "金发女郎",
+"zh-TW": "金發女郎",
+"fil": "Blonde Quiff",
+"fr": "Bouffe Blonde",
+"de": "Blonde Tolle",
+"he": "בלונדינית",
+"hi": "सुनहरे बालों वाली क्विफ",
+"id": "Quiff Pirang",
+"ja": "ブロンドのクイフ",
+"ko": "금발 퀴프",
+"pt": "Topete Loiro",
+"ru": "Блондинка с причёской",
+"es": "Quiff Rubio",
+"th": "ควิฟสีบลอนด์",
+"tr": "Sarışın Rulo"
+},
+"male_icon": "/facelab/public/sd_inpaint_blondepompadour_hair_m_male.jpg"
+},
+{
+"id": "sd_inpaint_layercut_hair_f",
+"name": "Rachel",
+"type": "pro",
+"gender": [
+"female"
+],
+"variants": [
+"sd_inpaint_layercut_hair_f"
+],
+"translations": {
+"en": "Rachel",
+"ar": "راشيل",
+"zh-CN": "雷切尔",
+"zh-TW": "雷切爾",
+"fil": "Rachel",
+"fr": "Rachel",
+"de": "Rachel",
+"he": "רייצ'ל",
+"hi": "राहेल",
+"id": "Rakhel",
+"ja": "レイチェル",
+"ko": "레이첼",
+"pt": "Rachel",
+"ru": "Рэйчел",
+"es": "Raquel",
+"th": "ราเชล",
+"tr": "Rachel"
+},
+"female_icon": "/facelab/public/sd_inpaint_layercut_hair_f_female.jpg"
+},
+{
+"id": "sd_inpaint_messybun_hair_f",
+"name": "Messy Bun",
+"type": "pro",
+"gender": [
+"female"
+],
+"variants": [
+"sd_inpaint_messybun_hair_f"
+],
+"translations": {
+"en": "Messy Bun",
+"ar": "كعكة فوضوية",
+"zh-CN": "凌乱的发髻",
+"zh-TW": "凌亂的髮髻",
+"fil": "Messy Bun",
+"fr": "Chignon Décoiffé",
+"de": "Unordentliches Brötchen",
+"he": "לחמניה מבולגנת",
+"hi": "गंदी रोटी",
+"id": "Roti Berantakan",
+"ja": "メッシーバン",
+"ko": "지저분한 번",
+"pt": "Pão Bagunçado",
+"ru": "Грязная булочка",
+"es": "Moño Despeinado",
+"th": "ขนมปังยุ่ง",
+"tr": "Dağınık Topuz"
+},
+"female_icon": "/facelab/public/sd_inpaint_messybun_hair_f_female.jpg"
+},
+{
+"id": "sd_inpaint_blondepixie_hair_f",
+"name": "Blonde Pixie",
+"type": "pro",
+"female_icon": "/facelab/public/sd_inpaint_blondepixie_hair_f_female.jpg",
+"gender": [
+"female"
+],
+"variants": [
+"sd_inpaint_blondepixie_hair_f"
+],
+"translations": {
+"en": "Blonde Pixie",
+"ar": "الجني الشقراء",
+"zh-CN": "金发小精灵",
+"zh-TW": "金發小精靈",
+"fil": "Blonde Pixie",
+"fr": "Pixie Blonde",
+"de": "Blonder Elf",
+"he": "פיקסי בלונדינית",
+"hi": "सुनहरे बालों वाली पिक्सी",
+"id": "Pixie Pirang",
+"ja": "ブロンドのピクシー",
+"ko": "금발 요정",
+"pt": "Duende Loira",
+"ru": "Блондинка Пикси",
+"es": "Duendecillo Rubio",
+"th": "พิกซี่สีบลอนด์",
+"tr": "Sarışın Peri"
+},
+"selected_index": null
+},
+{
+"id": "sd_inpaint_brownpixie_hair_f",
+"name": "Pixie",
+"type": "pro",
+"female_icon": "/facelab/public/sd_inpaint_brownpixie_hair_f_female.jpg",
+"gender": [
+"female"
+],
+"variants": [
+"sd_inpaint_brownpixie_hair_f"
+],
+"translations": {
+"en": "Pixie",
+"ar": "عابث",
+"zh-CN": "精灵",
+"zh-TW": "精靈",
+"fil": "Pixie",
+"fr": "Lutin",
+"de": "Elf",
+"he": "פֵיָה",
+"hi": "परी",
+"id": "Pixie ",
+"ja": "ピクシー",
+"ko": "픽시",
+"pt": "Duende",
+"ru": "Пикси",
+"es": "Duendecito",
+"th": "พิกซี่",
+"tr": "Peri"
+},
+"selected_index": null
+},
+{
+"id": "sd_inpaint_brownlongstraight_hair_f",
+"name": "Straight",
+"type": "pro",
+"female_icon": "/facelab/public/sd_inpaint_brownlongstraight_hair_f_female.jpg",
+"gender": [
+"female"
+],
+"variants": [
+"sd_inpaint_brownlongstraight_hair_f"
+],
+"translations": {
+"en": "Straight",
+"ar": "مستقيم",
+"zh-CN": "直的",
+"zh-TW": "直的",
+"fil": "Diretso",
+"fr": "Droite",
+"de": "Gerade",
+"he": "יָשָׁר",
+"hi": "सीधा",
+"id": "Lurus",
+"ja": "真っ直ぐ",
+"ko": "똑바로",
+"pt": "Direto",
+"ru": "Прямой",
+"es": "Derecho",
+"th": "ตรง",
+"tr": "Düz"
+},
+"selected_index": null
+},
+{
+"id": "sd_inpaint_brownwavy_hair_f",
+"name": "Wavy",
+"type": "pro",
+"female_icon": "/facelab/public/sd_inpaint_brownwavy_hair_f_female.jpg",
+"gender": [
+"female"
+],
+"variants": [
+"sd_inpaint_brownwavy_hair_f"
+],
+"translations": {
+"en": "Wavy",
+"ar": "تموجي",
+"zh-CN": "波浪状的",
+"zh-TW": "波浪狀的",
+"fil": "Wavy",
+"fr": "Ondulé",
+"de": "Wellig",
+"he": "גַלִי",
+"hi": "लहरदार",
+"id": "Bergelombang",
+"ja": "波状",
+"ko": "떨리는",
+"pt": "Ondulado",
+"ru": "Волнистый",
+"es": "Ondas",
+"th": "หยัก",
+"tr": "Dalgalı"
+},
+"selected_index": null
+},
+{
+"id": "sd_inpaint_combover_hair_m",
+"name": "Combed",
+"type": "pro",
+"gender": [
+"male"
+],
+"variants": [
+"sd_inpaint_combover_hair_m"
+],
+"translations": {
+"en": "Combed",
+"ar": "ممشط",
+"zh-CN": "精梳",
+"zh-TW": "精梳",
+"fil": "Nagsuklay",
+"fr": "Peigné",
+"de": "Gekämmt",
+"he": "מְסוּרָק",
+"hi": "कंघी",
+"id": "Disisir",
+"ja": "コーミング",
+"ko": "빗질",
+"pt": "Penteado",
+"ru": "Расчесанный",
+"es": "Cardado",
+"th": "หวี",
+"tr": "Taranmış"
+},
+"male_icon": "/facelab/public/sd_inpaint_combover_hair_m_male_1.jpg"
+},
+{
+"id": "sd_inpaint_long_hair_m",
+"name": "Flowy",
+"type": "pro",
+"gender": [
+"male"
+],
+"variants": [
+"sd_inpaint_long_hair_m"
+],
+"translations": {
+"en": "Flowy",
+"ar": "انسيابي",
+"zh-CN": "流动的",
+"zh-TW": "流動的",
+"fil": "Flowy",
+"fr": "Fluide",
+"de": "Fließend",
+"he": "זורם",
+"hi": "बहता हुआ",
+"id": "Mengalir",
+"ja": "ふわっと",
+"ko": "플로위",
+"pt": "Fluido",
+"ru": "струящийся",
+"es": "Fluido",
+"th": "ไหล",
+"tr": "Uzun Dalgalı"
+},
+"male_icon": "/facelab/public/sd_inpaint_long_hair_m_male_1.jpg"
+},
+{
+"id": "sd_inpaint_wavy_hair_m",
+"name": "Wavy",
+"type": "pro",
+"gender": [
+"male"
+],
+"variants": [
+"sd_inpaint_wavy_hair_m"
+],
+"translations": {
+"en": "Wavy",
+"ar": "تموجي",
+"zh-CN": "波浪状的",
+"zh-TW": "波浪狀的",
+"fil": "Wavy",
+"fr": "Ondulé",
+"de": "Wellig",
+"he": "גַלִי",
+"hi": "लहरदार",
+"id": "Bergelombang",
+"ja": "波状",
+"ko": "떨리는",
+"pt": "Ondulado",
+"ru": "Волнистый",
+"es": "Ondas",
+"th": "หยัก",
+"tr": "Dalgalı"
+},
+"male_icon": "/facelab/public/sd_inpaint_wavy_hair_m_male_1.jpg"
+},
+{
+"id": "sd_inpaint_bald_hair_m",
+"name": "Baldy",
+"type": "pro",
+"male_icon": "/facelab/public/sd_inpaint_bald_hair_m_male_1.jpg",
+"gender": [
+"male"
+],
+"variants": [
+"sd_inpaint_bald_hair_m"
+],
+"translations": {
+"en": "Baldy",
+"ar": "اصلع",
+"zh-CN": "光头",
+"zh-TW": "光頭",
+"fil": "Kalbo",
+"fr": "Chauve",
+"de": "Glatzkopf",
+"he": "באלדי",
+"hi": "बाल्दी",
+"id": "Botak",
+"ja": "バルディ",
+"ko": "발디",
+"pt": "Careca",
+"ru": "Лысый",
+"es": "Calvo",
+"th": "หัวล้าน",
+"tr": "Kel"
+}
+},
+{
+"id": "sd_inpaint_fadecut_hair_m",
+"name": "Blue",
+"type": "pro",
+"male_icon": "/facelab/public/sd_inpaint_fadecut_hair_m_male_1.jpg",
+"gender": [
+"male"
+],
+"variants": [
+"sd_inpaint_fadecut_hair_m"
+],
+"translations": {
+"en": "Blue",
+"ar": "أزرق",
+"zh-CN": "蓝色的",
+"zh-TW": "藍色的",
+"fil": "Asul",
+"fr": "Bleu",
+"de": "Blau",
+"he": "כְּחוֹל",
+"hi": "नीला",
+"id": "Biru",
+"ja": "青",
+"ko": "파란색",
+"pt": "Azul",
+"ru": "Синий",
+"es": "Azul",
+"th": "สีฟ้า",
+"tr": "Mavi"
+}
+},
+{
+"id": "sd_inpaint_pompadour_hair_m",
+"name": "Pink",
+"type": "pro",
+"male_icon": "/facelab/public/sd_inpaint_pompadour_hair_m_male_1.jpg",
+"gender": [
+"male"
+],
+"variants": [
+"sd_inpaint_pompadour_hair_m"
+],
+"translations": {
+"en": "Pink",
+"ar": "لون القرنفل",
+"zh-CN": "粉色的",
+"zh-TW": "粉色的",
+"fil": "Pink",
+"fr": "Rose",
+"de": "Rosa",
+"he": "וָרוֹד",
+"hi": "गुलाबी",
+"id": "Merah Jambu",
+"ja": "ピンク",
+"ko": "분홍색",
+"pt": "Rosa",
+"ru": "Розовый",
+"es": "Rosa",
+"th": "สีชมพู",
+"tr": "Pembe"
+}
+},
+{
+"id": "sd_inpaint_crewcut_hair_m",
+"name": "Soldier",
+"type": "pro",
+"male_icon": "/facelab/public/sd_inpaint_crewcut_hair_m_male_1.jpg",
+"gender": [
+"male"
+],
+"variants": [
+"sd_inpaint_crewcut_hair_m"
+],
+"translations": {
+"en": "Soldier",
+"ar": "جندي",
+"zh-CN": "士兵",
+"zh-TW": "士兵",
+"fil": "kawal",
+"fr": "Soldat",
+"de": "Soldat",
+"he": "לוֹחֶם",
+"hi": "सैनिक",
+"id": "Tentara",
+"ja": "兵隊",
+"ko": "군인",
+"pt": "Soldado",
+"ru": "Солдат",
+"es": "Soldado",
+"th": "ทหาร",
+"tr": "Asker"
+}
+},
+{
+"id": "sd_inpaint_bowlcut_hair_m",
+"name": "Bowl Cut",
+"type": "pro",
+"male_icon": "/facelab/public/sd_inpaint_bowlcut_hair_m_male.jpg",
+"gender": [
+"male"
+],
+"variants": [
+"sd_inpaint_bowlcut_hair_m"
+],
+"translations": {
+"en": "Bowl Cut",
+"ar": "قصة وعاء",
+"zh-CN": "蘑菇头",
+"zh-TW": "蘑菇頭",
+"fil": "Bowl na gupit",
+"fr": "Coupe au bol",
+"de": "Topfschnitt",
+"he": "פטרייה",
+"hi": "कटोरा",
+"id": "Potongan mangkuk",
+"ja": "ボウルカット",
+"ko": "그릇머리",
+"pt": "Corte de tigela",
+"ru": "Горшок",
+"es": "Corte de tazón",
+"th": "ทรงกะลาครอบ",
+"tr": "Kase"
+},
+"selected_index": null
+},
+{
+"id": "sd_inpaint_spiky_hair_m",
+"name": "Flame",
+"type": "pro",
+"male_icon": "/facelab/public/sd_inpaint_spiky_hair_m_male_1.jpg",
+"gender": [
+"male"
+],
+"variants": [
+"sd_inpaint_spiky_hair_m"
+],
+"translations": {
+"en": "Flame",
+"ar": "لهب",
+"zh-CN": "火焰",
+"zh-TW": "火焰",
+"fil": "Apoy",
+"fr": "Flamme",
+"de": "Flamme",
+"he": "לֶהָבָה",
+"hi": "ज्योति",
+"id": "Api",
+"ja": "火炎",
+"ko": "불꽃",
+"pt": "Chama",
+"ru": "Пламя",
+"es": "Fuego",
+"th": "เปลวไฟ",
+"tr": "Alevli"
+}
+},
+{
+"id": "sd_inpaint_buzz_hair_m",
+"name": "Green",
+"type": "pro",
+"male_icon": "/facelab/public/sd_inpaint_buzz_hair_m_male_1.jpg",
+"gender": [
+"male"
+],
+"variants": [
+"sd_inpaint_buzz_hair_m"
+],
+"translations": {
+"en": "Green",
+"ar": "أخضر",
+"zh-CN": "绿色的",
+"zh-TW": "綠色的",
+"fil": "Berde",
+"fr": "Vert",
+"de": "Grün",
+"he": "ירוק",
+"hi": "हरा",
+"id": "Hijau",
+"ja": "緑",
+"ko": "녹색",
+"pt": "Verde",
+"ru": "Зеленый",
+"es": "Verde",
+"th": "สีเขียว",
+"tr": "Yeşil"
+}
+},
+{
+"id": "sd_inpaint_longstraight_hair_m",
+"name": "Golden",
+"type": "pro",
+"male_icon": "/facelab/public/sd_inpaint_longstraight_hair_m_male_1.jpg",
+"gender": [
+"male"
+],
+"variants": [
+"sd_inpaint_longstraight_hair_m"
+],
+"translations": {
+"en": "Golden",
+"ar": "ذهبي",
+"zh-CN": "金的",
+"zh-TW": "金的",
+"fil": "Ginto",
+"fr": "Doré",
+"de": "Golden",
+"he": "זָהוּב",
+"hi": "स्वर्ण",
+"id": "Keemasan",
+"ja": "ゴールデン",
+"ko": "골든",
+"pt": "Dourado",
+"ru": "Золотой",
+"es": "Dorado",
+"th": "ทอง",
+"tr": "Altın"
+}
+},
+{
+"id": "sd_inpaint_curly_hair_m",
+"name": "Curly",
+"type": "pro",
+"male_icon": "/facelab/public/sd_inpaint_curly_hair_m_male_1.jpg",
+"gender": [
+"male"
+],
+"variants": [
+"sd_inpaint_curly_hair_m"
+],
+"translations": {
+"en": "Curly",
+"ar": "مجعد",
+"zh-CN": "卷曲",
+"zh-TW": "捲曲",
+"fil": "Kulot",
+"fr": "Frisé",
+"de": "Lockig",
+"he": "מְתוּלתָל",
+"hi": "घुँघराले",
+"id": "Keriting",
+"ja": "縮れた",
+"ko": "곱슬",
+"pt": "Encaracolado",
+"ru": "Кудрявый",
+"es": "Ondulado",
+"th": "หยิกงอ",
+"tr": "Kıvırcık"
+}
+},
+{
+"id": "sd_inpaint_afro_hair_m",
+"name": "Afro",
+"type": "pro",
+"male_icon": "/facelab/public/sd_inpaint_afro_hair_m_male_1.jpg",
+"gender": [
+"male"
+],
+"variants": [
+"sd_inpaint_afro_hair_m"
+],
+"translations": {
+"en": "Afro",
+"ar": "الأفرو",
+"zh-CN": "爆炸头",
+"zh-TW": "爆炸頭",
+"fil": "Afro",
+"fr": "Afro",
+"de": "Afro",
+"he": "אפרו",
+"hi": "अफ्रीकी",
+"id": "Afro",
+"ja": "アフロ",
+"ko": "아프로",
+"pt": "Afro",
+"ru": "Афро",
+"es": "Afro",
+"th": "แอฟโฟร",
+"tr": "Afro"
+}
+},
+{
+"id": "sd_inpaint_dreadlocks_hair_m",
+"name": "Rasta",
+"type": "pro",
+"male_icon": "/facelab/public/sd_inpaint_dreadlocks_hair_m_male_1.jpg",
+"gender": [
+"male"
+],
+"variants": [
+"sd_inpaint_dreadlocks_hair_m"
+],
+"translations": {
+"en": "Rasta",
+"ar": "الراستا",
+"zh-CN": "拉斯塔",
+"zh-TW": "拉斯塔",
+"fil": "Rasta",
+"fr": "Rasta",
+"de": "Rasta",
+"he": "ראסטה",
+"hi": "रास्ता",
+"id": "Rasta",
+"ja": "ラスタ",
+"ko": "라스타",
+"pt": "Rasta",
+"ru": "Раста",
+"es": "Rasta",
+"th": "ราสต้า",
+"tr": "Rasta"
+}
+},
+{
+"id": "sd_inpaint_manbun_hair_m",
+"name": "Samurai",
+"type": "pro",
+"male_icon": "/facelab/public/sd_inpaint_manbun_hair_m_male_1.jpg",
+"gender": [
+"male"
+],
+"variants": [
+"sd_inpaint_manbun_hair_m"
+],
+"translations": {
+"en": "Samurai",
+"ar": "الساموراي",
+"zh-CN": "武士",
+"zh-TW": "武士",
+"fil": "Samurai",
+"fr": "Samouraï",
+"de": "Samurai",
+"he": "סמוראי",
+"hi": "समुराई",
+"id": "Samurai",
+"ja": "武士",
+"ko": "사무라이",
+"pt": "Samurai",
+"ru": "самурай",
+"es": "Samurai",
+"th": "ซามูไร",
+"tr": "Üst Düğüm"
+}
+},
+{
+"id": "sd_inpaint_slick_hair_m",
+"name": "Glossy",
+"type": "pro",
+"male_icon": "/facelab/public/sd_inpaint_slick_hair_m_male_1.jpg",
+"gender": [
+"male"
+],
+"variants": [
+"sd_inpaint_slick_hair_m"
+],
+"translations": {
+"en": "Glossy",
+"ar": "لامع",
+"zh-CN": "光滑",
+"zh-TW": "光滑",
+"fil": "Makintab",
+"fr": "Brillant",
+"de": "Glänzend",
+"he": "מבריק",
+"hi": "चमकदार",
+"id": "Mengkilap",
+"ja": "光沢のある",
+"ko": "광택",
+"pt": "Lustroso",
+"ru": "Глянцевый",
+"es": "Lustroso",
+"th": "มันวาว",
+"tr": "Parlak"
+}
+},
+{
+"id": "sd_inpaint_sweep_hair_m",
+"name": "Sweep",
+"type": "pro",
+"male_icon": "/facelab/public/sd_inpaint_sweep_hair_m_male_1.jpg",
+"gender": [
+"male"
+],
+"variants": [
+"sd_inpaint_sweep_hair_m"
+],
+"translations": {
+"en": "Sweep",
+"ar": "مسح",
+"zh-CN": "扫",
+"zh-TW": "掃",
+"fil": "Magwalis",
+"fr": "Balayer",
+"de": "Fegen",
+"he": "לְטַאטֵא",
+"hi": "झाड़ू लगाना",
+"id": "Menyapu",
+"ja": "掃く",
+"ko": "스위프",
+"pt": "Varrer",
+"ru": "Мести",
+"es": "Barrer",
+"th": "กวาด",
+"tr": "Süpürme"
+}
+},
+{
+"id": "sd_inpaint_undercut_hair_m",
+"name": "Gatsby",
+"type": "pro",
+"male_icon": "/facelab/public/sd_inpaint_undercut_hair_m_male_1.jpg",
+"gender": [
+"male"
+],
+"variants": [
+"sd_inpaint_undercut_hair_m"
+],
+"translations": {
+"en": "Gatsby",
+"ar": "جاتسبي",
+"zh-CN": "盖茨比",
+"zh-TW": "蓋茨比",
+"fil": "Gatsby",
+"fr": "Gatsby",
+"de": "Gatsby",
+"he": "גטסבי",
+"hi": "Gatsby",
+"id": "Gatsby",
+"ja": "ギャツビー",
+"ko": "개츠비",
+"pt": "Gatsby",
+"ru": "Гэтсби",
+"es": "Gatsby",
+"th": "หนูแกสบี้",
+"tr": "Gatsby"
+}
+},
+{
+"id": "sd_inpaint_short_hair_f",
+"name": "Gray",
+"type": "pro",
+"gender": [
+"female"
+],
+"variants": [
+"sd_inpaint_short_hair_f"
+],
+"translations": {
+"en": "Gray",
+"ar": "رمادي",
+"zh-CN": "灰色的",
+"zh-TW": "灰色的",
+"fil": "kulay-abo",
+"fr": "Gris",
+"de": "Grau",
+"he": "אפור",
+"hi": "स्लेटी",
+"id": "Abu-abu",
+"ja": "グレー",
+"ko": "회색",
+"pt": "Cinza",
+"ru": "Серый",
+"es": "Gris",
+"th": "สีเทา",
+"tr": "Gri"
+},
+"female_icon": "/facelab/public/sd_inpaint_short_hair_f_female_1.jpg"
+},
+{
+"id": "sd_inpaint_wavy_hair_f",
+"name": "Blonde Wavy",
+"type": "pro",
+"gender": [
+"female"
+],
+"variants": [
+"sd_inpaint_wavy_hair_f"
+],
+"translations": {
+"en": "Blonde Wavy",
+"ar": "تموجي",
+"zh-CN": "金发波浪",
+"zh-TW": "金發波浪",
+"fil": "Blonde Wavy",
+"fr": "Blonde Ondulée",
+"de": "Blondes Welliges",
+"he": "גלי בלונדינית",
+"hi": "गोरी लहरदार",
+"id": "Pirang Bergelombang",
+"ja": "ブロンドの波状",
+"ko": "금발 물결 모양",
+"pt": "Loiro Ondulado",
+"ru": "блондинка волнистая",
+"es": "Rubio Ondulado",
+"th": "สีบลอนด์หยัก",
+"tr": "Dalgalı Sarışın"
+},
+"female_icon": "/facelab/public/sd_inpaint_wavy_hair_f_female_1.jpg"
+},
+{
+"id": "sd_inpaint_blunt_hair_f",
+"name": "Bangs",
+"type": "pro",
+"gender": [
+"female"
+],
+"variants": [
+"sd_inpaint_blunt_hair_f"
+],
+"translations": {
+"en": "Bangs",
+"ar": "الانفجارات",
+"zh-CN": "刘海",
+"zh-TW": "劉海",
+"fil": "Bangs",
+"fr": "Bandeau",
+"de": "Pony",
+"he": "פּוֹנִי",
+"hi": "बनूंगी",
+"id": "Poni",
+"ja": "バングス",
+"ko": "앞머리",
+"pt": "Franja",
+"ru": "Чёлка",
+"es": "Golpes",
+"th": "ผมม้า",
+"tr": "Kahkül"
+},
+"female_icon": "/facelab/public/sd_inpaint_blunt_hair_f_female_1.jpg"
+},
+{
+"id": "sd_inpaint_bride_hair_f",
+"name": "Bride",
+"type": "pro",
+"female_icon": "/facelab/public/sd_inpaint_bride_hair_f_female_1.jpg",
+"gender": [
+"female"
+],
+"variants": [
+"sd_inpaint_bride_hair_f"
+],
+"translations": {
+"en": "Bride",
+"ar": "زوجة",
+"zh-CN": "新娘",
+"zh-TW": "新娘",
+"fil": "Nobya",
+"fr": "Mariée",
+"de": "Braut",
+"he": "כַּלָה",
+"hi": "दुल्हन",
+"id": "Pengantin perempuan",
+"ja": "花嫁",
+"ko": "신부",
+"pt": "Noiva",
+"ru": "Невеста",
+"es": "Novia",
+"th": "เจ้าสาว",
+"tr": "Gelin"
+}
+},
+{
+"id": "sd_inpaint_shoulder_hair_f",
+"name": "Chestnut",
+"type": "pro",
+"gender": [
+"female"
+],
+"variants": [
+"sd_inpaint_shoulder_hair_f"
+],
+"translations": {
+"en": "Chestnut",
+"ar": "كستناء",
+"zh-CN": "板栗",
+"zh-TW": "板栗",
+"fil": "Kastanyas",
+"fr": "Châtaigne",
+"de": "Kastanie",
+"he": "עַרמוֹן",
+"hi": "शाहबलूत",
+"id": "Kastanye",
+"ja": "栗",
+"ko": "밤나무",
+"pt": "Castanha",
+"ru": "каштан",
+"es": "Castaña",
+"th": "เกาลัด",
+"tr": "Kestane"
+},
+"female_icon": "/facelab/public/sd_inpaint_shoulder_hair_f_female_1.jpg"
+},
+{
+"id": "sd_inpaint_bowlcut_hair_f",
+"name": "Bowl Cut",
+"type": "pro",
+"female_icon": "/facelab/public/sd_inpaint_bowlcut_hair_f_female.jpg",
+"gender": [
+"female"
+],
+"variants": [
+"sd_inpaint_bowlcut_hair_f"
+],
+"translations": {
+"en": "Bowl Cut",
+"ar": "قصة وعاء",
+"zh-CN": "蘑菇头",
+"zh-TW": "蘑菇頭",
+"fil": "Bowl na gupit",
+"fr": "Coupe au bol",
+"de": "Topfschnitt",
+"he": "פטרייה",
+"hi": "कटोरा",
+"id": "Potongan mangkuk",
+"ja": "ボウルカット",
+"ko": "그릇머리",
+"pt": "Corte de tigela",
+"ru": "Горшок",
+"es": "Corte de tazón",
+"th": "ทรงกะลาครอบ",
+"tr": "Kase"
+},
+"selected_index": null
+},
+{
+"id": "sd_inpaint_spiky_hair_f",
+"name": "Reddish",
+"type": "pro",
+"female_icon": "/facelab/public/sd_inpaint_spiky_hair_f_female_1.jpg",
+"gender": [
+"female"
+],
+"variants": [
+"sd_inpaint_spiky_hair_f"
+],
+"translations": {
+"en": "Reddish",
+"ar": "محمر",
+"zh-CN": "微红",
+"zh-TW": "微紅",
+"fil": "Mamula-mula",
+"fr": "Rougeâtre",
+"de": "Rötlich",
+"he": "אֲדַמדַם",
+"hi": "लाल",
+"id": "Kemerahan",
+"ja": "赤みを帯びた",
+"ko": "불그스름한",
+"pt": "Avermelhado",
+"ru": "красноватый",
+"es": "Rojizo",
+"th": "สีแดง",
+"tr": "Kırmızımsı"
+}
+},
+{
+"id": "sd_inpaint_sidecut_hair_f",
+"name": "Blue",
+"type": "pro",
+"female_icon": "/facelab/public/sd_inpaint_sidecut_hair_f_female_1.jpg",
+"gender": [
+"female"
+],
+"variants": [
+"sd_inpaint_sidecut_hair_f"
+],
+"translations": {
+"en": "Blue",
+"ar": "أزرق",
+"zh-CN": "蓝色的",
+"zh-TW": "藍色的",
+"fil": "Asul",
+"fr": "Bleu",
+"de": "Blau",
+"he": "כְּחוֹל",
+"hi": "नीला",
+"id": "Biru",
+"ja": "青",
+"ko": "파란색",
+"pt": "Azul",
+"ru": "Синий",
+"es": "Azul",
+"th": "สีฟ้า",
+"tr": "Mavi"
+}
+},
+{
+"id": "sd_inpaint_longstraight_hair_f",
+"name": "Golden",
+"type": "pro",
+"female_icon": "/facelab/public/sd_inpaint_longstraight_hair_f_female_1.jpg",
+"gender": [
+"female"
+],
+"variants": [
+"sd_inpaint_longstraight_hair_f"
+],
+"translations": {
+"en": "Golden",
+"ar": "ذهبي",
+"zh-CN": "金的",
+"zh-TW": "金的",
+"fil": "Ginto",
+"fr": "Dorée",
+"de": "Golden",
+"he": "זָהוּב",
+"hi": "स्वर्ण",
+"id": "Keemasan",
+"ja": "ゴールデン",
+"ko": "골든",
+"pt": "Dourada",
+"ru": "Золотой",
+"es": "Dorada",
+"th": "ทอง",
+"tr": "Altın"
+}
+},
+{
+"id": "sd_inpaint_curly_hair_f",
+"name": "Purple",
+"type": "pro",
+"female_icon": "/facelab/public/sd_inpaint_curly_hair_f_female_1.jpg",
+"gender": [
+"female"
+],
+"variants": [
+"sd_inpaint_curly_hair_f"
+],
+"translations": {
+"en": "Purple",
+"ar": "أرجواني",
+"zh-CN": "紫色的",
+"zh-TW": "紫色的",
+"fil": "Lila",
+"fr": "Violet",
+"de": "Lila",
+"he": "סָגוֹל",
+"hi": "बैंगनी",
+"id": "Ungu",
+"ja": "紫",
+"ko": "보라",
+"pt": "Roxo",
+"ru": "Фиолетовый",
+"es": "Púrpura",
+"th": "สีม่วง",
+"tr": "Mor"
+}
+},
+{
+"id": "sd_inpaint_riglets_hair_f",
+"name": "Ringlets",
+"type": "pro",
+"gender": [
+"female"
+],
+"variants": [
+"sd_inpaint_riglets_hair_f"
+],
+"translations": {
+"en": "Ringlets",
+"ar": "رينجليتس",
+"zh-CN": "小环",
+"zh-TW": "小環",
+"fil": "Ringlets",
+"fr": "Anneaux",
+"de": "Locken",
+"he": "רינגלטים",
+"hi": "रिंगलेट्स",
+"id": "Ringlet",
+"ja": "リングレット",
+"ko": "작은 고리",
+"pt": "Cachos",
+"ru": "Кольца",
+"es": "Tirabuzones",
+"th": "ริงเล็ต",
+"tr": "Bukleli"
+},
+"female_icon": "/facelab/public/sd_inpaint_riglets_hair_f_female.jpg"
+},
+{
+"id": "sd_inpaint_ponytail_hair_f",
+"name": "Pink",
+"type": "pro",
+"female_icon": "/facelab/public/sd_inpaint_ponytail_hair_f_female_1.jpg",
+"gender": [
+"female"
+],
+"variants": [
+"sd_inpaint_ponytail_hair_f"
+],
+"translations": {
+"en": "Pink",
+"ar": "لون القرنفل",
+"zh-CN": "粉色的",
+"zh-TW": "粉色的",
+"fil": "Pink",
+"fr": "Rose",
+"de": "Rosa",
+"he": "וָרוֹד",
+"hi": "गुलाबी",
+"id": "Merah Jambu",
+"ja": "ピンク",
+"ko": "분홍색",
+"pt": "Rosa",
+"ru": "Розовый",
+"es": "Rosa",
+"th": "สีชมพู",
+"tr": "Pembe"
+}
+},
+{
+"id": "sd_inpaint_bob_hair_f",
+"name": "Bob",
+"type": "pro",
+"female_icon": "/facelab/public/sd_inpaint_bob_hair_f_female_1.jpg",
+"gender": [
+"female"
+],
+"variants": [
+"sd_inpaint_bob_hair_f"
+],
+"translations": {
+"en": "Bob",
+"ar": "بوب",
+"zh-CN": "鲍勃",
+"zh-TW": "鮑勃",
+"fil": "Bob",
+"fr": "Bob",
+"de": "Bob",
+"he": "בוב",
+"hi": "बीओबी",
+"id": "Bob",
+"ja": "ボブ",
+"ko": "단발",
+"pt": "Prumo",
+"ru": "Боб",
+"es": "Beto",
+"th": "บ๊อบ",
+"tr": "Bob"
+}
+},
+{
+"id": "sd_inpaint_dreadlocks_hair_f",
+"name": "Rasta",
+"type": "pro",
+"female_icon": "/facelab/public/sd_inpaint_dreadlocks_hair_f_female_1.jpg",
+"gender": [
+"female"
+],
+"variants": [
+"sd_inpaint_dreadlocks_hair_f"
+],
+"translations": {
+"en": "Rasta",
+"ar": "الراستا",
+"zh-CN": "拉斯塔",
+"zh-TW": "拉斯塔",
+"fil": "Rasta",
+"fr": "Rasta",
+"de": "Rasta",
+"he": "ראסטה",
+"hi": "रास्ता",
+"id": "Rasta",
+"ja": "ラスタ",
+"ko": "라스타",
+"pt": "Rasta",
+"ru": "Раста",
+"es": "Rasta",
+"th": "ราสต้า",
+"tr": "Rasta"
+}
+},
+{
+"id": "sd_inpaint_plaits_hair_f",
+"name": "Plaits",
+"type": "pro",
+"female_icon": "/facelab/public/sd_inpaint_plaits_hair_f_female_1.jpg",
+"gender": [
+"female"
+],
+"variants": [
+"sd_inpaint_plaits_hair_f"
+],
+"translations": {
+"en": "Plaits",
+"ar": "ضفائر",
+"zh-CN": "辫子",
+"zh-TW": "辮子",
+"fil": "Plaits",
+"fr": "Tresses",
+"de": "Zöpfe",
+"he": "צמות",
+"hi": "चोटी",
+"id": "Anyaman",
+"ja": "ひだ",
+"ko": "엮다",
+"pt": "Tranças",
+"ru": "косички",
+"es": "Trenzas",
+"th": "เปีย",
+"tr": "Örgülü"
+}
+},
+{
+"id": "sd_inpaint_braided_hair_f",
+"name": "Flowers",
+"type": "pro",
+"female_icon": "/facelab/public/sd_inpaint_braided_hair_f_female_1.jpg",
+"gender": [
+"female"
+],
+"variants": [
+"sd_inpaint_braided_hair_f"
+],
+"translations": {
+"en": "Flowers",
+"ar": "زهور",
+"zh-CN": "花朵",
+"zh-TW": "花朵",
+"fil": "Bulaklak",
+"fr": "Fleurs",
+"de": "Blumen",
+"he": "פרחים",
+"hi": "पुष्प",
+"id": "Bunga-bunga",
+"ja": "フラワーズ",
+"ko": "꽃들",
+"pt": "Flores",
+"ru": "Цветы",
+"es": "Flores",
+"th": "ดอกไม้",
+"tr": "Çiçekler"
+}
+},
+{
+"id": "sd_inpaint_tiara_hair_f",
+"name": "Tiara",
+"type": "pro",
+"female_icon": "/facelab/public/sd_inpaint_tiara_hair_f_female_1.jpg",
+"gender": [
+"female"
+],
+"variants": [
+"sd_inpaint_tiara_hair_f"
+],
+"translations": {
+"en": "Tiara",
+"ar": "تاج",
+"zh-CN": "皇冠",
+"zh-TW": "皇冠",
+"fil": "Tiara",
+"fr": "Tiare",
+"de": "Tiara",
+"he": "נֵזֶר",
+"hi": "टिअरा",
+"id": "Tiara",
+"ja": "ティアラ",
+"ko": "보석 달린 머리 장식",
+"pt": "Tiara",
+"ru": "Тиара",
+"es": "Tiara",
+"th": "เทียร่า",
+"tr": "Taç"
+}
+},
+{
+"id": "sd_inpaint_pixie_hair_f",
+"name": "Pink Pixie",
+"type": "pro",
+"gender": [
+"female"
+],
+"variants": [
+"sd_inpaint_pixie_hair_f"
+],
+"translations": {
+"en": "Pink Pixie",
+"ar": "بينك بيكسي",
+"zh-CN": "粉红小精灵",
+"zh-TW": "粉紅小精靈",
+"fil": "Pink Pixie",
+"fr": "Lutin Rose",
+"de": "Rosa Pixie",
+"he": "פיקסי ורודה",
+"hi": "गुलाबी पिक्सी",
+"id": "Peri Merah Muda",
+"ja": "ピンクピクシー",
+"ko": "핑크 픽시",
+"pt": "Duende Rosa",
+"ru": "Розовый Пикси",
+"es": "Duendecillo Rosa",
+"th": "พิกซี่สีชมพู",
+"tr": "Pembe Peri"
+},
+"female_icon": "/facelab/public/sd_inpaint_pixie_hair_f_female_1.jpg"
+}
+],
+"title": {
+"en": "Hair+",
+"ar": "+شعر",
+"zh-CN": "头发+",
+"zh-TW": "頭髮+",
+"fil": "Buhok+",
+"fr": "Cheveux+",
+"de": "Haare+",
+"he": "+שיער",
+"hi": "बाल+",
+"id": "Rambut+",
+"ja": "ヘアスタイル+",
+"ko": "헤어스타일+",
+"pt": "Cabelo+",
+"ru": "Прическа+",
+"es": "Cabello+",
+"th": "ทรงผม+",
+"tr": "Saç+"
+},
+"female_icon": "/facelab/v3/category-icons/hairplus_female.png",
+"male_icon": "/facelab/v3/category-icons/hairplus_male.png",
+"genders": [
+"male",
+"female"
+]
+},
+{
+"category_id": "hair_colors",
+"category_name": "Hair Colors",
+"gender": [
+"male",
+"female"
+],
+"female_icon": "/facelab/v3/category-icons/hair_colors_female.png",
+"male_icon": "/facelab/v3/category-icons/hair_colors_male.png",
+"filters": [
+{
+"id": "light_delta_f",
+"name": "Light",
+"type": "free",
+"gender": [
+"female"
+],
+"variants": [
+"light_beta_f",
+"light_gamma_f",
+"light_delta_f",
+"light_epsilon_f"
+],
+"translations": {
+"en": "Light",
+"ar": "ضوء",
+"zh-CN": "光",
+"zh-TW": "光",
+"fil": "Liwanag",
+"fr": "Lumière",
+"de": "Licht",
+"he": "אוֹר",
+"hi": "रोशनी",
+"id": "Lampu",
+"ja": "ライト",
+"ko": "빛",
+"pt": "Luz",
+"ru": "Свет",
+"es": "Luz",
+"th": "แสงสว่าง",
+"tr": "Işıltı"
+},
+"selected_index": 1,
+"female_icon": "/facelab/public/light_delta_f_female.jpg"
+},
+{
+"id": "glossy_alpha_f",
+"name": "Glossy",
+"type": "pro",
+"female_icon": "/facelab/public/glossy_alpha_f_female.jpg",
+"gender": [
+"female"
+],
+"variants": [
+"glossy_alpha_f",
+"glossy_beta_f",
+"glossy_delta_f",
+"glossy_epsilon_f"
+],
+"translations": {
+"en": "Glossy",
+"ar": "لامع",
+"zh-CN": "光滑",
+"zh-TW": "光滑",
+"fil": "Makintab",
+"fr": "Brillant",
+"de": "Glänzend",
+"he": "מבריק\t",
+"hi": "चमकदार",
+"id": "Mengkilap",
+"ja": "光沢のある",
+"ko": "광택",
+"pt": "Lustroso",
+"ru": "Глянцевый",
+"es": "Lustroso",
+"th": "มันวาว",
+"tr": "Parlak"
+},
+"selected_index": 1
+},
+{
+"id": "glossy_blond_f",
+"name": "Blond",
+"type": "pro",
+"gender": [
+"female"
+],
+"variants": [
+"glossy_blond_f",
+"blond_f"
+],
+"translations": {
+"en": "Blond",
+"ar": "أشقر",
+"zh-CN": "金发",
+"zh-TW": "金發",
+"fil": "Blond",
+"fr": "Blond",
+"de": "Blond",
+"he": "בלונדיני",
+"hi": "गोरा",
+"id": "Berambut pirang",
+"ja": "ブロンド",
+"ko": "금발",
+"pt": "Loiro",
+"ru": "Блондинка",
+"es": "Rubio",
+"th": "ผมบลอนด์",
+"tr": "Sarışın"
+},
+"selected_index": 0,
+"female_icon": "/facelab/public/glossy_blond_f_female.jpg"
+},
+{
+"id": "glossy_brown_f",
+"name": "Brown",
+"type": "pro",
+"gender": [
+"female"
+],
+"variants": [
+"glossy_brown_f",
+"brown_f",
+"colored_f"
+],
+"translations": {
+"en": "Brown",
+"ar": "بني",
+"zh-CN": "棕色的",
+"zh-TW": "棕色的",
+"fil": "Kayumanggi",
+"fr": "Brun",
+"de": "Braun",
+"he": "חום",
+"hi": "भूरा",
+"id": "Cokelat",
+"ja": "茶色",
+"ko": "갈색",
+"pt": "Marrom",
+"ru": "Коричневый",
+"es": "Marrón",
+"th": "สีน้ำตาล",
+"tr": "Kahverengi"
+},
+"selected_index": 1,
+"female_icon": "/facelab/public/glossy_brown_f_female.jpg"
+},
+{
+"id": "shinyblack_f",
+"name": "Black",
+"type": "pro",
+"gender": [
+"female"
+],
+"variants": [
+"shinyblack_f",
+"black_f",
+"sd_v2_shinyblack_f"
+],
+"translations": {
+"en": "Black",
+"ar": "أسود",
+"zh-CN": "黑色的",
+"zh-TW": "黑色的",
+"fil": "Itim",
+"fr": "Noir",
+"de": "Schwarz",
+"he": "שָׁחוֹר",
+"hi": "काला",
+"id": "Hitam",
+"ja": "黒",
+"ko": "검은색",
+"pt": "Preta",
+"ru": "Черный",
+"es": "Negra",
+"th": "สีดำ",
+"tr": "Siyah"
+},
+"selected_index": 1,
+"female_icon": "/facelab/public/shinyblack_f_female.jpg"
+},
+{
+"id": "glossy_highlighted_f",
+"name": "Highlighted",
+"type": "pro",
+"female_icon": "/facelab/public/glossy_highlighted_f_female.jpg",
+"gender": [
+"female"
+],
+"variants": [
+"glossy_highlighted_f",
+"highlighted_f"
+],
+"translations": {
+"en": "Highlighted",
+"ar": "أبرزت",
+"zh-CN": "突出显示",
+"zh-TW": "突出顯示",
+"fil": "Naka-highlight",
+"fr": "Souligné",
+"de": "Hervorgehoben",
+"he": "מודגש",
+"hi": "पर प्रकाश डाला",
+"id": "Disorot",
+"ja": "強調表示された",
+"ko": "강조",
+"pt": "Destacado",
+"ru": "выделенный",
+"es": "Resaltado",
+"th": "เน้น",
+"tr": "Vurgulanmış"
+},
+"selected_index": 0
+},
+{
+"id": "glossy_colored_f",
+"name": "Red",
+"type": "pro",
+"gender": [
+"female"
+],
+"variants": [
+"glossy_colored_f"
+],
+"translations": {
+"en": "Red",
+"ar": "أحمر",
+"zh-CN": "红色的",
+"zh-TW": "紅色的",
+"fil": "Pula",
+"fr": "Rouge",
+"de": "Rot",
+"he": "אָדוֹם",
+"hi": "लाल",
+"id": "Merah",
+"ja": "赤",
+"ko": "빨간색",
+"pt": "Vermelho",
+"ru": "Красный",
+"es": "Rojo",
+"th": "สีแดง",
+"tr": "Kırmızı"
+},
+"female_icon": "/facelab/public/glossy_colored_f_female.jpg"
+},
+{
+"id": "glossy_red_f",
+"name": "Amber",
+"type": "pro",
+"gender": [
+"female"
+],
+"variants": [
+"glossy_red_f",
+"red_f"
+],
+"translations": {
+"en": "Amber",
+"ar": "العنبر",
+"zh-CN": "琥珀色",
+"zh-TW": "琥珀色",
+"fil": "Amber",
+"fr": "Ambre",
+"de": "Bernstein",
+"he": "עַנבָּר",
+"hi": "अंबर",
+"id": "Amber",
+"ja": "アンバー",
+"ko": "호박색",
+"pt": "Âmbar",
+"ru": "Янтарь",
+"es": "Ámbar",
+"th": "อำพัน",
+"tr": "Kehribar"
+},
+"selected_index": 0,
+"female_icon": "/facelab/public/glossy_red_f_female.jpg"
+},
+{
+"id": "light_beta_m",
+"name": "Light",
+"type": "free",
+"gender": [
+"male"
+],
+"variants": [
+"light_beta_m",
+"light_gamma_m",
+"light_epsilon_m"
+],
+"translations": {
+"en": "Light",
+"ar": "ضوء",
+"zh-CN": "光",
+"zh-TW": "光",
+"fil": "Liwanag",
+"fr": "Lumière",
+"de": "Licht",
+"he": "אוֹר",
+"hi": "रोशनी",
+"id": "Lampu",
+"ja": "ライト",
+"ko": "빛",
+"pt": "Luz",
+"ru": "Свет",
+"es": "Luz",
+"th": "แสงสว่าง",
+"tr": "Işıltı"
+},
+"selected_index": 1,
+"male_icon": "/facelab/public/light_beta_m_male.jpg"
+},
+{
+"id": "glossy_blond_m",
+"name": "Blond",
+"type": "pro",
+"gender": [
+"male"
+],
+"variants": [
+"glossy_blond_m",
+"blond_m"
+],
+"translations": {
+"en": "Blond",
+"ar": "أشقر",
+"zh-CN": "金发",
+"zh-TW": "金發",
+"fil": "Blond",
+"fr": "Blond",
+"de": "Blond",
+"he": "בלונדיני",
+"hi": "गोरा",
+"id": "Berambut pirang",
+"ja": "ブロンド",
+"ko": "금발",
+"pt": "Loiro",
+"ru": "Блондинка",
+"es": "Rubio",
+"th": "ผมบลอนด์",
+"tr": "Sarışın"
+},
+"selected_index": 0,
+"male_icon": "/facelab/public/glossy_blond_m_male.jpg"
+},
+{
+"id": "glossy_brown_m",
+"name": "Brown",
+"type": "pro",
+"gender": [
+"male"
+],
+"variants": [
+"glossy_brown_m",
+"brown_m",
+"colored_m"
+],
+"translations": {
+"en": "Brown",
+"ar": "بني",
+"zh-CN": "棕色的",
+"zh-TW": "棕色的",
+"fil": "Kayumanggi",
+"fr": "Brun",
+"de": "Braun",
+"he": "חום",
+"hi": "भूरा",
+"id": "Cokelat",
+"ja": "茶色",
+"ko": "갈색",
+"pt": "Marrom",
+"ru": "Коричневый",
+"es": "Marrón",
+"th": "สีน้ำตาล",
+"tr": "Kahverengi"
+},
+"selected_index": 0,
+"male_icon": "/facelab/public/glossy_brown_m_male.jpg"
+},
+{
+"id": "shinyblack_m",
+"name": "Black",
+"type": "pro",
+"gender": [
+"male"
+],
+"variants": [
+"shinyblack_m",
+"black_m"
+],
+"translations": {
+"en": "Black",
+"ar": "أسود",
+"zh-CN": "黑色的",
+"zh-TW": "黑色的",
+"fil": "Itim",
+"fr": "Noir",
+"de": "Schwarz",
+"he": "שָׁחוֹר",
+"hi": "काला",
+"id": "Hitam",
+"ja": "黒",
+"ko": "검은색",
+"pt": "Preta",
+"ru": "Черный",
+"es": "Negra",
+"th": "สีดำ",
+"tr": "Siyah"
+},
+"selected_index": 0,
+"male_icon": "/facelab/public/shinyblack_m_male.jpg"
+},
+{
+"id": "glossy_highlighted_m",
+"name": "Highlighted",
+"type": "pro",
+"male_icon": "/facelab/public/glossy_highlighted_m_male.jpg",
+"gender": [
+"male"
+],
+"variants": [
+"glossy_highlighted_m",
+"highlighted_m"
+],
+"translations": {
+"en": "Highlighted",
+"ar": "أبرزت",
+"zh-CN": "突出显示",
+"zh-TW": "突出顯示",
+"fil": "Naka-highlight",
+"fr": "Souligné",
+"de": "Hervorgehoben",
+"he": "מודגש",
+"hi": "पर प्रकाश डाला",
+"id": "Disorot",
+"ja": "強調表示された",
+"ko": "강조",
+"pt": "Destacado",
+"ru": "выделенный",
+"es": "Resaltado",
+"th": "เน้น",
+"tr": "Vurgulanmış"
+},
+"selected_index": 1
+},
+{
+"id": "glossy_colored_m",
+"name": "Red",
+"type": "pro",
+"gender": [
+"male"
+],
+"variants": [
+"glossy_colored_m"
+],
+"translations": {
+"en": "Red",
+"ar": "أحمر",
+"zh-CN": "红色的",
+"zh-TW": "紅色的",
+"fil": "Pula",
+"fr": "Rouge",
+"de": "Rot",
+"he": "אָדוֹם",
+"hi": "लाल",
+"id": "Merah",
+"ja": "赤",
+"ko": "빨간색",
+"pt": "Vermelho",
+"ru": "Красный",
+"es": "Rojo",
+"th": "สีแดง",
+"tr": "Kırmızı"
+},
+"male_icon": "/facelab/public/glossy_colored_m_male.jpg"
+},
+{
+"id": "glossy_red_m",
+"name": "Amber",
+"type": "pro",
+"gender": [
+"male"
+],
+"variants": [
+"glossy_red_m",
+"red_m"
+],
+"translations": {
+"en": "Amber",
+"ar": "العنبر",
+"zh-CN": "琥珀色",
+"zh-TW": "琥珀色",
+"fil": "Amber",
+"fr": "Ambre",
+"de": "Bernstein",
+"he": "עַנבָּר",
+"hi": "अंबर",
+"id": "Amber",
+"ja": "アンバー",
+"ko": "호박색",
+"pt": "Âmbar",
+"ru": "Янтарь",
+"es": "Ámbar",
+"th": "อำพัน",
+"tr": "Kehribar"
+},
+"selected_index": 0,
+"male_icon": "/facelab/public/glossy_red_m_male.jpg"
+},
+{
+"id": "dark_delta_m",
+"name": "Dark ",
+"type": "pro",
+"gender": [
+"male"
+],
+"variants": [
+"dark_beta_m",
+"dark_delta_f",
+"dark_epsilon_m"
+],
+"translations": {
+"en": "Dark ",
+"ar": "مظلم",
+"zh-CN": "黑暗的",
+"zh-TW": "黑暗的",
+"fil": "Madilim",
+"fr": "Foncé",
+"de": "Dunkel",
+"he": "אפל",
+"hi": "अँधेरा",
+"id": "Gelap",
+"ja": "ダーク",
+"ko": "어두운",
+"pt": "Escuro",
+"ru": "Темный",
+"es": "Oscuro",
+"th": "มืด",
+"tr": "Koyu "
+},
+"selected_index": 1,
+"male_icon": "/facelab/public/dark_delta_m_male.jpg"
+},
+{
+"id": "dark_delta_f",
+"name": "Dark ",
+"type": "pro",
+"gender": [
+"female"
+],
+"variants": [
+"dark_beta_f",
+"dark_gamma_f",
+"dark_delta_f",
+"dark_epsilon_f"
+],
+"translations": {
+"en": "Dark",
+"ar": "مظلم",
+"zh-CN": "黑暗的",
+"zh-TW": "黑暗的",
+"fil": "Madilim",
+"fr": "Foncé",
+"de": "Dunkel",
+"he": "אפל",
+"hi": "अँधेरा",
+"id": "Gelap",
+"ja": "ダーク",
+"ko": "어두운",
+"pt": "Escuro",
+"ru": "Темный",
+"es": "Oscuro",
+"th": "มืด",
+"tr": "Koyu"
+},
+"selected_index": 1,
+"female_icon": "/facelab/public/dark_delta_f_female.jpg"
+}
+],
+"title": {
+"en": "Hair Colors",
+"ar": "ألوان الشعر",
+"zh-CN": "发色",
+"zh-TW": "髮色",
+"fil": "Kulay ng Buhok",
+"fr": "Couleurs de Cheveux",
+"de": "Haarfarben",
+"he": "צבעי שיער",
+"hi": "बालों का रंग",
+"id": "Warna Rambut",
+"ja": "ヘアカラー",
+"ko": "머리 색깔",
+"pt": "Cores de Cabelo",
+"ru": "Цвет волос",
+"es": "Colores de Pelo",
+"th": "สีผม",
+"tr": "Saç Renkleri"
+}
+},
+{
+"category_id": "smiles",
+"category_name": "Smiles",
+"gender": [
+"male",
+"female"
+],
+"female_icon": "/facelab/v3/category-icons/smiles_female.png",
+"male_icon": "/facelab/v3/category-icons/smiles_male.png",
+"filters": [
+{
+"id": "natural_f",
+"name": "Natural",
+"type": "free",
+"female_icon": "/facelab/public/natural_f_female.jpg",
+"gender": [
+"female"
+],
+"variants": [
+"natural_f"
+],
+"translations": {
+"en": "Natural",
+"ar": "طبيعي",
+"zh-CN": "自然的",
+"zh-TW": "自然的",
+"fil": "Natural",
+"fr": "Naturel",
+"de": "Natürlich",
+"he": "טִבעִי",
+"hi": "प्राकृतिक",
+"id": "Alami",
+"ja": "自然",
+"ko": "자연스러운",
+"pt": "Natural",
+"ru": "Естественный",
+"es": "Natural",
+"th": "เป็นธรรมชาติ",
+"tr": "Doğal"
+}
+},
+{
+"id": "natural_m",
+"name": "Natural",
+"type": "free",
+"male_icon": "/facelab/public/natural_m_male.jpg",
+"gender": [
+"male"
+],
+"variants": [
+"natural_m"
+],
+"translations": {
+"en": "Natural",
+"ar": "طبيعي",
+"zh-CN": "自然的",
+"zh-TW": "自然的",
+"fil": "Natural",
+"fr": "Naturel",
+"de": "Natürlich",
+"he": "טִבעִי",
+"hi": "प्राकृतिक",
+"id": "Alami",
+"ja": "自然",
+"ko": "자연스러운",
+"pt": "Natural",
+"ru": "Естественный",
+"es": "Natural",
+"th": "เป็นธรรมชาติ",
+"tr": "Doğal"
+}
+},
+{
+"id": "confident_alpha_f",
+"name": "Confident",
+"type": "pro",
+"female_icon": "/facelab/public/confident_alpha_f_female.jpg",
+"gender": [
+"female"
+],
+"variants": [
+"confident_alpha_f",
+"confident_beta_f",
+"confident_gamma_f",
+"confident_epsilon_f"
+],
+"translations": {
+"en": "Confident",
+"ar": "واثق",
+"zh-CN": "自信的",
+"zh-TW": "自信的",
+"fil": "Tiwala",
+"fr": "Confiant",
+"de": "Zuversichtlich",
+"he": "בטוח",
+"hi": "आत्मविश्वासी",
+"id": "Percaya diri",
+"ja": "自信を持って",
+"ko": "자신감",
+"pt": "Confiante",
+"ru": "Уверенный",
+"es": "Seguro",
+"th": "มั่นใจ",
+"tr": "Özgüvenli"
+},
+"selected_index": 2
+},
+{
+"id": "confident_alpha_m",
+"name": "Confident",
+"type": "pro",
+"male_icon": "/facelab/public/confident_alpha_m_male.jpg",
+"gender": [
+"male"
+],
+"variants": [
+"confident_alpha_m",
+"confident_beta_m",
+"confident_gamma_m",
+"confident_epsilon_m"
+],
+"translations": {
+"en": "Confident",
+"ar": "واثق",
+"zh-CN": "自信的",
+"zh-TW": "自信的",
+"fil": "Tiwala",
+"fr": "Confiant",
+"de": "Zuversichtlich",
+"he": "בטוח",
+"hi": "आत्मविश्वासी",
+"id": "Percaya diri",
+"ja": "自信を持って",
+"ko": "자신감",
+"pt": "Confiante",
+"ru": "Уверенный",
+"es": "Seguro",
+"th": "มั่นใจ",
+"tr": "Özgüvenli"
+},
+"selected_index": 1
+},
+{
+"id": "noname_teeth_m",
+"name": "Whiten",
+"type": "pro",
+"gender": [
+"male"
+],
+"variants": [
+"noname_teeth_m"
+],
+"translations": {
+"en": "Whiten",
+"ar": "بيض",
+"zh-CN": "美白",
+"zh-TW": "美白",
+"fil": "Pumuti",
+"fr": "Blanchir",
+"de": "Aufhellen",
+"he": "לְהַלבִּין",
+"hi": "सफ़ेद",
+"id": "Memutihkan",
+"ja": "美白する",
+"ko": "희게 하다",
+"pt": "Branquear",
+"ru": "Отбелить",
+"es": "Blanquear",
+"th": "ขาวขึ้น",
+"tr": "Bembeyaz"
+},
+"male_icon": "/facelab/public/noname_teeth_m_male.jpg"
+},
+{
+"id": "whiten_f",
+"name": "Whiten",
+"type": "pro",
+"female_icon": "/facelab/public/whiten_f_female.jpg",
+"gender": [
+"female"
+],
+"variants": [
+"whiten_f"
+],
+"translations": {
+"en": "Whiten",
+"ar": "بيض",
+"zh-CN": "美白",
+"zh-TW": "美白",
+"fil": "Pumuti",
+"fr": "Blanchir",
+"de": "Aufhellen",
+"he": "לְהַלבִּין",
+"hi": "सफ़ेद",
+"id": "Memutihkan",
+"ja": "美白する",
+"ko": "희게 하다",
+"pt": "Branquear",
+"ru": "Отбелить",
+"es": "Blanquear",
+"th": "ขาวขึ้น",
+"tr": "Bembeyaz"
+},
+"selected_index": null
+},
+{
+"id": "serious_f",
+"name": "Serious",
+"type": "pro",
+"female_icon": "/facelab/public/serious_f_female.jpg",
+"gender": [
+"female"
+],
+"variants": [
+"serious_f"
+],
+"translations": {
+"en": "Serious",
+"ar": "جاد",
+"zh-CN": "严肃的",
+"zh-TW": "嚴肅的",
+"fil": "Seryoso",
+"fr": "Sérieux",
+"de": "Ernst",
+"he": "רְצִינִי",
+"hi": "गंभीर",
+"id": "Serius",
+"ja": "深刻な",
+"ko": "심각한",
+"pt": "Sério",
+"ru": "Серьезный",
+"es": "Grave",
+"th": "จริงจัง",
+"tr": "Ciddi"
+},
+"selected_index": null
+},
+{
+"id": "subtle_f",
+"name": "Subtle",
+"type": "pro",
+"female_icon": "/facelab/public/subtle_f_female.jpg",
+"gender": [
+"female"
+],
+"variants": [
+"subtle_f"
+],
+"translations": {
+"en": "Subtle",
+"ar": "دقيق",
+"zh-CN": "微妙的",
+"zh-TW": "微妙的",
+"fil": "Banayad",
+"fr": "Subtil",
+"de": "Subtil",
+"he": "עָדִין",
+"hi": "जटिल",
+"id": "Tak kentara",
+"ja": "微妙",
+"ko": "미묘한",
+"pt": "Sutil",
+"ru": "Тонкий",
+"es": "Sutil",
+"th": "บอบบาง",
+"tr": "Sıkı"
+},
+"selected_index": null
+},
+{
+"id": "full_f",
+"name": "Full",
+"type": "pro",
+"female_icon": "/facelab/public/full_f_female.jpg",
+"gender": [
+"female"
+],
+"variants": [
+"full_f"
+],
+"translations": {
+"en": "Full",
+"ar": "ممتلىء",
+"zh-CN": "满的",
+"zh-TW": "滿的",
+"fil": "Puno",
+"fr": "Complet",
+"de": "Voll",
+"he": "מלא",
+"hi": "भरा हुआ",
+"id": "Penuh",
+"ja": "満杯",
+"ko": "가득한",
+"pt": "Completo",
+"ru": "Полный",
+"es": "Lleno",
+"th": "เต็ม",
+"tr": "Geniş"
+},
+"selected_index": null
+}
+],
+"title": {
+"en": "Smiles",
+"ar": "الابتسامات",
+"zh-CN": "微笑",
+"zh-TW": "微笑",
+"fil": "Mga ngiti",
+"fr": "Sourires",
+"de": "Lächeln",
+"he": "חיוכים",
+"hi": "मुस्कान",
+"id": "Senyum",
+"ja": "笑顔",
+"ko": "미소",
+"pt": "Sorrisos",
+"ru": "Улыбка",
+"es": "Sonrisas",
+"th": "รอยยิ้ม",
+"tr": "Gülümseme"
+}
+},
+{
+"category_id": "beard",
+"category_name": "Beard-male",
+"gender": [
+"male"
+],
+"filters": [
+{
+"id": "stubble_m",
+"name": "Stubble",
+"type": "free",
+"gender": [
+"male"
+],
+"variants": [
+"stubble_m"
+],
+"translations": {
+"en": "Stubble",
+"ar": "قصبة",
+"zh-CN": "茬",
+"zh-TW": "茬",
+"fil": "Pinaggapasan",
+"fr": "Chaume",
+"de": "Stoppel",
+"he": "זִיפֵי זָקָן",
+"hi": "खूंटी",
+"id": "Tunggul",
+"ja": "無精ひげ",
+"ko": "그루터기",
+"pt": "Restolho",
+"ru": "Щетина",
+"es": "Rastrojo",
+"th": "ตอซัง",
+"tr": "Kirli Sakal"
+},
+"male_icon": "/facelab/public/stubble_m_male.jpg"
+},
+{
+"id": "fullbeard_m",
+"name": "Full Beard",
+"type": "pro",
+"gender": [
+"male"
+],
+"variants": [
+"fullbeard_m"
+],
+"translations": {
+"en": "Full Beard",
+"ar": "لحية كاملة",
+"zh-CN": "大胡子",
+"zh-TW": "大鬍子",
+"fil": "Buong Balbas",
+"fr": "Barbe Complète",
+"de": "Vollbart",
+"he": "זקן מלא",
+"hi": "पूरी दाढ़ी",
+"id": "Jenggot Penuh",
+"ja": "完全なひげ",
+"ko": "풀 비어드",
+"pt": "Barba Cheia",
+"ru": "полная борода",
+"es": "Barba Completa",
+"th": "เคราเต็ม",
+"tr": "Tam Sakal"
+},
+"male_icon": "/facelab/public/fullbeard_m_male.jpg"
+},
+{
+"id": "mustache_m",
+"name": "Mustache",
+"type": "pro",
+"gender": [
+"male"
+],
+"variants": [
+"mustache_m"
+],
+"translations": {
+"en": "Mustache",
+"ar": "شارب",
+"zh-CN": "胡子",
+"zh-TW": "鬍子",
+"fil": "Bigote",
+"fr": "Moustache",
+"de": "Schnurrbart",
+"he": "שפם",
+"hi": "मूंछ",
+"id": "Kumis",
+"ja": "口ひげ",
+"ko": "수염",
+"pt": "Bigode",
+"ru": "Усы",
+"es": "Bigote",
+"th": "หนวด",
+"tr": "Bıyık"
+},
+"male_icon": "/facelab/public/mustache_m_male.jpg"
+},
+{
+"id": "goatee_m",
+"name": "Goatee",
+"type": "pro",
+"gender": [
+"male"
+],
+"variants": [
+"goatee_m"
+],
+"translations": {
+"en": "Goatee",
+"ar": "سكسوكة",
+"zh-CN": "山羊胡子",
+"zh-TW": "山羊鬍子",
+"fil": "Goatee",
+"fr": "Barbiche",
+"de": "Spitzbart",
+"he": "זָקָן הָתַיִשׁ",
+"hi": "बकरे की सी दाढ़ी",
+"id": "Janggut",
+"ja": "あごひげ",
+"ko": "수염",
+"pt": "Cavanhaque",
+"ru": "Эспаньолка",
+"es": "Barbas de Chivo",
+"th": "เคราแพะ",
+"tr": "Keçi Sakalı"
+},
+"male_icon": "/facelab/public/goatee_m_male.jpg"
+},
+{
+"id": "goat_m",
+"name": "Goat",
+"type": "pro",
+"gender": [
+"male"
+],
+"variants": [
+"goat_m"
+],
+"translations": {
+"en": "Goat",
+"ar": "معزة",
+"zh-CN": "山羊",
+"zh-TW": "山羊",
+"fil": "Kambing",
+"fr": "Chèvre",
+"de": "Ziege",
+"he": "עֵז",
+"hi": "बकरी",
+"id": "Kambing",
+"ja": "ヤギ",
+"ko": "염소",
+"pt": "Cabra",
+"ru": "Козел",
+"es": "Cabra",
+"th": "แพะ",
+"tr": "Keçi"
+},
+"male_icon": "/facelab/public/goat_m_male.jpg"
+},
+{
+"id": "chin_curtain_m",
+"name": "Lion",
+"type": "pro",
+"gender": [
+"male"
+],
+"variants": [
+"chin_curtain_m"
+],
+"translations": {
+"en": "Lion",
+"ar": "أسد",
+"zh-CN": "狮子",
+"zh-TW": "獅子",
+"fil": "Leon",
+"fr": "Lion",
+"de": "Löwe",
+"he": "אַריֵה",
+"hi": "शेर",
+"id": "Singa",
+"ja": "ライオン",
+"ko": "사자",
+"pt": "Leão",
+"ru": "Лев",
+"es": "León",
+"th": "สิงโต",
+"tr": "Aslan"
+},
+"male_icon": "/facelab/public/chin_curtain_m_male.jpg"
+},
+{
+"id": "petitegoatee_m",
+"name": "Goatee 1",
+"type": "pro",
+"gender": [
+"male"
+],
+"variants": [
+"petitegoatee_m"
+],
+"translations": {
+"en": "Goatee 1",
+"ar": "1 سكسوكة",
+"zh-CN": "山羊胡子 1",
+"zh-TW": "山羊鬍子 1",
+"fil": "Goatee 1",
+"fr": "Barbiche 1",
+"de": "Spitzbart 1",
+"he": "1 זָקָן הָתַיִשׁ",
+"hi": "बकरे की सी दाढ़ी 1",
+"id": "Janggut 1",
+"ja": "あごひげ 1",
+"ko": "수염 1",
+"pt": "Cavanhaque 1",
+"ru": "Эспаньолка 1",
+"es": "Barbas de Chivo 1",
+"th": "1 เคราแพะ",
+"tr": "Keçi Sakalı 1"
+},
+"male_icon": "/facelab/public/petitegoatee_m_male.jpg"
+},
+{
+"id": "shaved_m",
+"name": "Beardless",
+"type": "pro",
+"male_icon": "/facelab/public/shaved_m_male.png",
+"gender": [
+"male"
+],
+"variants": [
+"shaved_m"
+],
+"translations": {
+"en": "Beardless",
+"ar": "بدون لحية",
+"zh-CN": "无胡子",
+"zh-TW": "無鬍子",
+"fil": "Walang balbas",
+"fr": "Rasé",
+"de": "Bartlos",
+"he": "ללא זקן",
+"hi": "बिना दाढ़ी",
+"id": "Dicukur",
+"ja": "無ひげ",
+"ko": "수염 없는",
+"pt": "Sem barba",
+"ru": "Без бороды",
+"es": "Sin barba",
+"th": "ไม่มีเครา",
+"tr": "Traşlı"
+},
+"selected_index": null
+}
+],
+"title": {
+"en": "Beard",
+"ar": "لحية",
+"zh-CN": "胡子",
+"zh-TW": "鬍鬚",
+"fil": "Balbas",
+"fr": "Barbe",
+"de": "Bart",
+"he": "זקן",
+"hi": "दाढ़ी",
+"id": "Jenggot",
+"ja": "ひげ",
+"ko": "턱수염",
+"pt": "Barba",
+"ru": "Борода",
+"es": "Barba",
+"th": "เครา",
+"tr": "Sakal"
+},
+"male_icon": "/facelab/v3/category-icons/beard_male.png",
+"genders": [
+"male"
+]
+},
+{
+"category_id": "sizes",
+"category_name": "Reshape",
+"gender": [
+"male",
+"female"
+],
+"filters": [
+{
+"id": "big_face_beta_f",
+"name": "Big Face",
+"type": "free",
+"gender": [
+"female"
+],
+"variants": [
+"bigface_alpha_f",
+"big_face_beta_f",
+"bigface_gamma_f",
+"bigface_delta_f"
+],
+"translations": {
+"en": "Big Face",
+"ar": "وجه كبير",
+"zh-CN": "大脸",
+"zh-TW": "大臉",
+"fil": "Malaking Mukha",
+"fr": "Grand visage",
+"de": "Großes Gesicht",
+"he": "פרצוף גדול",
+"hi": "बड़ा चेहरा",
+"id": "Wajah Besar",
+"ja": "大きな顔",
+"ko": "큰 얼굴",
+"pt": "Cara grande",
+"ru": "Большое лицо",
+"es": "Cara grande",
+"th": "หน้าใหญ่",
+"tr": "Koca Surat"
+},
+"selected_index": 1,
+"female_icon": "/facelab/public/big_face_beta_f_female_1.jpg"
+},
+{
+"id": "big_face_gamma_m",
+"name": "Big Face",
+"type": "free",
+"gender": [
+"male"
+],
+"variants": [
+"big_face_alpha_m",
+"bigface_beta_m",
+"big_face_gamma_m",
+"bigface_delta_m"
+],
+"translations": {
+"en": "Big Face",
+"ar": "وجه كبير",
+"zh-CN": "大脸",
+"zh-TW": "大臉",
+"fil": "Malaking Mukha",
+"fr": "Grand Visage",
+"de": "Großes Gesicht",
+"he": "פרצוף גדול",
+"hi": "बड़ा चेहरा",
+"id": "Wajah Besar",
+"ja": "大きな顔",
+"ko": "큰 얼굴",
+"pt": "Cara Grande",
+"ru": "Большое лицо",
+"es": "Cara Grande",
+"th": "หน้าใหญ่",
+"tr": "Koca Surat"
+},
+"selected_index": 0,
+"male_icon": "/facelab/public/big_face_gamma_m_male_1.jpg"
+},
+{
+"id": "thin_eyebrows_alpha_m",
+"name": "Thin Eyebrows",
+"type": "pro",
+"male_icon": "/facelab/public/thin_eyebrows_alpha_m_male_1.jpg",
+"gender": [
+"male"
+],
+"variants": [
+"thin_eyebrows_alpha_m",
+"thin_eyebrows_beta_m",
+"thin_eyebrows_delta_m",
+"thin_eyebrows_epsilon_m"
+],
+"translations": {
+"en": "Thin Eyebrows",
+"ar": "حواجب رقيقة",
+"zh-CN": "细眉毛",
+"zh-TW": "細眉毛",
+"fil": "Manipis na Kilay",
+"fr": "Petit nez",
+"de": "Dünne Augenbrauen",
+"he": "גבות דקות",
+"hi": "पतली भौहें",
+"id": "Alis tipis",
+"ja": "細い眉毛",
+"ko": "얇은 눈썹",
+"pt": "Sobrancelhas finas",
+"ru": "Тонкие брови",
+"es": "Cejas finas",
+"th": "คิ้วบาง",
+"tr": "İnce Kaşlar"
+},
+"selected_index": 1
+},
+{
+"id": "thick_eyebrows_alpha_m",
+"name": "Thick Eyebrows",
+"type": "pro",
+"male_icon": "/facelab/public/thick_eyebrows_alpha_m_male_1.jpg",
+"gender": [
+"male"
+],
+"variants": [
+"thick_eyebrows_alpha_m",
+"thick_eyebrows_beta_m",
+"thick_eyebrows_delta_m",
+"thick_eyebrows_epsilon_m"
+],
+"translations": {
+"en": "Thick Eyebrows",
+"ar": "حواجب كثيفة",
+"zh-CN": "浓浓的眉毛",
+"zh-TW": "濃濃的眉毛",
+"fil": "Makapal na kilay",
+"fr": "Petit visage",
+"de": "Dicke Augenbrauen",
+"he": "גבות עבות",
+"hi": "मोटी आइब्रो",
+"id": "Alis tebal",
+"ja": "太眉",
+"ko": "두꺼운 눈썹",
+"pt": "Sobrancelhas espessas",
+"ru": "Густые брови",
+"es": "Cejas gruesas",
+"th": "คิ้วหนา",
+"tr": "Kalın Kaşlar"
+},
+"selected_index": 1
+},
+{
+"id": "thin_eyebrows_alpha_f",
+"name": "Thin Eyebrows",
+"type": "pro",
+"female_icon": "/facelab/public/thin_eyebrows_alpha_f_female_1.jpg",
+"gender": [
+"female"
+],
+"variants": [
+"thin_eyebrows_alpha_f",
+"thin_eyebrows_beta_f",
+"thin_eyebrows_delta_f",
+"thin_eyebrows_epsilon_f"
+],
+"translations": {
+"en": "Thin Eyebrows",
+"ar": "حواجب رقيقة",
+"zh-CN": "细眉毛",
+"zh-TW": "細眉毛",
+"fil": "Manipis na Kilay",
+"fr": "Petit nez",
+"de": "Dünne Augenbrauen",
+"he": "גבות דקות",
+"hi": "पतली भौहें",
+"id": "Alis tipis",
+"ja": "細い眉毛",
+"ko": "얇은 눈썹",
+"pt": "Sobrancelhas finas",
+"ru": "Тонкие брови",
+"es": "Cejas finas",
+"th": "คิ้วบาง",
+"tr": "İnce Kaşlar"
+},
+"selected_index": 1
+},
+{
+"id": "thick_eyebrows_alpha_f",
+"name": "Thick Eyebrows",
+"type": "pro",
+"female_icon": "/facelab/public/thick_eyebrows_alpha_f_female_1.jpg",
+"gender": [
+"female"
+],
+"variants": [
+"thick_eyebrows_alpha_f",
+"thick_eyebrows_beta_f",
+"thick_eyebrows_delta_f",
+"thick_eyebrows_epsilon_f"
+],
+"translations": {
+"en": "Thick Eyebrows",
+"ar": "حواجب كثيفة",
+"zh-CN": "浓浓的眉毛",
+"zh-TW": "濃濃的眉毛",
+"fil": "Makapal na kilay",
+"fr": "Petit visage",
+"de": "Dicke Augenbrauen",
+"he": "גבות עבות",
+"hi": "मोटी आइब्रो",
+"id": "Alis tebal",
+"ja": "太眉",
+"ko": "두꺼운 눈썹",
+"pt": "Sobrancelhas espessas",
+"ru": "Густые брови",
+"es": "Cejas gruesas",
+"th": "คิ้วหนา",
+"tr": "Kalın Kaşlar"
+},
+"selected_index": 1
+},
+{
+"id": "biglips_delta_m",
+"name": "Big Lips",
+"type": "pro",
+"gender": [
+"male"
+],
+"variants": [
+"biglips_alpha_m",
+"biglips_gamma_m",
+"biglips_delta_m"
+],
+"translations": {
+"en": "Big Lips",
+"ar": "شفاه كبيرة",
+"zh-CN": "厚嘴唇",
+"zh-TW": "厚嘴唇",
+"fil": "Malaking labi",
+"fr": "Grosses Lèvres",
+"de": "Große Lippen",
+"he": "שפתיים גדולות",
+"hi": "बड़े होंठ",
+"id": "Bibir Besar",
+"ja": "大きな唇",
+"ko": "큰 입술",
+"pt": "Labios Grandes",
+"ru": "Большие губы",
+"es": "Labios Grandes",
+"th": "ริมฝีปากใหญ่",
+"tr": "Büyük Dudaklar"
+},
+"selected_index": 2,
+"male_icon": "/facelab/public/biglips_delta_m_male_1.jpg"
+},
+{
+"id": "biglips_gamma_f",
+"name": "Big Lips",
+"type": "pro",
+"gender": [
+"female"
+],
+"variants": [
+"biglips_alpha_f",
+"biglips_gamma_f",
+"biglips_delta_f"
+],
+"translations": {
+"en": "Big Lips",
+"ar": "شفاه كبيرة",
+"zh-CN": "厚嘴唇",
+"zh-TW": "厚嘴唇",
+"fil": "Malaking labi",
+"fr": "Grosses Lèvres",
+"de": "Große Lippen",
+"he": "שפתיים גדולות",
+"hi": "बड़े होंठ",
+"id": "Bibir Besar",
+"ja": "大きな唇",
+"ko": "큰 입술",
+"pt": "Labios Grandes",
+"ru": "Большие губы",
+"es": "Labios Grandes",
+"th": "ริมฝีปากใหญ่",
+"tr": "Büyük Dudaklar"
+},
+"selected_index": 1,
+"female_icon": "/facelab/public/biglips_gamma_f_female_1.jpg"
+},
+{
+"id": "big_eyes_gamma_f",
+"name": "Big Eyes",
+"type": "pro",
+"gender": [
+"female"
+],
+"variants": [
+"big_eyes_beta_f",
+"big_eyes_gamma_f",
+"big_eyes_delta_f"
+],
+"translations": {
+"en": "Big Eyes",
+"ar": "عيون كبيرة ",
+"zh-CN": "大眼睛 ",
+"zh-TW": "大眼睛 ",
+"fil": "Malaking Mata",
+"fr": "Gros Yeux",
+"de": "Große Augen",
+"he": "עיניים גדולות 1",
+"hi": "बड़ी आँखें",
+"id": "Mata Besar",
+"ja": "ビッグアイズ",
+"ko": "큰 눈",
+"pt": "Olhos Grandes",
+"ru": "Большие глаза",
+"es": "Ojos Grandes",
+"th": "ตาโต",
+"tr": "Büyük Gözler"
+},
+"selected_index": 1,
+"female_icon": "/facelab/public/big_eyes_gamma_f_female_1.jpg"
+},
+{
+"id": "big_eyes_gamma_m",
+"name": "Big Eyes",
+"type": "pro",
+"gender": [
+"male"
+],
+"variants": [
+"big_eyes_beta_m",
+"big_eyes_gamma_m",
+"big_eyes_delta_m"
+],
+"translations": {
+"en": "Big Eyes",
+"ar": "عيون كبيرة",
+"zh-CN": "大眼睛",
+"zh-TW": "大眼睛",
+"fil": "Malaking Mata",
+"fr": "Gros Yeux",
+"de": "Große Augen",
+"he": "יניים גדולות",
+"hi": "बड़ी आँखें",
+"id": "Mata Besar",
+"ja": "ビッグアイズ",
+"ko": "큰 눈",
+"pt": "Olhos Grandes",
+"ru": "Большие глаза",
+"es": "Ojos Grandes",
+"th": "ตาโต",
+"tr": "Büyük Gözler"
+},
+"selected_index": 1,
+"male_icon": "/facelab/public/big_eyes_gamma_m_male_1.jpg"
+},
+{
+"id": "cheekbones_alpha_m",
+"name": "Cheekbones",
+"type": "pro",
+"male_icon": "/facelab/public/cheekbones_alpha_m_male_1.jpg",
+"gender": [
+"male"
+],
+"variants": [
+"cheekbones_alpha_m",
+"cheekbones_beta_m",
+"cheekbones_delta_m",
+"cheekbones_epsilon_m"
+],
+"translations": {
+"en": "Cheekbones",
+"ar": "عظام الخد",
+"zh-CN": "颧骨",
+"zh-TW": "顴骨",
+"fil": "Cheekbones",
+"fr": "Grandes lèvres",
+"de": "Wangenknochen",
+"he": "עצמות לחיים",
+"hi": "एल्मासिक केमिगी",
+"id": "Tulang pipi",
+"ja": "頬骨",
+"ko": "광대뼈",
+"pt": "Maçãs do rosto",
+"ru": "Скулы",
+"es": "Pómulos",
+"th": "โหนกแก้ม",
+"tr": "Elmacık Kemikleri"
+},
+"selected_index": 1
+},
+{
+"id": "cheekbones_alpha_f",
+"name": "Cheekbones",
+"type": "pro",
+"female_icon": "/facelab/public/cheekbones_alpha_f_female_1.jpg",
+"gender": [
+"female"
+],
+"variants": [
+"cheekbones_alpha_f",
+"cheekbones_beta_f",
+"cheekbones_delta_f",
+"cheekbones_epsilon_f"
+],
+"translations": {
+"en": "Cheekbones",
+"ar": "عظام الخد",
+"zh-CN": "颧骨",
+"zh-TW": "顴骨",
+"fil": "Cheekbones",
+"fr": "Grandes lèvres",
+"de": "Wangenknochen",
+"he": "עצמות לחיים",
+"hi": "एल्मासिक केमिगी",
+"id": "Tulang pipi",
+"ja": "頬骨",
+"ko": "광대뼈",
+"pt": "Maçãs do rosto",
+"ru": "Скулы",
+"es": "Pómulos",
+"th": "โหนกแก้ม",
+"tr": "Elmacık Kemikleri"
+},
+"selected_index": 1
+},
+{
+"id": "smallface_alpha_f",
+"name": "Small Face",
+"type": "pro",
+"gender": [
+"female"
+],
+"variants": [
+"smallface_alpha_f",
+"smallface_beta_f",
+"smallface_delta_f",
+"smallface_epsilon_f"
+],
+"translations": {
+"en": "Small Face",
+"ar": "وجه صغير",
+"zh-CN": "小脸",
+"zh-TW": "小臉",
+"fil": "Maliit na Mukha",
+"fr": "Menton pointu",
+"de": "Kleines Gesicht",
+"he": "פנים קטנות",
+"hi": "छोटा चेहरा",
+"id": "Wajah Kecil",
+"ja": "小顔",
+"ko": "작은 얼굴",
+"pt": "Cara pequena",
+"ru": "Маленькое лицо",
+"es": "Cara pequeña",
+"th": "หน้าเล็ก",
+"tr": "Küçük Yüz"
+},
+"selected_index": 1,
+"female_icon": "/facelab/public/smallface_alpha_f_female_1.jpg"
+},
+{
+"id": "smallface_alpha_m",
+"name": "Small Face",
+"type": "pro",
+"male_icon": "/facelab/public/smallface_alpha_m_male_1.jpg",
+"gender": [
+"male"
+],
+"variants": [
+"smallface_alpha_m",
+"smallface_beta_m",
+"smallface_delta_m",
+"smallface_epsilon_m"
+],
+"translations": {
+"en": "Small Face",
+"ar": "وجه صغير",
+"zh-CN": "小脸",
+"zh-TW": "小臉",
+"fil": "Maliit na Mukha",
+"fr": "Menton pointu",
+"de": "Kleines Gesicht",
+"he": "פנים קטנות",
+"hi": "छोटा चेहरा",
+"id": "Wajah Kecil",
+"ja": "小顔",
+"ko": "작은 얼굴",
+"pt": "Cara pequena",
+"ru": "Маленькое лицо",
+"es": "Cara pequeña",
+"th": "หน้าเล็ก",
+"tr": "Küçük Yüz"
+},
+"selected_index": 2
+},
+{
+"id": "sharpchin_alpha_f",
+"name": "Sharp Chin",
+"type": "pro",
+"female_icon": "/facelab/public/sharpchin_alpha_f_female_1.jpg",
+"gender": [
+"female"
+],
+"variants": [
+"sharpchin_alpha_f",
+"sharpchin_gamma_f",
+"sharpchin_delta_f",
+"sharpchin_epsilon_f"
+],
+"translations": {
+"en": "Sharp Chin",
+"ar": "شارب تشين",
+"zh-CN": "尖下巴",
+"zh-TW": "尖下巴",
+"fil": "Matalas na Baba",
+"fr": "Pommettes",
+"de": "Scharfes Kinn",
+"he": "סנטר חד",
+"hi": "तेज ठोड़ी",
+"id": "Dagu tajam",
+"ja": "鋭いあご",
+"ko": "날카로운 턱",
+"pt": "Queixo afiado",
+"ru": "Острый подбородок",
+"es": "Mentón afilado",
+"th": "คางแหลม",
+"tr": "Keskin Çene"
+},
+"selected_index": 0
+},
+{
+"id": "sharpchin_alpha_m",
+"name": "Sharp Chin",
+"type": "pro",
+"male_icon": "/facelab/public/sharpchin_alpha_m_male_1.jpg",
+"gender": [
+"male"
+],
+"variants": [
+"sharpchin_alpha_m",
+"sharpchin_gamma_m",
+"sharpchin_delta_m",
+"sharpchin_epsilon_m"
+],
+"translations": {
+"en": "Sharp Chin",
+"ar": "شارب تشين",
+"zh-CN": "尖下巴",
+"zh-TW": "尖下巴",
+"fil": "Matalas na Baba",
+"fr": "Pommettes",
+"de": "Scharfes Kinn",
+"he": "סנטר חד",
+"hi": "तेज ठोड़ी",
+"id": "Dagu tajam",
+"ja": "鋭いあご",
+"ko": "날카로운 턱",
+"pt": "Queixo afiado",
+"ru": "Острый подбородок",
+"es": "Mentón afilado",
+"th": "คางแหลม",
+"tr": "Keskin Çene"
+},
+"selected_index": 2
+},
+{
+"id": "smallnose_alpha_f",
+"name": "Small Nose",
+"type": "pro",
+"gender": [
+"female"
+],
+"variants": [
+"smallnose_alpha_f",
+"smallnose_gamma_f",
+"smallnose_delta_f"
+],
+"translations": {
+"en": "Small Nose",
+"ar": "أنف صغير",
+"zh-CN": "小鼻子",
+"zh-TW": "小鼻子",
+"fil": "Maliit na ilong",
+"fr": "Sourcils épais",
+"de": "Kleine Nase",
+"he": "אף קטן",
+"hi": "छोटी नाक",
+"id": "Hidung kecil",
+"ja": "小さい鼻",
+"ko": "작은 코",
+"pt": "Nariz Pequeno",
+"ru": "Маленький нос",
+"es": "Nariz pequeña",
+"th": "จมูกเล็ก",
+"tr": "Küçük Burun"
+},
+"selected_index": 1,
+"female_icon": "/facelab/public/smallnose_alpha_f_female_1.jpg"
+},
+{
+"id": "smallnose_alpha_m",
+"name": "Small Nose",
+"type": "pro",
+"male_icon": "/facelab/public/smallnose_alpha_m_male_1.jpg",
+"gender": [
+"male"
+],
+"variants": [
+"smallnose_alpha_m",
+"smallnose_gamma_m",
+"smallnose_delta_m"
+],
+"translations": {
+"en": "Small Nose",
+"ar": "أنف صغير",
+"zh-CN": "小鼻子",
+"zh-TW": "小鼻子",
+"fil": "Maliit na ilong",
+"fr": "Sourcils épais",
+"de": "Kleine Nase",
+"he": "אף קטן",
+"hi": "छोटी नाक",
+"id": "Hidung kecil",
+"ja": "小さい鼻",
+"ko": "작은 코",
+"pt": "Nariz Pequeno",
+"ru": "Маленький нос",
+"es": "Nariz pequeña",
+"th": "จมูกเล็ก",
+"tr": "Küçük Burun"
+},
+"selected_index": 1
+},
+{
+"id": "bignose_m",
+"name": "Big Nose",
+"type": "pro",
+"gender": [
+"male"
+],
+"variants": [
+"bignose_beta_m",
+"bignose_gamma_m",
+"bignose_delta_m",
+"bignose"
+],
+"translations": {
+"en": "Big Nose",
+"ar": "انف كبير",
+"zh-CN": "大鼻子",
+"zh-TW": "大鼻子",
+"fil": "Malaking Ilong",
+"fr": "Gros Nez",
+"de": "Große Nase",
+"he": "אף גדול",
+"hi": "बड़ी नाक",
+"id": "Hidung Besar",
+"ja": "大きな鼻",
+"ko": "큰 코",
+"pt": "Nariz Grande",
+"ru": "Большой нос",
+"es": "Nariz Grande",
+"th": "จมูกใหญ่",
+"tr": "Büyük Burun"
+},
+"selected_index": 1,
+"male_icon": "/facelab/public/bignose_m_male_1.jpg"
+},
+{
+"id": "bignose_f",
+"name": "Big Nose",
+"type": "pro",
+"gender": [
+"female"
+],
+"variants": [
+"bignose_beta_f",
+"bignose_gamma_f",
+"bignose_delta_f",
+"bignose"
+],
+"translations": {
+"en": "Big Nose",
+"ar": "انف كبير",
+"zh-CN": "大鼻子",
+"zh-TW": "大鼻子",
+"fil": "Malaking Ilong",
+"fr": "Gros Nez",
+"de": "Große Nase",
+"he": "אף גדול",
+"hi": "बड़ी नाक",
+"id": "Hidung Besar",
+"ja": "大きな鼻",
+"ko": "큰 코",
+"pt": "Nariz Grande",
+"ru": "Большой нос",
+"es": "Nariz Grande",
+"th": "จมูกใหญ่",
+"tr": "Büyük Burun"
+},
+"selected_index": 1,
+"female_icon": "/facelab/public/bignose_female_1.jpg"
+}
+],
+"title": {
+"en": "Reshape",
+"ar": "الأحجام",
+"zh-CN": "尺码",
+"zh-TW": "尺碼",
+"fil": "Laki",
+"fr": "Tailles",
+"de": "Größen",
+"he": "מידות",
+"hi": "आकार",
+"id": "Ukuran",
+"ja": "大きさ",
+"ko": "크기",
+"pt": "Tamanhos",
+"ru": "Размер",
+"es": "Tallas",
+"th": "ขนาด",
+"tr": "Boyutlar"
+},
+"female_icon": "/facelab/v3/category-icons/sizes_female.png",
+"male_icon": "/facelab/v3/category-icons/sizes_male.png"
+},
+{
+"category_id": "glasses",
+"category_name": "Glasses",
+"gender": [
+"male",
+"female"
+],
+"filters": [
+{
+"id": "classic_f",
+"name": "Classic",
+"type": "free",
+"gender": [
+"female"
+],
+"variants": [
+"classic_f"
+],
+"translations": {
+"en": "Classic",
+"ar": "كلاسيك",
+"zh-CN": "经典的",
+"zh-TW": "经典的",
+"fil": "Klasiko",
+"fr": "Classique",
+"de": "Klassisch",
+"he": "קלַאסִי",
+"hi": "क्लासिक",
+"id": "Klasik",
+"ja": "クラシック",
+"ko": "권위 있는",
+"pt": "Clássica",
+"ru": "Классический",
+"es": "Clásica",
+"th": "คลาสสิก",
+"tr": "Klasik"
+},
+"female_icon": "/facelab/public/classic_f_female.jpg"
+},
+{
+"id": "classic_m",
+"name": "Classic",
+"type": "free",
+"gender": [
+"male"
+],
+"variants": [
+"classic_m"
+],
+"translations": {
+"en": "Classic",
+"ar": "كلاسيك",
+"zh-CN": "经典的",
+"zh-TW": "经典的",
+"fil": "Klasiko",
+"fr": "Classique",
+"de": "Klassisch",
+"he": "קלַאסִי",
+"hi": "क्लासिक",
+"id": "Klasik",
+"ja": "クラシック",
+"ko": "권위 있는",
+"pt": "Clássico",
+"ru": "Классический",
+"es": "Clásico",
+"th": "คลาสสิก",
+"tr": "Klasik"
+},
+"male_icon": "/facelab/public/classic_m_male.jpg"
+},
+{
+"id": "sunglasses_m",
+"name": "Sunglasses",
+"type": "pro",
+"gender": [
+"male"
+],
+"variants": [
+"sunglasses_m"
+],
+"translations": {
+"en": "Sunglasses",
+"ar": "نظارة شمسيه",
+"zh-CN": "太阳镜",
+"zh-TW": "太阳镜",
+"fil": "Salaming pang-araw",
+"fr": "Lunettes de soleil",
+"de": "Sonnenbrille",
+"he": "מישקפי שמש",
+"hi": "धूप का चश्मा",
+"id": "Kacamata hitam",
+"ja": "サングラス",
+"ko": "색안경",
+"pt": "Oculos de sol",
+"ru": "Солнечные очки",
+"es": "Gafas de sol",
+"th": "แว่นกันแดด",
+"tr": "Güneş Gözlüğü"
+},
+"male_icon": "/facelab/public/sunglasses_m_male.jpg"
+},
+{
+"id": "sunglasses_f",
+"name": "Sunglasses",
+"type": "pro",
+"gender": [
+"female"
+],
+"variants": [
+"sunglasses_f"
+],
+"translations": {
+"en": "Sunglasses",
+"ar": "نظارة شمسيه",
+"zh-CN": "太阳镜",
+"zh-TW": "太阳镜",
+"fil": "Salaming pang-araw",
+"fr": "Lunettes de soleil",
+"de": "Sonnenbrille",
+"he": "מישקפי שמש",
+"hi": "धूप का चश्मा",
+"id": "Kacamata hitam",
+"ja": "サングラス",
+"ko": "색안경",
+"pt": "Oculos de sol",
+"ru": "Солнечные очки",
+"es": "Gafas de sol",
+"th": "แว่นกันแดด",
+"tr": "Güneş Gözlüğü"
+},
+"female_icon": "/facelab/public/sunglasses_f_female.jpg"
+},
+{
+"id": "old_school_f",
+"name": "Old School",
+"type": "pro",
+"female_icon": "/facelab/public/old_school_f_female.jpg",
+"gender": [
+"female"
+],
+"variants": [
+"old_school_f"
+],
+"translations": {
+"en": "Old School",
+"ar": "مدرسة قديمة",
+"zh-CN": "老套",
+"zh-TW": "老套",
+"fil": "Luma",
+"fr": "Vieille Ecole",
+"de": "Alte Schule",
+"he": "אולד סקול",
+"hi": "पुराना स्कूल",
+"id": "Sekolah Tua",
+"ja": "オールドスクール",
+"ko": "오래된 학교",
+"pt": "Antiga Escola",
+"ru": "Старая школа",
+"es": "Vieja Escuela",
+"th": "โรงเรียนเก่า",
+"tr": "Eski Okul"
+}
+},
+{
+"id": "old_school_m",
+"name": "Old School",
+"type": "pro",
+"gender": [
+"male"
+],
+"variants": [
+"old_school_m"
+],
+"translations": {
+"en": "Old School",
+"ar": "مدرسة قديمة",
+"zh-CN": "老套",
+"zh-TW": "老套",
+"fil": "Luma",
+"fr": "Vieille Ecole",
+"de": "Alte Schule",
+"he": "אולד סקול",
+"hi": "पुराना स्कूल",
+"id": "Sekolah Tua",
+"ja": "オールドスクール",
+"ko": "오래된 학교",
+"pt": "Antiga Escola",
+"ru": "Старая школа",
+"es": "Vieja Escuela",
+"th": "โรงเรียนเก่า",
+"tr": "Eski Okul"
+},
+"male_icon": "/facelab/public/old_school_m_male.jpg"
+},
+{
+"id": "oval_f",
+"name": "Oval",
+"type": "pro",
+"female_icon": "/facelab/public/oval_f_female.jpg",
+"gender": [
+"female"
+],
+"variants": [
+"oval_f"
+],
+"translations": {
+"en": "Oval",
+"ar": "بيضاوي",
+"zh-CN": "椭圆形",
+"zh-TW": "橢圓形",
+"fil": "Oval",
+"fr": "Ovale",
+"de": "Oval",
+"he": "סְגַלגַל",
+"hi": "अंडाकार",
+"id": "Oval",
+"ja": "オーバル",
+"ko": "타원형",
+"pt": "Oval",
+"ru": "Овал",
+"es": "Oval",
+"th": "วงรี",
+"tr": "Oval"
+}
+},
+{
+"id": "oval_m",
+"name": "Oval",
+"type": "pro",
+"male_icon": "/facelab/public/oval_m_male.jpg",
+"gender": [
+"male"
+],
+"variants": [
+"oval_m"
+],
+"translations": {
+"en": "Oval",
+"ar": "بيضاوي",
+"zh-CN": "椭圆形",
+"zh-TW": "橢圓形",
+"fil": "Oval",
+"fr": "Ovale",
+"de": "Oval",
+"he": "סְגַלגַל",
+"hi": "अंडाकार",
+"id": "Oval",
+"ja": "オーバル",
+"ko": "타원형",
+"pt": "Oval",
+"ru": "Овал",
+"es": "Oval",
+"th": "วงรี",
+"tr": "Oval"
+}
+},
+{
+"id": "reading_f",
+"name": "Reading",
+"type": "pro",
+"female_icon": "/facelab/public/reading_f_female.jpg",
+"gender": [
+"female"
+],
+"variants": [
+"reading_f"
+],
+"translations": {
+"en": "Reading",
+"ar": "قراءة",
+"zh-CN": "阅读",
+"zh-TW": "閱讀",
+"fil": "Nagbabasa",
+"fr": "Lecture",
+"de": "Lesen",
+"he": "קריאה",
+"hi": "अध्ययन",
+"id": "Membaca",
+"ja": "読書",
+"ko": "독서",
+"pt": "Leitura",
+"ru": "Чтение",
+"es": "Lectura",
+"th": "การอ่าน",
+"tr": "Okuma"
+}
+},
+{
+"id": "reading_m",
+"name": "Reading",
+"type": "pro",
+"male_icon": "/facelab/public/reading_m_male.jpg",
+"gender": [
+"male"
+],
+"variants": [
+"reading_m"
+],
+"translations": {
+"en": "Reading",
+"ar": "قراءة",
+"zh-CN": "阅读",
+"zh-TW": "閱讀",
+"fil": "Nagbabasa",
+"fr": "Lecture",
+"de": "Lesen",
+"he": "קריאה",
+"hi": "अध्ययन",
+"id": "Membaca",
+"ja": "読書",
+"ko": "독서",
+"pt": "Leitura",
+"ru": "Чтение",
+"es": "Lectura",
+"th": "การอ่าน",
+"tr": "Okuma"
+}
+},
+{
+"id": "office_f",
+"name": "Office",
+"type": "pro",
+"gender": [
+"female"
+],
+"variants": [
+"office_f"
+],
+"translations": {
+"en": "Office",
+"ar": "مكتب",
+"zh-CN": "办公室",
+"zh-TW": "辦公室",
+"fil": "Opisina",
+"fr": "Bureau",
+"de": "Büro",
+"he": "מִשׂרָד",
+"hi": "कार्यालय",
+"id": "Kantor",
+"ja": "オフィス",
+"ko": "사무실",
+"pt": "Escritório",
+"ru": "Офис",
+"es": "Oficina",
+"th": "สำนักงาน",
+"tr": "Ofis"
+},
+"female_icon": "/facelab/public/office_f_female.jpg"
+},
+{
+"id": "office_m",
+"name": "Office",
+"type": "pro",
+"male_icon": "/facelab/public/office_m_male.jpg",
+"gender": [
+"male"
+],
+"variants": [
+"office_m"
+],
+"translations": {
+"en": "Office",
+"ar": "مكتب",
+"zh-CN": "办公室",
+"zh-TW": "辦公室",
+"fil": "Opisina",
+"fr": "Bureau",
+"de": "Büro",
+"he": "מִשׂרָד",
+"hi": "कार्यालय",
+"id": "Kantor",
+"ja": "オフィス",
+"ko": "사무실",
+"pt": "Escritório",
+"ru": "Офис",
+"es": "Oficina",
+"th": "สำนักงาน",
+"tr": "Ofis"
+}
+},
+{
+"id": "rounded_m",
+"name": "Rounded",
+"type": "pro",
+"male_icon": "/facelab/public/rounded_m_male.jpg",
+"gender": [
+"male"
+],
+"variants": [
+"rounded_m"
+],
+"translations": {
+"en": "Rounded",
+"ar": "مدور",
+"zh-CN": "圆形",
+"zh-TW": "圓形",
+"fil": "Bilugan",
+"fr": "Arrondi",
+"de": "Abgerundet",
+"he": "מְעוּגָל",
+"hi": "गोल",
+"id": "Bulat",
+"ja": "丸みを帯びた",
+"ko": "둥근",
+"pt": "Arredondado",
+"ru": "Закругленный",
+"es": "Redondeado",
+"th": "โค้งมน",
+"tr": "Yuvarlak"
+}
+},
+{
+"id": "rounded_f",
+"name": "Rounded",
+"type": "pro",
+"female_icon": "/facelab/public/rounded_f_female.jpg",
+"gender": [
+"female"
+],
+"variants": [
+"rounded_f"
+],
+"translations": {
+"en": "Rounded",
+"ar": "مدور",
+"zh-CN": "圆形",
+"zh-TW": "圓形",
+"fil": "Bilugan",
+"fr": "Arrondi",
+"de": "Abgerundet",
+"he": "מְעוּגָל",
+"hi": "गोल",
+"id": "Bulat",
+"ja": "丸みを帯びた",
+"ko": "둥근",
+"pt": "Arredondado",
+"ru": "Закругленный",
+"es": "Redondeado",
+"th": "โค้งมน",
+"tr": "Yuvarlak"
+}
+},
+{
+"id": "rectangle_f",
+"name": "Rectangle",
+"type": "pro",
+"female_icon": "/facelab/public/rectangle_f_female.jpg",
+"gender": [
+"female"
+],
+"variants": [
+"rectangle_f"
+],
+"translations": {
+"en": "Rectangle",
+"ar": "مستطيل",
+"zh-CN": "长方形",
+"zh-TW": "長方形",
+"fil": "Parihaba",
+"fr": "Rectangle",
+"de": "Rechteckig",
+"he": "מַלבֵּן",
+"hi": "आयत",
+"id": "Persegi panjang",
+"ja": "レクタングル",
+"ko": "직사각형",
+"pt": "Rectângulo",
+"ru": "Прямоугольник",
+"es": "Rectángulo",
+"th": "สี่เหลี่ยมผืนผ้า",
+"tr": "Dikdörtgen"
+}
+},
+{
+"id": "rectangle_m",
+"name": "Rectangle",
+"type": "pro",
+"male_icon": "/facelab/public/rectangle_m_male.jpg",
+"gender": [
+"male"
+],
+"variants": [
+"rectangle_m"
+],
+"translations": {
+"en": "Rectangle",
+"ar": "مستطيل",
+"zh-CN": "长方形",
+"zh-TW": "長方形",
+"fil": "Parihaba",
+"fr": "Rectangle",
+"de": "Rechteckig",
+"he": "מַלבֵּן",
+"hi": "आयत",
+"id": "Persegi panjang",
+"ja": "レクタングル",
+"ko": "직사각형",
+"pt": "Rectângulo",
+"ru": "Прямоугольник",
+"es": "Rectángulo",
+"th": "สี่เหลี่ยมผืนผ้า",
+"tr": "Dikdörtgen"
+}
+},
+{
+"id": "nerd_f",
+"name": "Nerd",
+"type": "pro",
+"female_icon": "/facelab/public/nerd_f_female.jpg",
+"gender": [
+"female"
+],
+"variants": [
+"nerd_f"
+],
+"translations": {
+"en": "Nerd",
+"ar": "مجتهد",
+"zh-CN": "书呆子",
+"zh-TW": "書呆子",
+"fil": "Nerd",
+"fr": "Intello",
+"de": "Nerd",
+"he": "חנון",
+"hi": "पढ़ाकू",
+"id": "Orang aneh",
+"ja": "ナード",
+"ko": "얼간이",
+"pt": "Nerd",
+"ru": "Ботаник",
+"es": "Nerd",
+"th": "เนิร์ด",
+"tr": "İnek"
+}
+},
+{
+"id": "nerd_m",
+"name": "Nerd",
+"type": "pro",
+"gender": [
+"male"
+],
+"variants": [
+"nerd_m"
+],
+"translations": {
+"en": "Nerd",
+"ar": "مجتهد",
+"zh-CN": "书呆子",
+"zh-TW": "書呆子",
+"fil": "Nerd",
+"fr": "Intello",
+"de": "Nerd",
+"he": "חנון",
+"hi": "पढ़ाकू",
+"id": "Orang aneh",
+"ja": "ナード",
+"ko": "얼간이",
+"pt": "Nerd",
+"ru": "Ботаник",
+"es": "Nerd",
+"th": "เนิร์ด",
+"tr": "İnek"
+},
+"male_icon": "/facelab/public/nerd_m_male.jpg"
+},
+{
+"id": "noglasses_m",
+"name": "No Glasses",
+"type": "pro",
+"gender": [
+"male"
+],
+"variants": [
+"noglasses_m"
+],
+"translations": {
+"en": "No Glasses",
+"ar": "بلا نظارات",
+"zh-CN": "没有眼镜",
+"zh-TW": "没有眼镜",
+"fil": "Walang Salamin",
+"fr": "Pas de lunettes",
+"de": "Keine Brille",
+"he": "ללא משקפיים",
+"hi": "कोई चश्मा नहीं",
+"id": "Tanpa Kacamata",
+"ja": "メガネなし",
+"ko": "안경 없음",
+"pt": "Sem óculos",
+"ru": "Без очков",
+"es": "Sin Gafas",
+"th": "ไม่มีแว่นตา",
+"tr": "Gözlüksüz"
+},
+"male_icon": "/facelab/public/noglasses_m_male.jpg"
+},
+{
+"id": "noglasses_f",
+"name": "No Glasses",
+"type": "pro",
+"gender": [
+"female"
+],
+"variants": [
+"noglasses_f"
+],
+"translations": {
+"en": "No Glasses",
+"ar": "بلا نظارات",
+"zh-CN": "没有眼镜",
+"zh-TW": "没有眼镜",
+"fil": "Walang Salamin",
+"fr": "Pas de lunettes",
+"de": "Keine Brille",
+"he": "ללא משקפיים",
+"hi": "कोई चश्मा नहीं",
+"id": "Tanpa Kacamata",
+"ja": "メガネなし",
+"ko": "안경 없음",
+"pt": "Sem óculos",
+"ru": "Без очков",
+"es": "Sin Gafas",
+"th": "ไม่มีแว่นตา",
+"tr": "Gözlüksüz"
+},
+"female_icon": "/facelab/public/noglasses_f_female.jpg"
+}
+],
+"title": {
+"en": "Glasses",
+"ar": "نظارات",
+"zh-CN": "眼镜",
+"zh-TW": "眼鏡",
+"fil": "Baso",
+"fr": "Lunettes",
+"de": "Brille",
+"he": "משקפיים",
+"hi": "चश्मा",
+"id": "Kacamata",
+"ja": "メガネ",
+"ko": "안경착용",
+"pt": "Óculos",
+"ru": "Очки",
+"es": "Gafas",
+"th": "แว่นตา",
+"tr": "Gözlük"
+},
+"female_icon": "/facelab/v3/category-icons/glasses_female.png",
+"male_icon": "/facelab/v3/category-icons/glasses_male.png"
+},
+{
+"category_id": "skin",
+"category_name": "Skin",
+"gender": [
+"female",
+"male"
+],
+"female_icon": "/facelab/v3/category-icons/skin_female.png",
+"male_icon": "/facelab/v3/category-icons/skin_male.png",
+"filters": [
+{
+"id": "freckles_alpha_f",
+"name": "Freckles",
+"type": "free",
+"gender": [
+"female"
+],
+"variants": [
+"freckles_alpha_f",
+"freckles_beta_f",
+"freckles_delta_f",
+"freckles_epsilon_f"
+],
+"translations": {
+"en": "Freckles",
+"ar": "نمش",
+"zh-CN": "皱纹",
+"zh-TW": "雀斑",
+"fil": "Mga pekas",
+"fr": "Éphélides",
+"de": "Sprossen",
+"he": "נמשים",
+"hi": "झाईयां",
+"id": "Berbintik",
+"ja": "しみ",
+"ko": "주근깨",
+"pt": "Sardas",
+"ru": "Веснушки",
+"es": "Pecas",
+"th": "ตกกระ",
+"tr": "Çiller"
+},
+"selected_index": 2,
+"female_icon": "/facelab/public/freckles_alpha_f_female.jpg"
+},
+{
+"id": "freckles_alpha_m",
+"name": "Freckles",
+"type": "free",
+"gender": [
+"male"
+],
+"variants": [
+"freckles_alpha_m",
+"freckles_beta_m",
+"freckles_delta_m",
+"freckles_epsilon_m"
+],
+"translations": {
+"en": "Freckles",
+"ar": "نمش",
+"zh-CN": "皱纹",
+"zh-TW": "雀斑",
+"fil": "Mga pekas",
+"fr": "Éphélides",
+"de": "Sprossen",
+"he": "נמשים",
+"hi": "झाईयां",
+"id": "Berbintik",
+"ja": "しみ",
+"ko": "주근깨",
+"pt": "Sardas",
+"ru": "Веснушки",
+"es": "Pecas",
+"th": "ตกกระ",
+"tr": "Çiller"
+},
+"selected_index": 1,
+"male_icon": "/facelab/public/freckles_alpha_m_male.jpg"
+},
+{
+"id": "tanned_f_beta",
+"name": "Tanned",
+"type": "pro",
+"female_icon": "/facelab/public/tanned_f_beta_female.jpg",
+"gender": [
+"female"
+],
+"variants": [
+"tanned_f_beta",
+"tanned_f_gamma",
+"tanned_f_delta",
+"tanned_f_epsilon"
+],
+"translations": {
+"en": "Tanned",
+"ar": "عملية تسمير البشرة",
+"zh-CN": "晒黑的",
+"zh-TW": "曬黑的",
+"fil": "Tanned",
+"fr": "Bronzé",
+"de": "Braun gebrannt",
+"he": "שָׁזוּף",
+"hi": "प्रतिबंधित",
+"id": "Kecokelatan",
+"ja": "日焼けした",
+"ko": "검게 그을린",
+"pt": "Bronzeada",
+"ru": "Загорелый",
+"es": "Bronceado",
+"th": "ดำขำ",
+"tr": "Bronz"
+},
+"selected_index": 1
+},
+{
+"id": "tanned_m_beta",
+"name": "Tanned",
+"type": "pro",
+"male_icon": "/facelab/public/tanned_m_beta_male.jpg",
+"gender": [
+"male"
+],
+"variants": [
+"tanned_m_beta",
+"tanned_m_gamma",
+"tanned_m_delta",
+"tanned_m_epsilon"
+],
+"translations": {
+"en": "Tanned",
+"ar": "عملية تسمير البشرة",
+"zh-CN": "晒黑的",
+"zh-TW": "曬黑的",
+"fil": "Tanned",
+"fr": "Bronzé",
+"de": "Braun gebrannt",
+"he": "שָׁזוּף",
+"hi": "प्रतिबंधित",
+"id": "Kecokelatan",
+"ja": "日焼けした",
+"ko": "검게 그을린",
+"pt": "Bronzeada",
+"ru": "Загорелый",
+"es": "Bronceado",
+"th": "ดำขำ",
+"tr": "Bronz"
+},
+"selected_index": 1
+},
+{
+"id": "smooth_f_alpha",
+"name": "Smooth",
+"type": "pro",
+"female_icon": "/facelab/public/smooth_f_alpha_female.jpg",
+"gender": [
+"female"
+],
+"variants": [
+"smooth_f_alpha",
+"smooth_f_beta",
+"smooth_f_delta",
+"smooth_f_epsilon"
+],
+"translations": {
+"en": "Smooth",
+"ar": "سلس",
+"zh-CN": "光滑的",
+"zh-TW": "光滑的",
+"fil": "Makinis",
+"fr": "Lisse",
+"de": "Glatt",
+"he": "חלק",
+"hi": "चिकना",
+"id": "Mulus",
+"ja": "スムーズ",
+"ko": "매끄러운",
+"pt": "Suave",
+"ru": "Гладкий",
+"es": "Liso",
+"th": "เรียบ",
+"tr": "Pürüzsüz"
+},
+"selected_index": 2
+},
+{
+"id": "smooth_m_beta",
+"name": "Smooth",
+"type": "pro",
+"gender": [
+"male"
+],
+"variants": [
+"smooth_m_alpha",
+"smooth_m_beta",
+"smooth_m_delta",
+"smooth_m_epsilon"
+],
+"translations": {
+"en": "Smooth",
+"ar": "سلس",
+"zh-CN": "光滑的",
+"zh-TW": "光滑的",
+"fil": "Makinis",
+"fr": "Lisse",
+"de": "Glatt",
+"he": "חלק",
+"hi": "चिकना",
+"id": "Mulus",
+"ja": "スムーズ",
+"ko": "매끄러운",
+"pt": "Suave",
+"ru": "Гладкий",
+"es": "Liso",
+"th": "เรียบ",
+"tr": "Pürüzsüz"
+},
+"selected_index": 2,
+"male_icon": "/facelab/public/smooth_m_beta_male.jpg"
+},
+{
+"id": "matte_alpha_f",
+"name": "Matte",
+"type": "pro",
+"female_icon": "/facelab/public/matte_alpha_f_female.jpg",
+"gender": [
+"female"
+],
+"variants": [
+"matte_alpha_f",
+"matte_beta_f",
+"matte_delta_f",
+"matte_epsilon_f"
+],
+"translations": {
+"en": "Matte",
+"ar": "حصيرة",
+"zh-CN": "垫",
+"zh-TW": "墊",
+"fil": "Mat",
+"fr": "Mat",
+"de": "Matt",
+"he": "דָהוּי",
+"hi": "मैट",
+"id": "Matte",
+"ja": "マット",
+"ko": "매트",
+"pt": "Fosco",
+"ru": "матовый",
+"es": "Mate",
+"th": "เคลือบ",
+"tr": "Mat"
+},
+"selected_index": 2
+},
+{
+"id": "matte_alpha_m",
+"name": "Matte",
+"type": "pro",
+"male_icon": "/facelab/public/matte_alpha_m_male.jpg",
+"gender": [
+"male"
+],
+"variants": [
+"matte_alpha_m",
+"matte_beta_m",
+"matte_delta_m",
+"matte_epsilon_m"
+],
+"translations": {
+"en": "Matte",
+"ar": "حصيرة",
+"zh-CN": "垫",
+"zh-TW": "墊",
+"fil": "Mat",
+"fr": "Mat",
+"de": "Matt",
+"he": "דָהוּי",
+"hi": "मैट",
+"id": "Matte",
+"ja": "マット",
+"ko": "매트",
+"pt": "Fosco",
+"ru": "матовый",
+"es": "Mate",
+"th": "เคลือบ",
+"tr": "Mat"
+},
+"selected_index": 1
+},
+{
+"id": "shine_alpha_f",
+"name": "Shine",
+"type": "pro",
+"female_icon": "/facelab/public/shine_alpha_f_female.jpg",
+"gender": [
+"female"
+],
+"variants": [
+"shine_alpha_f",
+"shine_beta_f",
+"shine_delta_f",
+"shine_epsilon_f"
+],
+"translations": {
+"en": "Shine",
+"ar": "لامع",
+"zh-CN": "闪亮的",
+"zh-TW": "閃亮的",
+"fil": "Makintab",
+"fr": "Brillant",
+"de": "Glänzen",
+"he": "זוהר",
+"hi": "चमकना",
+"id": "Bersinar",
+"ja": "輝く",
+"ko": "빛나는",
+"pt": "Brilhar",
+"ru": "Светить",
+"es": "Brillar",
+"th": "ส่องแสง",
+"tr": "Parla"
+},
+"selected_index": 1
+},
+{
+"id": "shine_alpha_m",
+"name": "Shine",
+"type": "pro",
+"male_icon": "/facelab/public/shine_alpha_m_male.jpg",
+"gender": [
+"male"
+],
+"variants": [
+"shine_alpha_m",
+"shine_beta_m",
+"shine_delta_m",
+"shine_epsilon_m"
+],
+"translations": {
+"en": "Shine",
+"ar": "لامع",
+"zh-CN": "闪亮的",
+"zh-TW": "閃亮的",
+"fil": "Makintab",
+"fr": "Brillant",
+"de": "Glänzen",
+"he": "זוהר",
+"hi": "चमकना",
+"id": "Bersinar",
+"ja": "輝く",
+"ko": "빛나는",
+"pt": "Brilhar",
+"ru": "Светить",
+"es": "Brillar",
+"th": "ส่องแสง",
+"tr": "Parla"
+},
+"selected_index": 1
+},
+{
+"id": "unwrinkled_f_alpha",
+"name": "Unwrinkled",
+"type": "pro",
+"gender": [
+"female"
+],
+"variants": [
+"unwrinkled_f_alpha",
+"unwrinkled_f_beta",
+"unwrinkled_f_delta",
+"unwrinkled_f_epsilon"
+],
+"translations": {
+"en": "Unwrinkled",
+"ar": "غير مجعد",
+"zh-CN": "无皱纹",
+"zh-TW": "無皺紋",
+"fil": "Hindi kulubot",
+"fr": "Non froissé",
+"de": "Faltenfrei",
+"he": "ללא קמטים",
+"hi": "बिना झुर्रियों वाला",
+"id": "Tidak kusut",
+"ja": "しわのない",
+"ko": "주름이 없는",
+"pt": "sem rugas",
+"ru": "Без морщин",
+"es": "sin arrugas",
+"th": "ไม่เหี่ยวย่น",
+"tr": "Kırışıksız"
+},
+"selected_index": 1,
+"female_icon": "/facelab/public/unwrinkled_f_alpha_female.jpg"
+},
+{
+"id": "unwrinkled_m_alpha",
+"name": "Unwrinkled",
+"type": "pro",
+"male_icon": "/facelab/public/unwrinkled_m_alpha_male.jpg",
+"gender": [
+"male"
+],
+"variants": [
+"unwrinkled_m_alpha",
+"unwrinkled_m_beta",
+"unwrinkled_m_delta",
+"unwrinkled_m_epsilon"
+],
+"translations": {
+"en": "Unwrinkled",
+"ar": "غير مجعد",
+"zh-CN": "无皱纹",
+"zh-TW": "無皺紋",
+"fil": "Hindi kulubot",
+"fr": "Non froissé",
+"de": "Faltenfrei",
+"he": "ללא קמטים",
+"hi": "बिना झुर्रियों वाला",
+"id": "Tidak kusut",
+"ja": "しわのない",
+"ko": "주름이 없는",
+"pt": "sem rugas",
+"ru": "Без морщин",
+"es": "sin arrugas",
+"th": "ไม่เหี่ยวย่น",
+"tr": "Kırışıksız"
+},
+"selected_index": 2
+},
+{
+"id": "no_eye_bags_alpha_f",
+"name": "No Eyebags",
+"type": "pro",
+"female_icon": "/facelab/public/no_eye_bags_alpha_f_female.jpg",
+"gender": [
+"female"
+],
+"variants": [
+"no_eye_bags_alpha_f",
+"no_eye_bags_beta_f",
+"no_eye_bags_delta_f",
+"no_eye_bags_epsilon_f"
+],
+"translations": {
+"en": "No Eyebags",
+"ar": "عين بدون كيس",
+"zh-CN": "无眼袋",
+"zh-TW": "無眼袋",
+"fil": "Walang Bag",
+"fr": "Sans Pochette",
+"de": "Augensacklos",
+"he": "ללא תיק עיניים",
+"hi": "बिना आंखों वाला",
+"id": "Tanpa Kantung mata",
+"ja": "アイバッグレス",
+"ko": "아이백리스",
+"pt": "Eyebagless",
+"ru": "без мешков",
+"es": "Sin Bolsa",
+"th": "ไม่มีถุงใต้ตา",
+"tr": "Göz Torbasız"
+},
+"selected_index": 2
+},
+{
+"id": "no_eye_bags_alpha_m",
+"name": "No Eyebags",
+"type": "pro",
+"male_icon": "/facelab/public/no_eye_bags_alpha_m_male.jpg",
+"gender": [
+"male"
+],
+"variants": [
+"no_eye_bags_alpha_m",
+"no_eye_bags_beta_m",
+"no_eye_bags_delta_m",
+"no_eye_bags_epsilon_m"
+],
+"translations": {
+"en": "No Eyebags",
+"ar": "عين بدون كيس",
+"zh-CN": "无眼袋",
+"zh-TW": "無眼袋",
+"fil": "Walang Bag",
+"fr": "Sans Pochette",
+"de": "Augensacklos",
+"he": "ללא תיק עיניים",
+"hi": "बिना आंखों वाला",
+"id": "Tanpa Kantung mata",
+"ja": "アイバッグレス",
+"ko": "아이백리스",
+"pt": "Eyebagless",
+"ru": "без мешков",
+"es": "Sin Bolsa",
+"th": "ไม่มีถุงใต้ตา",
+"tr": "Göz Torbasız"
+},
+"selected_index": 1
+}
+],
+"title": {
+"en": "Skin",
+"ar": "البشرة",
+"zh-CN": "皮肤",
+"zh-TW": "皮膚",
+"fil": "Balat",
+"fr": "Peau",
+"de": "Haut",
+"he": "עור",
+"hi": "त्वचा",
+"id": "Kulit",
+"ja": "肌",
+"ko": "피부",
+"pt": "Pele",
+"ru": "Кожа",
+"es": "Piel",
+"th": "ผิว",
+"tr": "Cilt"
+}
+},
+{
+"category_id": "beard_female",
+"category_name": "Beard-female",
+"gender": [
+"female"
+],
+"female_icon": "/facelab/v3/category-icons/beard_female_female.png",
+"filters": [
+{
+"id": "stubble_f",
+"name": "Stubble",
+"type": "free",
+"gender": [
+"female"
+],
+"variants": [
+"stubble_f"
+],
+"translations": {
+"en": "Stubble",
+"ar": "قصبة",
+"zh-CN": "茬",
+"zh-TW": "茬",
+"fil": "Pinaggapasan",
+"fr": "Chaume",
+"de": "Stoppel",
+"he": "זִיפֵי זָקָן",
+"hi": "खूंटी",
+"id": "Tunggul",
+"ja": "無精ひげ",
+"ko": "그루터기",
+"pt": "Restolho",
+"ru": "Щетина",
+"es": "Rastrojo",
+"th": "ตอซัง",
+"tr": "Kirli Sakal"
+},
+"female_icon": "/facelab/public/stubble_f_female.jpg"
+},
+{
+"id": "fullbeard_f",
+"name": "Full Beard",
+"type": "pro",
+"gender": [
+"female"
+],
+"variants": [
+"fullbeard_f"
+],
+"translations": {
+"en": "Full Beard",
+"ar": "لحية كاملة",
+"zh-CN": "大胡子",
+"zh-TW": "大鬍子",
+"fil": "Buong Balbas",
+"fr": "Barbe Complète",
+"de": "Vollbart",
+"he": "זקן מלא",
+"hi": "पूरी दाढ़ी",
+"id": "Jenggot Penuh",
+"ja": "完全なひげ",
+"ko": "풀 비어드",
+"pt": "Barba Cheia",
+"ru": "полная борода",
+"es": "Barba Completa",
+"th": "เคราเต็ม",
+"tr": "Tam Sakal"
+},
+"female_icon": "/facelab/public/fullbeard_f_female.jpg"
+},
+{
+"id": "mustache_f",
+"name": "Mustache",
+"type": "pro",
+"gender": [
+"female"
+],
+"variants": [
+"mustache_f"
+],
+"translations": {
+"en": "Mustache",
+"ar": "شارب",
+"zh-CN": "胡子",
+"zh-TW": "鬍子",
+"fil": "Bigote",
+"fr": "Moustache",
+"de": "Schnurrbart",
+"he": "שפם",
+"hi": "मूंछ",
+"id": "Kumis",
+"ja": "口ひげ",
+"ko": "수염",
+"pt": "Bigode",
+"ru": "Усы",
+"es": "Bigote",
+"th": "หนวด",
+"tr": "Bıyık"
+},
+"female_icon": "/facelab/public/mustache_f_female.jpg"
+},
+{
+"id": "goatee_f",
+"name": "Goatee",
+"type": "pro",
+"gender": [
+"female"
+],
+"variants": [
+"goatee_f"
+],
+"translations": {
+"en": "Goatee",
+"ar": "سكسوكة",
+"zh-CN": "山羊胡子",
+"zh-TW": "山羊鬍子",
+"fil": "Goatee",
+"fr": "Barbiche",
+"de": "Spitzbart",
+"he": "זָקָן הָתַיִשׁ",
+"hi": "बकरे की सी दाढ़ी",
+"id": "Janggut",
+"ja": "あごひげ",
+"ko": "수염",
+"pt": "Cavanhaque",
+"ru": "Эспаньолка",
+"es": "Barbas de Chivo",
+"th": "เคราแพะ",
+"tr": "Keçi Sakalı"
+},
+"female_icon": "/facelab/public/goatee_f_female.jpg"
+},
+{
+"id": "goat_f",
+"name": "Goat",
+"type": "pro",
+"gender": [
+"female"
+],
+"variants": [
+"goat_f"
+],
+"translations": {
+"en": "Goat",
+"ar": "معزة",
+"zh-CN": "山羊",
+"zh-TW": "山羊",
+"fil": "Kambing",
+"fr": "Chèvre",
+"de": "Ziege",
+"he": "עֵז",
+"hi": "बकरी",
+"id": "Kambing",
+"ja": "ヤギ",
+"ko": "염소",
+"pt": "Cabra",
+"ru": "Козел",
+"es": "Cabra",
+"th": "แพะ",
+"tr": "Keçi"
+},
+"female_icon": "/facelab/public/goat_f_female.jpg"
+},
+{
+"id": "lion_f",
+"name": "Lion",
+"type": "pro",
+"gender": [
+"female"
+],
+"variants": [
+"lion_f"
+],
+"translations": {
+"en": "Lion",
+"ar": "أسد",
+"zh-CN": "狮子",
+"zh-TW": "獅子",
+"fil": "Leon",
+"fr": "Lion",
+"de": "Löwe",
+"he": "אַריֵה",
+"hi": "शेर",
+"id": "Singa",
+"ja": "ライオン",
+"ko": "사자",
+"pt": "Leão",
+"ru": "Лев",
+"es": "León",
+"th": "สิงโต",
+"tr": "Aslan"
+},
+"female_icon": "/facelab/public/lion_f_female.jpg"
+},
+{
+"id": "petite_goatee_f",
+"name": "Goatee 1",
+"type": "pro",
+"gender": [
+"female"
+],
+"variants": [
+"petite_goatee_f"
+],
+"translations": {
+"en": "Goatee 1",
+"ar": "1 سكسوكة",
+"zh-CN": "山羊胡子 1",
+"zh-TW": "山羊鬍子 1",
+"fil": "Goatee 1",
+"fr": "Barbiche 1",
+"de": "Spitzbart 1",
+"he": "1 זָקָן הָתַיִשׁ",
+"hi": "बकरे की सी दाढ़ी 1",
+"id": "Janggut 1",
+"ja": "あごひげ 1",
+"ko": "수염 1",
+"pt": "Cavanhaque 1",
+"ru": "Эспаньолка 1",
+"es": "Barbas de Chivo 1",
+"th": "1 เคราแพะ",
+"tr": "Keçi Sakalı 1"
+},
+"female_icon": "/facelab/public/petite_goatee_f_female.jpg"
+}
+],
+"title": {
+"en": "Beard",
+"ar": "لحية",
+"zh-CN": "胡子",
+"zh-TW": "鬍鬚",
+"fil": "Balbas",
+"fr": "Barbe",
+"de": "Bart",
+"he": "זקן",
+"hi": "दाढ़ी",
+"id": "Jenggot",
+"ja": "ひげ",
+"ko": "턱수염",
+"pt": "Barba",
+"ru": "Борода",
+"es": "Barba",
+"th": "เครา",
+"tr": "Sakal"
+}
+},
+{
+"title": {
+"en": "Cartoon",
+"tr": "Karikatür",
+"ar": "كارتون",
+"de": "Cartoon",
+"es": "Caricatura",
+"fil": "Cartoon",
+"fr": "Caricature",
+"hi": "कार्टून",
+"id": "Kartun",
+"ja": "アニメ",
+"ko": "카툰",
+"pt": "Desenhos Animados",
+"ru": "Мультфильм",
+"th": "การ์ตูน",
+"zh-CN": "卡通",
+"zh-TW": "卡通",
+"he": "דמות מצוירת"
+},
+"female_icon": "/facelab_v3/female/cartoon/icon.png",
+"category_name": "CARTOON",
+"gender": [
+"male",
+"female"
+],
+"category_id": "cartoon",
+"filters": [
+{
+"female_icon": "/facelab/public/child2d_f_female.jpg",
+"variants": [
+"child2d"
+],
+"type": "free",
+"gender": [
+"male",
+"female"
+],
+"name": "Cartoon",
+"id": "child2d",
+"male_icon": "/facelab/public/child2d_male_1.jpg",
+"translations": {
+"en": "Cartoon",
+"ar": "كارتون",
+"zh-CN": "卡通",
+"zh-TW": "卡通",
+"fil": "Kartun",
+"fr": "Dessin",
+"de": "Comic",
+"hi": "कार्टून",
+"id": "Kartun",
+"ja": "アニメ",
+"ko": "카툰",
+"pt": "Desenho",
+"ru": "Мультик",
+"es": "Dibujo Animado",
+"th": "การ์ตูน",
+"tr": "Karikatür",
+"he": "סרט מצויר"
+}
+},
+{
+"female_icon": "/facelab/public/child3d_f_female.jpg",
+"variants": [
+"toon3d"
+],
+"type": "free",
+"gender": [
+"male",
+"female"
+],
+"name": "Disney",
+"id": "toon3d",
+"male_icon": "/facelab/public/toon3d_male_1.jpg",
+"translations": {
+"en": "Disney",
+"ar": "ديزني",
+"zh-CN": "迪斯尼",
+"zh-TW": "迪士尼",
+"fil": "Disney",
+"fr": "Disney",
+"de": "Disney",
+"hi": "डिज्नी",
+"id": "Disney",
+"ja": "ディズニー",
+"ko": "디즈니",
+"pt": "Disney",
+"ru": "Дисней",
+"es": "Disney",
+"th": "ดิสนีย์",
+"tr": "Disney",
+"he": "דיסני"
+}
+},
+{
+"female_icon": "/facelab/public/royal2d_f_female.jpg",
+"variants": [
+"royal2d"
+],
+"type": "free",
+"gender": [
+"male",
+"female"
+],
+"name": "Charm",
+"id": "royal2d",
+"male_icon": "/facelab/public/royal2d_male_1.jpg",
+"translations": {
+"en": "Charm",
+"ar": "سحر",
+"zh-CN": "迷人",
+"zh-TW": "優雅迷人",
+"fil": "Alindog",
+"fr": "Charme",
+"de": "Charme",
+"hi": "आकर्षण",
+"id": "Pesona",
+"ja": "魅力的",
+"ko": "차밍",
+"pt": "Charme",
+"ru": "Шарм",
+"es": "Encanto",
+"th": "เสน่ห์",
+"tr": "Cazibe",
+"he": "קסם"
+}
+},
+{
+"female_icon": "/facelab/public/bfantasy_f_female.jpg",
+"variants": [
+"bfantasy"
+],
+"type": "pro",
+"gender": [
+"male",
+"female"
+],
+"name": "Miracle",
+"id": "bfantasy",
+"male_icon": "/facelab/public/bfantasy_male_1.jpg",
+"translations": {
+"en": "Miracle",
+"ar": "معجزة",
+"zh-CN": "圣迹",
+"zh-TW": "奇蹟",
+"fil": "Milagro",
+"fr": "Miracle",
+"de": "Wunder",
+"hi": "चमत्कार",
+"id": "Keajaiban",
+"ja": "奇跡",
+"ko": "미라클",
+"pt": "Milagre",
+"ru": "Чудо",
+"es": "Milagro",
+"th": "มิราเคิล",
+"tr": "Mucize",
+"he": "נס"
+}
+},
+{
+"female_icon": "/facelab/public/bnatural_f_female.jpg",
+"variants": [
+"bnatural"
+],
+"type": "pro",
+"gender": [
+"male",
+"female"
+],
+"name": "Glam",
+"id": "bnatural",
+"male_icon": "/facelab/public/bnatural_male_1.jpg",
+"translations": {
+"en": "Glam",
+"ar": "بريق",
+"zh-CN": "华丽",
+"zh-TW": "魅力四射",
+"fil": "Glamorosa",
+"fr": "Glamour",
+"de": "Glam",
+"hi": "ग्लैम",
+"id": "Glamor",
+"ja": "豪華",
+"ko": "글램",
+"pt": "Glamour",
+"ru": "Гламур",
+"es": "Glamour",
+"th": "ดึงดูดใจ",
+"tr": "Işıltı",
+"he": "זוהר"
+}
+},
+{
+"female_icon": "/facelab/public/painting2_f_female.jpg",
+"variants": [
+"painting2"
+],
+"type": "pro",
+"gender": [
+"male",
+"female"
+],
+"name": "Renaissance",
+"id": "painting2",
+"male_icon": "/facelab/public/painting2_male_1.jpg",
+"translations": {
+"en": "Renaissance",
+"ar": "عصر النهضة",
+"zh-CN": "文艺复兴",
+"zh-TW": "文藝復興",
+"fil": "Pagbabalik",
+"fr": "Renaissance",
+"de": "Renaissance",
+"hi": "पुनर्जागरण काल",
+"id": "Renaisans",
+"ja": "ルネッサンス",
+"ko": "르네상스",
+"pt": "Renascença",
+"ru": "Ренессанс",
+"es": "Renacimiento",
+"th": "เรเนสซองส์",
+"tr": "Rönesans",
+"he": "רנסנס"
+}
+},
+{
+"female_icon": "/facelab/public/toon2d_f_female.jpg",
+"variants": [
+"toon2d"
+],
+"type": "free",
+"gender": [
+"male",
+"female"
+],
+"name": "Idol",
+"id": "toon2d",
+"male_icon": "/facelab/public/toon2d_male_1.jpg",
+"translations": {
+"en": "Idol",
+"ar": "محبوب",
+"zh-CN": "偶像",
+"zh-TW": "偶像",
+"fil": "Idolo",
+"fr": "Idole",
+"de": "Idol",
+"hi": "प्रतिमा",
+"id": "Idola",
+"ja": "アイドル",
+"ko": "아이돌",
+"pt": "Ídolo",
+"ru": "Кумир",
+"es": "Ídolo",
+"th": "ไอดอล",
+"tr": "İdol",
+"he": "איידול"
+}
+},
+{
+"female_icon": "/facelab/public/aura_f_female.jpg",
+"variants": [
+"aura"
+],
+"type": "free",
+"gender": [
+"male",
+"female"
+],
+"name": "Aura",
+"id": "aura",
+"male_icon": "/facelab/public/aura_male_1.jpg",
+"translations": {
+"en": "Aura",
+"ar": "هالة",
+"zh-CN": "光环",
+"zh-TW": "光環",
+"fil": "Aura",
+"fr": "Aura",
+"de": "Aura",
+"hi": "औरा",
+"id": "Aura",
+"ja": "オーラ",
+"ko": "영기",
+"pt": "Aura",
+"ru": "Aура",
+"es": "Aura",
+"th": "ออร่า",
+"tr": "Aura",
+"he": "הילה"
+}
+},
+{
+"female_icon": "/facelab/public/child3d_f_female.jpg",
+"variants": [
+"child3d"
+],
+"type": "free",
+"gender": [
+"male",
+"female"
+],
+"name": "Fantasia",
+"id": "child3d",
+"male_icon": "/facelab/public/child3d_male_1.jpg",
+"translations": {
+"en": "Fantasia",
+"ar": "فانتازيا",
+"zh-CN": "梦幻",
+"zh-TW": "幻想",
+"fil": "Pantasya",
+"fr": "Fantaisie",
+"de": "Fantasia",
+"hi": "कल्पना",
+"id": "Fantasi",
+"ja": "ファンタジー",
+"ko": "판타지아",
+"pt": "Fantasia",
+"ru": "Фантазия",
+"es": "Fantasía",
+"th": "แฟนตาเซีย",
+"tr": "Fantezi",
+"he": "פנטסיה"
+}
+},
+{
+"female_icon": "/facelab/public/cartoon2_f_female.jpg",
+"variants": [
+"cartoon2"
+],
+"type": "free",
+"gender": [
+"male",
+"female"
+],
+"name": "Caricature",
+"id": "cartoon2",
+"male_icon": "/facelab/public/cartoon2_male_1.jpg",
+"translations": {
+"en": "Caricature",
+"ar": "كاريكاتير",
+"zh-CN": "漫画",
+"zh-TW": "似顏繪",
+"fil": "Karikatura",
+"fr": "Caricature",
+"de": "Karikatur",
+"hi": "कैरीकेचर",
+"id": "Karikatur",
+"ja": "カリカチュア",
+"ko": "캐리커쳐",
+"pt": "Caricatura",
+"ru": "Карикатура",
+"es": "Caricatura",
+"th": "ภาพล้อ",
+"tr": "Karikatür",
+"he": "קריקטורה"
+}
+},
+{
+"female_icon": "/facelab/public/zombie_f_female.jpg",
+"variants": [
+"zombie"
+],
+"type": "free",
+"gender": [
+"male",
+"female"
+],
+"name": "Zombie",
+"id": "zombie",
+"male_icon": "/facelab/public/zombie_male_1.jpg",
+"translations": {
+"en": "Zombie",
+"ar": "زومبي",
+"zh-CN": "僵尸",
+"zh-TW": "殭屍",
+"fil": "Zombie",
+"fr": "Zombie",
+"de": "Zombie",
+"hi": "ज़ोंबी",
+"id": "Zombie",
+"ja": "ゾンビ",
+"ko": "좀비",
+"pt": "Zumbi",
+"ru": "Зомби",
+"es": "Zombie",
+"th": "ซอมบี้",
+"tr": "Zombi",
+"he": "זומבי"
+}
+}
+],
+"male_icon": "/facelab_v3/male/cartoon/icon.png"
+}
+]

@@ -1,0 +1,102 @@
+<nav class="navbar navbar-expand-lg navbar-light bg-light">
+    <p><a class="navbar-brand" href="#">FaceLab Documentation</a> <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
+            <span class="navbar-toggler-icon"></span>
+        </button></p>
+    <div class="collapse navbar-collapse" id="navbarNav">
+        <ul class="navbar-nav">
+            <li class="nav-item active"><a class="nav-link" href="#introduction">Introduction</a></li>
+            <li class="nav-item"><a class="nav-link" href="#installation">Installation</a></li>
+            <li class="nav-item"><a class="nav-link" href="#training">Training</a></li>
+            <li class="nav-item"><a class="nav-link" href="#generate">Generate Faces</a></li>
+            <li class="nav-item"><a class="nav-link" href="#evaluation">Evaluate Model</a></li>
+            <li class="nav-item"><a class="nav-link" href="#advanced-usage">Advanced Usage</a></li>
+        </ul>
+    </div>
+</nav>
+<div class="container">
+    <section id="introduction">
+        <h2>Introduction</h2>
+        <p><strong>FaceLab</strong> is an advanced framework for training and generating facial images based on deep learning techniques. It utilizes <strong>Generative Adversarial Networks (GANs)</strong> to create highly realistic human faces. The core engine is based on techniques similar to <strong>StyleGAN</strong> but optimized specifically for facial image generation.</p>
+        <p>This documentation provides all the necessary steps, commands, and configurations for setting up FaceLab and training models for face generation.</p>
+    </section>
+    <section id="installation">
+        <h2>Installation</h2>
+        <h3>Step 1: Install Dependencies</h3>
+        <ol>
+            <li>Clone the repository:</li>
+        </ol>
+        <pre><code class="language-plaintext">git clone https://github.com/yourusername/FaceLab.git
+cd FaceLab</code></pre>
+        <ol>
+            <li>Install required libraries:</li>
+        </ol>
+        <pre><code class="language-plaintext">pip install -r requirements.txt</code></pre>
+        <h3>Step 2: Set Up the Environment</h3>
+        <p>Make sure you have Python 3.8+ and <strong>CUDA</strong> installed for GPU acceleration.</p>
+        <ol>
+            <li>Create a Python virtual environment (optional but recommended):</li>
+        </ol>
+        <pre><code class="language-plaintext">python3 -m venv facelab_env
+source facelab_env/bin/activate   # For Unix/macOS
+facelab_env\Scripts\activate      # For Windows</code></pre>
+        <ol>
+            <li>Install additional dependencies for FaceLab:</li>
+        </ol>
+        <pre><code class="language-plaintext">pip install tensorflow-gpu</code></pre>
+    </section>
+    <section id="training">
+        <h2>Training a Model</h2>
+        <h3>Step 1: Organize Data</h3>
+        <p>Place your aligned images (preferably cropped and high quality) in a folder. Example:</p>
+        <pre><code class="language-plaintext">datasets/
+├── your_faces/
+    ├── image1.jpg
+    ├── image2.jpg
+    └── ...</code></pre>
+        <h3>Step 2: Preprocess Your Data</h3>
+        <p>Run the following command to preprocess the dataset. This will resize and align the images:</p>
+        <pre><code class="language-plaintext">python preprocess_data.py --input_path datasets/your_faces --output_path datasets/processed</code></pre>
+        <h3>Step 3: Configure Training</h3>
+        <p>Inside the <code>config</code> folder, there is a configuration file <code>train_config.yml</code> where you can set training parameters:</p>
+        <ul>
+            <li><strong>batch_size</strong>: Size of the training batch.</li>
+            <li><strong>num_steps</strong>: Number of training steps.</li>
+            <li><strong>image_size</strong>: Size of the images (typically 256x256 or 1024x1024).</li>
+            <li><strong>learning_rate</strong>: Learning rate for the optimizer.</li>
+        </ul>
+        <h3>Step 4: Start Training</h3>
+        <p>Start the training process by running the following command:</p>
+        <pre><code class="language-plaintext">python train.py --config config/train_config.yml</code></pre>
+        <p>If you want to resume training from a checkpoint, use the <code>--resume</code> flag:</p>
+        <pre><code class="language-plaintext">python train.py --config config/train_config.yml --resume logs/checkpoint_001.pkl</code></pre>
+    </section>
+    <section id="generate">
+        <h2>Generating Faces</h2>
+        <p>Once your model is trained, you can generate faces by running:</p>
+        <pre><code class="language-plaintext">python generate.py --model_path logs/final_model.pkl --output_path generated_faces</code></pre>
+        <p>To generate multiple faces, you can specify the number of images to create:</p>
+        <pre><code class="language-plaintext">python generate.py --model_path logs/final_model.pkl --output_path generated_faces --num_images 10</code></pre>
+    </section>
+    <section id="evaluation">
+        <h2>Evaluating the Model</h2>
+        <h3>Step 1: Visualizing Latent Space</h3>
+        <p>Visualize the latent space of your model using the following command:</p>
+        <pre><code class="language-plaintext">python visualize_latent_space.py --model_path logs/final_model.pkl</code></pre>
+        <h3>Step 2: Quality Metrics</h3>
+        <p>To evaluate the quality of generated faces, you can use the <strong>Fréchet Inception Distance (FID)</strong> metric:</p>
+        <pre><code class="language-plaintext">python evaluate.py --model_path logs/final_model.pkl --dataset datasets/your_faces --metric fid</code></pre>
+    </section>
+    <section id="advanced-usage">
+        <h2>Advanced Usage</h2>
+        <h3>Fine-tuning an Existing Model</h3>
+        <p>To fine-tune a pre-trained model, use the <code>--fine_tune</code> flag:</p>
+        <pre><code class="language-plaintext">python train.py --config config/train_config.yml --fine_tune --model_path logs/final_model.pkl</code></pre>
+        <h3>Custom Network Architectures</h3>
+        <p>You can customize the architecture of the model by editing the settings in the <code>config</code> folder. Adjust layer sizes, activation functions, and other hyperparameters as needed.</p>
+    </section>
+    <footer>
+        
+    </footer>
+</div>
+<script src="https://cdn.jsdelivr.net/npm/@popperjs/core@2.11.6/dist/umd/popper.min.js"></script>
+<script src="https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/js/bootstrap.min.js"></script>
